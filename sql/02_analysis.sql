@@ -1,95 +1,10 @@
 /* ============================================================================
    UrbanCart Sales & Customer Intelligence Project
-   ----------------------------------------------------------------------------
-   See 01_Problem_Statement.md for the business context.
+   Analysis: 15 business questions across sales, products, customers,
+   channels, regions, discounts, and returns.
 
-   This file is split into two parts:
-     PART A — Schema: creates the 5 tables and loads the CSVs in raw_data/
-     PART B — Analysis: 15 business questions, grouped into 5 sections,
-              each with a plain-English comment before the SQL.
-
-   Written in standard SQL (CTEs + window functions). Tested against SQLite;
-   runs unmodified on PostgreSQL and MySQL 8+. Notes below cover the couple of
-   places syntax differs.
+   Run sql/01_data_preparation.sql and import the CSV files first.
    ============================================================================ */
-
-
-/* ============================================================================
-   PART A — SCHEMA
-   ============================================================================ */
-
-CREATE TABLE stores (
-    store_id     INT PRIMARY KEY,
-    store_name   VARCHAR(100) NOT NULL,
-    city         VARCHAR(50)  NOT NULL,
-    region       VARCHAR(20)  NOT NULL          -- North / South / East / West / Online
-);
-
-CREATE TABLE products (
-    product_id   INT PRIMARY KEY,
-    product_name VARCHAR(100) NOT NULL,
-    category     VARCHAR(50)  NOT NULL,
-    unit_price   DECIMAL(10,2) NOT NULL,        -- selling price (before discount)
-    unit_cost    DECIMAL(10,2) NOT NULL,         -- what it costs UrbanCart to source it
-    supplier     VARCHAR(100)
-);
-
-CREATE TABLE customers (
-    customer_id      INT PRIMARY KEY,
-    customer_name    VARCHAR(100) NOT NULL,
-    email            VARCHAR(150),
-    gender           VARCHAR(10),
-    age              INT,
-    city             VARCHAR(50),
-    region           VARCHAR(20),
-    signup_date      DATE NOT NULL,
-    customer_segment VARCHAR(20)                -- Regular / Premium / New (loyalty tier)
-);
-
-CREATE TABLE orders (
-    order_id       INT PRIMARY KEY,
-    customer_id    INT NOT NULL REFERENCES customers(customer_id),
-    store_id       INT NOT NULL REFERENCES stores(store_id),
-    order_date     DATE NOT NULL,
-    channel        VARCHAR(20)  NOT NULL,        -- Online / In-Store
-    payment_method VARCHAR(30),
-    order_status   VARCHAR(20)  NOT NULL         -- Delivered / Returned / Cancelled
-);
-
-CREATE TABLE order_items (
-    order_item_id INT PRIMARY KEY,
-    order_id      INT NOT NULL REFERENCES orders(order_id),
-    product_id    INT NOT NULL REFERENCES products(product_id),
-    quantity      INT NOT NULL,
-    unit_price    DECIMAL(10,2) NOT NULL,        -- price at time of sale
-    discount_pct  INT NOT NULL DEFAULT 0          -- 0, 5, 10, 15 or 20
-);
-
-/* --- Loading the data ---------------------------------------------------
-   Load in this order (parents before children, so foreign keys resolve):
-   stores -> products -> customers -> orders -> order_items
-
-   PostgreSQL (run from psql, adjust path):
-     \copy stores       FROM 'raw_data/stores.csv'       CSV HEADER;
-     \copy products     FROM 'raw_data/products.csv'     CSV HEADER;
-     \copy customers    FROM 'raw_data/customers.csv'    CSV HEADER;
-     \copy orders       FROM 'raw_data/orders.csv'       CSV HEADER;
-     \copy order_items  FROM 'raw_data/order_items.csv'  CSV HEADER;
-
-   MySQL (enable local_infile, adjust path):
-     LOAD DATA LOCAL INFILE 'raw_data/stores.csv' INTO TABLE stores
-       FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
-     -- repeat for products, customers, orders, order_items
-
-   SQLite (from the sqlite3 CLI):
-     .mode csv
-     .import --skip 1 raw_data/stores.csv stores
-     -- repeat for the remaining 4 tables
-
-   Any GUI tool (DBeaver, MySQL Workbench, pgAdmin) can also import each CSV
-   through its "Import Wizard" pointed at the matching table.
-   ---------------------------------------------------------------------- */
-
 
 /* ============================================================================
    PART B — ANALYSIS
