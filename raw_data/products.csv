@@ -1,0 +1,181 @@
+product_id,product_name,category,unit_price,unit_cost,supplier
+1,Wireless Earbuds - Model 1,Electronics,2759.0,2042.05,"Rodriguez, Figueroa and Sanchez"
+2,Wireless Earbuds - Model 2,Electronics,4619.0,3093.49,Doyle Ltd
+3,Wireless Earbuds - Model 3,Electronics,1619.0,940.96,"Mcclain, Miller and Henderson"
+4,Bluetooth Speaker - Model 1,Electronics,1109.0,802.07,Davis and Sons
+5,Bluetooth Speaker - Model 2,Electronics,3939.0,2724.27,"Guzman, Hoffman and Baldwin"
+6,Bluetooth Speaker - Model 3,Electronics,919.0,683.72,"Gardner, Robinson and Lawrence"
+7,Smartwatch - Model 1,Electronics,5139.0,3044.69,Blake and Sons
+8,Smartwatch - Model 2,Electronics,1759.0,1031.97,"Henderson, Ramirez and Lewis"
+9,Smartwatch - Model 3,Electronics,2389.0,1564.68,Garcia-James
+10,Laptop Bag - Model 1,Electronics,3059.0,1860.62,Abbott-Munoz
+11,Laptop Bag - Model 2,Electronics,3989.0,2305.24,Blair PLC
+12,Laptop Bag - Model 3,Electronics,2329.0,1451.6,Dudley Group
+13,Power Bank - Model 1,Electronics,3179.0,2247.66,Arnold Ltd
+14,Power Bank - Model 2,Electronics,1849.0,1207.11,"Mcclure, Ward and Lee"
+15,Power Bank - Model 3,Electronics,3889.0,2175.08,Williams and Sons
+16,USB-C Charger - Model 1,Electronics,3969.0,2318.31,Galloway-Wyatt
+17,USB-C Charger - Model 2,Electronics,1149.0,850.0,James Group
+18,USB-C Charger - Model 3,Electronics,5829.0,4148.38,"Flowers, Martin and Kelly"
+19,Wireless Mouse - Model 1,Electronics,2389.0,1360.62,"Adams, Zuniga and Wong"
+20,Wireless Mouse - Model 2,Electronics,4369.0,2787.56,"Reid, Ferguson and Sanchez"
+21,Wireless Mouse - Model 3,Electronics,1439.0,933.96,Gray-Mayo
+22,Webcam - Model 1,Electronics,989.0,723.81,"Watts, Robinson and Nguyen"
+23,Webcam - Model 2,Electronics,2159.0,1473.53,Perez Inc
+24,Webcam - Model 3,Electronics,2429.0,1588.6,Morales-Jones
+25,Gaming Headset - Model 1,Electronics,3649.0,2141.86,"Walter, Edwards and Rios"
+26,Gaming Headset - Model 2,Electronics,5849.0,4123.7,Wilkerson-Day
+27,Gaming Headset - Model 3,Electronics,5699.0,4154.37,Baker and Sons
+28,Tablet Stand - Model 1,Electronics,3919.0,2878.02,"Hoffman, Baker and Richards"
+29,Tablet Stand - Model 2,Electronics,1269.0,747.69,"Ross, Robinson and Bright"
+30,Tablet Stand - Model 3,Electronics,1049.0,645.2,"Snyder, Campos and Callahan"
+31,Air Fryer - Model 1,Home & Kitchen,2199.0,1328.79,Burton Ltd
+32,Air Fryer - Model 2,Home & Kitchen,4219.0,2621.48,Carlson-Cruz
+33,Air Fryer - Model 3,Home & Kitchen,1699.0,1118.86,"Ferrell, Rice and Maddox"
+34,Non-stick Pan Set - Model 1,Home & Kitchen,1059.0,752.36,Frazier Inc
+35,Non-stick Pan Set - Model 2,Home & Kitchen,749.0,559.79,"Dyer, Potter and Mack"
+36,Non-stick Pan Set - Model 3,Home & Kitchen,3959.0,2334.79,Rodriguez-Graham
+37,Electric Kettle - Model 1,Home & Kitchen,439.0,313.05,Smith-Bowen
+38,Electric Kettle - Model 2,Home & Kitchen,3659.0,2545.94,"Baker, Mason and White"
+39,Electric Kettle - Model 3,Home & Kitchen,3959.0,2236.08,Harrell LLC
+40,Blender - Model 1,Home & Kitchen,2059.0,1180.16,"Romero, Gonzalez and Brooks"
+41,Blender - Model 2,Home & Kitchen,4379.0,2954.33,Ryan PLC
+42,Blender - Model 3,Home & Kitchen,1929.0,1085.47,George Group
+43,Vacuum Cleaner - Model 1,Home & Kitchen,1839.0,1131.05,Rodriguez LLC
+44,Vacuum Cleaner - Model 2,Home & Kitchen,3769.0,2553.54,Allen-Allen
+45,Vacuum Cleaner - Model 3,Home & Kitchen,4489.0,2892.9,"Arroyo, Miller and Tucker"
+46,Bedsheet Set - Model 1,Home & Kitchen,959.0,664.25,Spence PLC
+47,Bedsheet Set - Model 2,Home & Kitchen,3909.0,2588.76,Anderson Group
+48,Bedsheet Set - Model 3,Home & Kitchen,3959.0,2568.44,"Martin, Rose and Obrien"
+49,Table Lamp - Model 1,Home & Kitchen,2809.0,1785.14,Hickman Ltd
+50,Table Lamp - Model 2,Home & Kitchen,529.0,302.36,"Harris, Collins and Carney"
+51,Table Lamp - Model 3,Home & Kitchen,549.0,371.83,"Brooks, Lam and Hayes"
+52,Storage Organizer - Model 1,Home & Kitchen,1859.0,1211.54,Walker LLC
+53,Storage Organizer - Model 2,Home & Kitchen,4579.0,2746.75,Chapman and Sons
+54,Storage Organizer - Model 3,Home & Kitchen,2299.0,1611.85,"Robinson, Jones and Welch"
+55,Coffee Maker - Model 1,Home & Kitchen,1459.0,824.91,Jones Inc
+56,Coffee Maker - Model 2,Home & Kitchen,1739.0,1012.52,Jones-Young
+57,Coffee Maker - Model 3,Home & Kitchen,4689.0,3336.81,"Washington, Ryan and Cummings"
+58,Cushion Cover Set - Model 1,Home & Kitchen,3319.0,2403.93,"Johnston, Sanchez and Kennedy"
+59,Cushion Cover Set - Model 2,Home & Kitchen,4109.0,2413.27,Lee-Davis
+60,Cushion Cover Set - Model 3,Home & Kitchen,4519.0,2972.91,Gomez-Jenkins
+61,Men's T-Shirt - Model 1,Fashion,2489.0,1815.02,"Brown, Valdez and Lucas"
+62,Men's T-Shirt - Model 2,Fashion,1169.0,668.68,Powell LLC
+63,Men's T-Shirt - Model 3,Fashion,929.0,590.31,Wright and Sons
+64,Women's Kurti - Model 1,Fashion,2519.0,1819.09,"West, Henderson and Ramirez"
+65,Women's Kurti - Model 2,Fashion,329.0,214.56,Baxter Inc
+66,Women's Kurti - Model 3,Fashion,1439.0,855.37,Morton-Chase
+67,Denim Jacket - Model 1,Fashion,629.0,388.42,Williams PLC
+68,Denim Jacket - Model 2,Fashion,2859.0,1757.26,Novak and Sons
+69,Denim Jacket - Model 3,Fashion,1709.0,1180.24,Russell Group
+70,Running Shoes - Model 1,Fashion,1289.0,959.48,Hancock Inc
+71,Running Shoes - Model 2,Fashion,2909.0,1746.44,Gray Group
+72,Running Shoes - Model 3,Fashion,1649.0,1006.18,House-Glover
+73,Formal Shirt - Model 1,Fashion,1079.0,601.41,Henderson-Bernard
+74,Formal Shirt - Model 2,Fashion,1959.0,1274.4,"Stanley, Tucker and Lee"
+75,Formal Shirt - Model 3,Fashion,449.0,271.97,Novak PLC
+76,Sunglasses - Model 1,Fashion,2759.0,1649.64,"Daniels, Adkins and Brown"
+77,Sunglasses - Model 2,Fashion,699.0,452.88,"Woods, Calhoun and Schmidt"
+78,Sunglasses - Model 3,Fashion,2969.0,1776.68,Yu Inc
+79,Leather Wallet - Model 1,Fashion,2119.0,1488.22,Jones Inc
+80,Leather Wallet - Model 2,Fashion,949.0,660.17,"Hensley, Powell and David"
+81,Leather Wallet - Model 3,Fashion,1299.0,878.72,"Sanchez, Wheeler and Harvey"
+82,Backpack - Model 1,Fashion,2019.0,1326.8,Sandoval-Cunningham
+83,Backpack - Model 2,Fashion,549.0,393.67,Donovan-Harris
+84,Backpack - Model 3,Fashion,1179.0,692.43,"Edwards, Baker and Anderson"
+85,Sneakers - Model 1,Fashion,419.0,279.97,"Evans, Stewart and Walton"
+86,Sneakers - Model 2,Fashion,2139.0,1183.55,Smith PLC
+87,Sneakers - Model 3,Fashion,1689.0,1005.46,"Ferrell, Jones and Lewis"
+88,Watch - Model 1,Fashion,2049.0,1198.41,Anderson-Bailey
+89,Watch - Model 2,Fashion,2179.0,1366.99,Suarez LLC
+90,Watch - Model 3,Fashion,2839.0,1639.53,Moore-Bass
+91,Face Wash - Model 1,Beauty,719.0,411.77,"Turner, Riggs and Roman"
+92,Face Wash - Model 2,Beauty,1689.0,1225.32,"Smith, Montoya and Evans"
+93,Face Wash - Model 3,Beauty,589.0,401.7,"Garcia, Humphrey and Baker"
+94,Moisturizer - Model 1,Beauty,1509.0,997.51,Newton and Sons
+95,Moisturizer - Model 2,Beauty,1029.0,615.72,Campbell-Clark
+96,Moisturizer - Model 3,Beauty,309.0,225.4,Harris-Walters
+97,Lipstick Set - Model 1,Beauty,1649.0,1115.75,Wagner-King
+98,Lipstick Set - Model 2,Beauty,719.0,445.67,Davis Group
+99,Lipstick Set - Model 3,Beauty,1359.0,991.28,Williams-Cook
+100,Hair Dryer - Model 1,Beauty,1619.0,1142.97,Walsh LLC
+101,Hair Dryer - Model 2,Beauty,1219.0,690.96,Figueroa PLC
+102,Hair Dryer - Model 3,Beauty,429.0,313.05,"Patterson, Smith and Jones"
+103,Perfume - Model 1,Beauty,1159.0,639.58,"Mckee, Gardner and Davenport"
+104,Perfume - Model 2,Beauty,329.0,224.61,"Tran, Jordan and Williams"
+105,Perfume - Model 3,Beauty,169.0,98.39,Nolan-Flynn
+106,Sunscreen SPF50 - Model 1,Beauty,1069.0,735.88,Nolan and Sons
+107,Sunscreen SPF50 - Model 2,Beauty,1239.0,737.02,"Wright, Garcia and Deleon"
+108,Sunscreen SPF50 - Model 3,Beauty,1339.0,799.99,Dickson-Brady
+109,Shampoo Pack - Model 1,Beauty,699.0,488.81,Hancock and Sons
+110,Shampoo Pack - Model 2,Beauty,1229.0,884.69,Johnson-Doyle
+111,Shampoo Pack - Model 3,Beauty,1249.0,828.91,Patton-Jenkins
+112,Face Serum - Model 1,Beauty,309.0,192.67,"Shields, Cochran and Adams"
+113,Face Serum - Model 2,Beauty,599.0,358.68,"Rodriguez, Brennan and Garrison"
+114,Face Serum - Model 3,Beauty,1769.0,1112.03,Gonzalez Group
+115,Trimmer - Model 1,Beauty,1629.0,1101.57,Torres-Pope
+116,Trimmer - Model 2,Beauty,1469.0,955.62,Walker Ltd
+117,Trimmer - Model 3,Beauty,1109.0,719.19,Ross LLC
+118,Nail Care Kit - Model 1,Beauty,479.0,332.66,Rasmussen LLC
+119,Nail Care Kit - Model 2,Beauty,619.0,343.46,May-Ross
+120,Nail Care Kit - Model 3,Beauty,1229.0,719.48,"Rivera, Johnson and Wiley"
+121,Yoga Mat - Model 1,Sports & Fitness,3789.0,2806.84,White-Estes
+122,Yoga Mat - Model 2,Sports & Fitness,3689.0,2302.05,Johnson-Carlson
+123,Yoga Mat - Model 3,Sports & Fitness,319.0,234.68,Chandler-Edwards
+124,Dumbbell Set - Model 1,Sports & Fitness,1869.0,1389.29,"Joyce, Wilson and Lam"
+125,Dumbbell Set - Model 2,Sports & Fitness,3869.0,2788.01,Scott Ltd
+126,Dumbbell Set - Model 3,Sports & Fitness,1359.0,852.12,Smith-Frost
+127,Resistance Bands - Model 1,Sports & Fitness,3449.0,2115.56,"Mcdaniel, Bentley and Mclaughlin"
+128,Resistance Bands - Model 2,Sports & Fitness,899.0,594.56,Diaz Inc
+129,Resistance Bands - Model 3,Sports & Fitness,3769.0,2597.62,"Mccall, Hanson and Alvarado"
+130,Cricket Bat - Model 1,Sports & Fitness,2399.0,1366.08,Cortez LLC
+131,Cricket Bat - Model 2,Sports & Fitness,2569.0,1921.64,"Parker, Ortiz and Powell"
+132,Cricket Bat - Model 3,Sports & Fitness,789.0,515.74,Spencer-Lee
+133,Football - Model 1,Sports & Fitness,3549.0,2477.75,"Bentley, Byrd and Orr"
+134,Football - Model 2,Sports & Fitness,2869.0,1981.04,"Carroll, Sullivan and Bass"
+135,Football - Model 3,Sports & Fitness,1609.0,979.43,Mitchell-Jordan
+136,Skipping Rope - Model 1,Sports & Fitness,3299.0,2348.96,"Lawson, Morris and Ramos"
+137,Skipping Rope - Model 2,Sports & Fitness,3509.0,2570.86,"Lewis, Kennedy and Santana"
+138,Skipping Rope - Model 3,Sports & Fitness,2179.0,1417.01,"Jackson, Miller and Robertson"
+139,Gym Gloves - Model 1,Sports & Fitness,3249.0,2209.3,"Harvey, Davis and Crane"
+140,Gym Gloves - Model 2,Sports & Fitness,2889.0,2048.76,Chambers and Sons
+141,Gym Gloves - Model 3,Sports & Fitness,3599.0,2222.74,Hernandez Inc
+142,Water Bottle - Model 1,Sports & Fitness,1669.0,949.32,Riggs PLC
+143,Water Bottle - Model 2,Sports & Fitness,2429.0,1353.41,Gibson Ltd
+144,Water Bottle - Model 3,Sports & Fitness,2009.0,1322.98,"Lee, Horton and Snyder"
+145,Fitness Tracker - Model 1,Sports & Fitness,1329.0,887.99,Hernandez Ltd
+146,Fitness Tracker - Model 2,Sports & Fitness,369.0,205.71,Stafford Inc
+147,Fitness Tracker - Model 3,Sports & Fitness,3339.0,2076.99,Robinson-Brock
+148,Badminton Racket - Model 1,Sports & Fitness,739.0,483.64,"Holmes, Williams and Wright"
+149,Badminton Racket - Model 2,Sports & Fitness,3149.0,1867.87,Bryant Group
+150,Badminton Racket - Model 3,Sports & Fitness,2599.0,1473.81,"Schmidt, Hansen and Stewart"
+151,Notebook Pack - Model 1,Books & Stationery,149.0,97.78,Salazar-Ball
+152,Notebook Pack - Model 2,Books & Stationery,539.0,365.16,"Simmons, Meadows and Griffin"
+153,Notebook Pack - Model 3,Books & Stationery,689.0,513.42,Manning Group
+154,Fiction Novel - Model 1,Books & Stationery,519.0,318.97,Green-Wright
+155,Fiction Novel - Model 2,Books & Stationery,749.0,452.52,"Ramirez, Strickland and Washington"
+156,Fiction Novel - Model 3,Books & Stationery,459.0,259.65,Hill Inc
+157,Self-Help Book - Model 1,Books & Stationery,129.0,95.79,"Mitchell, Nelson and Flores"
+158,Self-Help Book - Model 2,Books & Stationery,779.0,536.88,"Miller, Hernandez and Reyes"
+159,Self-Help Book - Model 3,Books & Stationery,439.0,256.67,Mccarthy Inc
+160,Sketch Pens - Model 1,Books & Stationery,229.0,137.41,Russell-Daniels
+161,Sketch Pens - Model 2,Books & Stationery,549.0,380.41,Brown-Wall
+162,Sketch Pens - Model 3,Books & Stationery,639.0,387.23,Stein-Silva
+163,Planner Diary - Model 1,Books & Stationery,869.0,606.2,"Smith, Gilmore and Johnston"
+164,Planner Diary - Model 2,Books & Stationery,549.0,369.12,Smith-Bell
+165,Planner Diary - Model 3,Books & Stationery,449.0,269.2,Castaneda-Ashley
+166,Pen Set - Model 1,Books & Stationery,389.0,272.91,Medina-Navarro
+167,Pen Set - Model 2,Books & Stationery,119.0,68.21,"Hurst, Freeman and Nelson"
+168,Pen Set - Model 3,Books & Stationery,149.0,83.16,Johnson-Rogers
+169,Kids Story Book - Model 1,Books & Stationery,789.0,544.99,"Yates, Ramsey and Pittman"
+170,Kids Story Book - Model 2,Books & Stationery,489.0,278.52,Hooper PLC
+171,Kids Story Book - Model 3,Books & Stationery,499.0,321.7,Meadows PLC
+172,Business Book - Model 1,Books & Stationery,249.0,158.56,"Alvarado, Miller and Patterson"
+173,Business Book - Model 2,Books & Stationery,429.0,288.79,White-Green
+174,Business Book - Model 3,Books & Stationery,619.0,346.06,Lewis-Murphy
+175,Comic Pack - Model 1,Books & Stationery,409.0,276.15,Ramirez-Bean
+176,Comic Pack - Model 2,Books & Stationery,509.0,367.14,King-Miller
+177,Comic Pack - Model 3,Books & Stationery,639.0,372.27,Curry Inc
+178,Desk Organizer - Model 1,Books & Stationery,169.0,114.66,Walker-Jones
+179,Desk Organizer - Model 2,Books & Stationery,129.0,86.06,"Williams, Johnson and Wright"
+180,Desk Organizer - Model 3,Books & Stationery,859.0,571.32,Howell and Sons

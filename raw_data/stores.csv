@@ -1,0 +1,18 @@
+store_id,store_name,city,region
+1,UrbanCart Delhi Store,Delhi,North
+2,UrbanCart Chandigarh Store,Chandigarh,North
+3,UrbanCart Lucknow Store,Lucknow,North
+4,UrbanCart Jaipur Store,Jaipur,North
+5,UrbanCart Bengaluru Store,Bengaluru,South
+6,UrbanCart Chennai Store,Chennai,South
+7,UrbanCart Hyderabad Store,Hyderabad,South
+8,UrbanCart Kochi Store,Kochi,South
+9,UrbanCart Mumbai Store,Mumbai,West
+10,UrbanCart Pune Store,Pune,West
+11,UrbanCart Ahmedabad Store,Ahmedabad,West
+12,UrbanCart Surat Store,Surat,West
+13,UrbanCart Kolkata Store,Kolkata,East
+14,UrbanCart Bhubaneswar Store,Bhubaneswar,East
+15,UrbanCart Patna Store,Patna,East
+16,UrbanCart Guwahati Store,Guwahati,East
+17,UrbanCart Online,Online,Online

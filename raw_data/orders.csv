@@ -1,0 +1,3525 @@
+order_id,customer_id,store_id,order_date,channel,payment_method,order_status
+1,2,8,2025-08-23,In-Store,UPI,Delivered
+2,2,3,2025-09-30,In-Store,Cash on Delivery,Delivered
+3,2,17,2025-10-04,Online,UPI,Delivered
+4,2,17,2025-10-18,Online,Credit Card,Delivered
+5,2,17,2025-10-27,Online,Cash on Delivery,Returned
+6,2,17,2025-11-15,Online,Cash on Delivery,Delivered
+7,2,17,2025-12-11,Online,Credit Card,Cancelled
+8,2,6,2025-12-20,In-Store,Cash on Delivery,Returned
+9,3,17,2024-11-01,Online,Debit Card,Delivered
+10,3,17,2025-07-22,Online,Credit Card,Delivered
+11,3,17,2025-08-19,Online,Cash on Delivery,Delivered
+12,3,17,2025-10-12,Online,Net Banking,Delivered
+13,3,17,2025-12-17,Online,Credit Card,Delivered
+14,4,12,2024-05-13,In-Store,UPI,Delivered
+15,4,17,2025-12-01,Online,UPI,Delivered
+16,5,8,2024-04-21,In-Store,Credit Card,Cancelled
+17,5,17,2025-08-31,Online,Debit Card,Delivered
+18,6,17,2024-07-02,Online,Debit Card,Delivered
+19,8,17,2024-12-01,Online,UPI,Delivered
+20,8,17,2024-12-10,Online,Debit Card,Delivered
+21,8,8,2025-02-09,In-Store,Debit Card,Returned
+22,8,2,2025-03-01,In-Store,Credit Card,Delivered
+23,8,13,2025-05-24,In-Store,Credit Card,Delivered
+24,8,17,2025-08-21,Online,Debit Card,Delivered
+25,8,17,2025-12-13,Online,Net Banking,Delivered
+26,9,17,2024-07-17,Online,UPI,Delivered
+27,9,17,2024-10-22,Online,Cash on Delivery,Delivered
+28,9,17,2024-12-22,Online,Net Banking,Delivered
+29,9,13,2024-12-23,In-Store,UPI,Delivered
+30,9,5,2025-02-03,In-Store,Cash on Delivery,Delivered
+31,9,17,2025-06-18,Online,Credit Card,Delivered
+32,9,17,2025-07-15,Online,Net Banking,Delivered
+33,9,17,2025-11-25,Online,Net Banking,Delivered
+34,10,9,2024-02-27,In-Store,Credit Card,Delivered
+35,10,17,2024-04-24,Online,Cash on Delivery,Delivered
+36,10,11,2024-05-26,In-Store,Debit Card,Delivered
+37,10,17,2024-08-03,Online,Credit Card,Delivered
+38,10,9,2025-08-20,In-Store,UPI,Delivered
+39,10,17,2025-10-14,Online,Debit Card,Delivered
+40,10,7,2025-12-09,In-Store,Debit Card,Delivered
+41,11,17,2025-11-18,Online,Cash on Delivery,Cancelled
+42,12,17,2024-02-13,Online,Credit Card,Delivered
+43,12,17,2024-07-19,Online,Debit Card,Delivered
+44,12,17,2024-09-20,Online,Cash on Delivery,Delivered
+45,12,3,2024-09-27,In-Store,Cash on Delivery,Returned
+46,12,5,2024-10-26,In-Store,Cash on Delivery,Delivered
+47,12,6,2025-03-10,In-Store,Cash on Delivery,Delivered
+48,12,7,2025-06-14,In-Store,Debit Card,Returned
+49,12,17,2025-11-28,Online,Debit Card,Returned
+50,13,15,2025-11-02,In-Store,UPI,Delivered
+51,13,17,2025-11-13,Online,Credit Card,Delivered
+52,13,17,2025-11-27,Online,Cash on Delivery,Delivered
+53,13,17,2025-12-05,Online,Credit Card,Delivered
+54,13,17,2025-12-06,Online,Debit Card,Delivered
+55,13,17,2025-12-25,Online,Debit Card,Delivered
+56,14,17,2024-10-29,Online,Cash on Delivery,Delivered
+57,14,17,2025-10-19,Online,Net Banking,Delivered
+58,14,7,2025-10-25,In-Store,Credit Card,Delivered
+59,15,17,2025-10-22,Online,Net Banking,Delivered
+60,15,2,2025-10-28,In-Store,Credit Card,Returned
+61,15,17,2025-11-25,Online,Debit Card,Returned
+62,17,17,2025-12-19,Online,Net Banking,Delivered
+63,18,17,2025-10-14,Online,Net Banking,Delivered
+64,19,3,2024-07-07,In-Store,Credit Card,Delivered
+65,21,1,2024-07-24,In-Store,UPI,Delivered
+66,21,17,2024-12-09,Online,Net Banking,Delivered
+67,21,17,2024-12-29,Online,Credit Card,Delivered
+68,21,17,2024-12-29,Online,Net Banking,Delivered
+69,21,17,2024-12-30,Online,Net Banking,Cancelled
+70,21,17,2025-06-22,Online,Cash on Delivery,Returned
+71,21,17,2025-09-27,Online,UPI,Delivered
+72,21,17,2025-11-15,Online,Credit Card,Delivered
+73,23,17,2025-05-18,Online,Net Banking,Delivered
+74,23,17,2025-07-06,Online,Cash on Delivery,Cancelled
+75,24,17,2025-03-22,Online,Credit Card,Delivered
+76,25,17,2025-08-26,Online,UPI,Delivered
+77,26,17,2025-05-28,Online,UPI,Delivered
+78,26,17,2025-08-06,Online,Cash on Delivery,Delivered
+79,26,17,2025-08-25,Online,Cash on Delivery,Returned
+80,26,17,2025-09-11,Online,Debit Card,Delivered
+81,26,17,2025-12-14,Online,Debit Card,Returned
+82,26,17,2025-12-24,Online,UPI,Delivered
+83,27,17,2024-10-20,Online,Credit Card,Cancelled
+84,27,17,2025-11-05,Online,Cash on Delivery,Delivered
+85,30,17,2025-12-18,Online,Debit Card,Delivered
+86,31,12,2025-06-23,In-Store,UPI,Delivered
+87,31,17,2025-08-21,Online,Debit Card,Delivered
+88,31,17,2025-10-08,Online,Cash on Delivery,Cancelled
+89,33,4,2025-09-03,In-Store,Debit Card,Delivered
+90,33,17,2025-10-26,Online,Cash on Delivery,Delivered
+91,34,17,2024-03-03,Online,UPI,Delivered
+92,34,17,2024-05-15,Online,Debit Card,Delivered
+93,34,17,2024-07-24,Online,Credit Card,Delivered
+94,34,17,2024-10-27,Online,Debit Card,Delivered
+95,34,17,2024-11-30,Online,UPI,Delivered
+96,34,17,2025-08-28,Online,UPI,Delivered
+97,34,14,2025-09-07,In-Store,Credit Card,Delivered
+98,34,17,2025-10-09,Online,UPI,Returned
+99,34,17,2025-10-15,Online,Debit Card,Cancelled
+100,34,17,2025-12-21,Online,Net Banking,Delivered
+101,35,17,2025-09-15,Online,Credit Card,Delivered
+102,35,7,2025-10-07,In-Store,UPI,Returned
+103,35,17,2025-10-08,Online,Cash on Delivery,Delivered
+104,35,14,2025-10-24,In-Store,UPI,Delivered
+105,35,8,2025-10-25,In-Store,UPI,Cancelled
+106,35,6,2025-10-25,In-Store,Credit Card,Delivered
+107,35,17,2025-11-05,Online,Net Banking,Delivered
+108,35,8,2025-11-08,In-Store,UPI,Delivered
+109,35,4,2025-11-09,In-Store,Credit Card,Delivered
+110,35,8,2025-11-23,In-Store,Cash on Delivery,Delivered
+111,36,17,2024-04-30,Online,UPI,Cancelled
+112,36,17,2024-05-28,Online,UPI,Returned
+113,36,17,2024-12-03,Online,Credit Card,Delivered
+114,36,9,2024-12-10,In-Store,Cash on Delivery,Delivered
+115,36,17,2025-03-19,Online,Cash on Delivery,Cancelled
+116,37,4,2024-10-27,In-Store,UPI,Delivered
+117,37,17,2025-04-11,Online,Credit Card,Delivered
+118,39,17,2025-10-14,Online,Debit Card,Returned
+119,39,17,2025-11-16,Online,Credit Card,Delivered
+120,39,17,2025-11-25,Online,UPI,Delivered
+121,39,17,2025-12-03,Online,Net Banking,Returned
+122,39,17,2025-12-07,Online,Cash on Delivery,Cancelled
+123,39,17,2025-12-17,Online,UPI,Returned
+124,39,17,2025-12-21,Online,Debit Card,Delivered
+125,40,17,2025-07-23,Online,Debit Card,Delivered
+126,40,17,2025-12-21,Online,Net Banking,Returned
+127,41,17,2024-10-20,Online,Cash on Delivery,Delivered
+128,41,17,2025-12-17,Online,Net Banking,Delivered
+129,42,17,2025-10-13,Online,Net Banking,Delivered
+130,44,17,2024-01-16,Online,Cash on Delivery,Delivered
+131,44,17,2024-02-04,Online,Net Banking,Delivered
+132,44,17,2024-04-02,Online,UPI,Returned
+133,44,17,2024-06-25,Online,UPI,Cancelled
+134,44,17,2024-07-21,Online,Cash on Delivery,Delivered
+135,44,17,2024-12-07,Online,Debit Card,Delivered
+136,44,17,2025-05-04,Online,UPI,Cancelled
+137,44,17,2025-07-19,Online,UPI,Delivered
+138,44,17,2025-09-05,Online,UPI,Delivered
+139,44,3,2025-09-06,In-Store,Cash on Delivery,Delivered
+140,44,7,2025-10-07,In-Store,Cash on Delivery,Returned
+141,44,17,2025-11-11,Online,UPI,Delivered
+142,46,8,2024-10-12,In-Store,Cash on Delivery,Delivered
+143,46,17,2025-03-30,Online,Credit Card,Delivered
+144,46,17,2025-11-25,Online,Net Banking,Cancelled
+145,47,15,2025-03-25,In-Store,Cash on Delivery,Delivered
+146,47,15,2025-11-27,In-Store,Cash on Delivery,Delivered
+147,48,17,2024-07-06,Online,Debit Card,Delivered
+148,48,16,2025-02-03,In-Store,UPI,Returned
+149,48,17,2025-12-21,Online,Debit Card,Delivered
+150,49,17,2025-12-22,Online,Cash on Delivery,Delivered
+151,51,17,2024-03-07,Online,UPI,Delivered
+152,51,17,2024-05-06,Online,Net Banking,Delivered
+153,51,17,2024-05-26,Online,Net Banking,Delivered
+154,51,17,2024-06-17,Online,Net Banking,Delivered
+155,51,17,2024-08-13,Online,Cash on Delivery,Cancelled
+156,51,1,2025-03-15,In-Store,Cash on Delivery,Cancelled
+157,51,17,2025-04-23,Online,Debit Card,Delivered
+158,51,14,2025-06-19,In-Store,UPI,Delivered
+159,51,17,2025-08-16,Online,Net Banking,Delivered
+160,51,17,2025-11-27,Online,Debit Card,Delivered
+161,52,17,2024-01-26,Online,UPI,Delivered
+162,52,5,2024-12-04,In-Store,Credit Card,Delivered
+163,52,1,2024-12-12,In-Store,Cash on Delivery,Delivered
+164,52,17,2025-01-02,Online,UPI,Delivered
+165,52,17,2025-05-18,Online,Debit Card,Delivered
+166,52,17,2025-08-16,Online,Debit Card,Delivered
+167,52,13,2025-08-18,In-Store,Cash on Delivery,Delivered
+168,52,17,2025-10-11,Online,Net Banking,Delivered
+169,53,2,2025-06-27,In-Store,UPI,Delivered
+170,53,17,2025-08-14,Online,Credit Card,Cancelled
+171,53,8,2025-09-30,In-Store,Credit Card,Delivered
+172,53,17,2025-10-04,Online,UPI,Delivered
+173,53,17,2025-10-20,Online,Cash on Delivery,Delivered
+174,53,15,2025-10-23,In-Store,Debit Card,Returned
+175,53,6,2025-11-30,In-Store,Credit Card,Delivered
+176,53,6,2025-12-06,In-Store,Credit Card,Delivered
+177,54,17,2024-12-06,Online,Cash on Delivery,Delivered
+178,54,17,2024-12-15,Online,Net Banking,Delivered
+179,54,7,2025-01-28,In-Store,UPI,Delivered
+180,54,17,2025-04-25,Online,Debit Card,Cancelled
+181,54,4,2025-05-24,In-Store,Credit Card,Cancelled
+182,54,17,2025-08-02,Online,Debit Card,Delivered
+183,54,17,2025-12-27,Online,Debit Card,Returned
+184,56,4,2024-01-13,In-Store,Debit Card,Delivered
+185,56,17,2024-02-07,Online,Net Banking,Cancelled
+186,56,17,2024-08-05,Online,UPI,Delivered
+187,56,9,2024-08-22,In-Store,Cash on Delivery,Delivered
+188,56,17,2024-09-12,Online,Cash on Delivery,Cancelled
+189,56,17,2024-10-09,Online,UPI,Cancelled
+190,56,3,2024-10-16,In-Store,Cash on Delivery,Delivered
+191,56,17,2024-10-20,Online,Cash on Delivery,Delivered
+192,56,17,2024-12-17,Online,Debit Card,Delivered
+193,56,17,2025-04-12,Online,Debit Card,Cancelled
+194,56,17,2025-11-08,Online,Debit Card,Delivered
+195,56,11,2025-11-25,In-Store,Debit Card,Delivered
+196,56,17,2025-11-26,Online,UPI,Delivered
+197,56,17,2025-12-13,Online,Net Banking,Returned
+198,57,17,2024-05-15,Online,Net Banking,Delivered
+199,57,17,2024-05-29,Online,Net Banking,Delivered
+200,57,3,2024-09-17,In-Store,UPI,Delivered
+201,58,17,2024-09-07,Online,Cash on Delivery,Delivered
+202,58,17,2024-12-07,Online,Cash on Delivery,Delivered
+203,58,17,2025-02-09,Online,Cash on Delivery,Returned
+204,59,17,2024-05-30,Online,Debit Card,Delivered
+205,59,17,2025-04-03,Online,Credit Card,Delivered
+206,60,17,2025-10-11,Online,Cash on Delivery,Returned
+207,61,17,2025-07-24,Online,Net Banking,Returned
+208,62,10,2025-08-04,In-Store,UPI,Delivered
+209,62,17,2025-11-13,Online,UPI,Delivered
+210,63,17,2025-08-29,Online,UPI,Delivered
+211,63,17,2025-10-13,Online,Cash on Delivery,Delivered
+212,63,17,2025-10-13,Online,Net Banking,Delivered
+213,63,17,2025-11-20,Online,Cash on Delivery,Delivered
+214,63,17,2025-12-17,Online,Net Banking,Delivered
+215,64,17,2024-07-25,Online,Debit Card,Delivered
+216,64,16,2025-11-05,In-Store,Credit Card,Delivered
+217,65,17,2024-03-24,Online,Credit Card,Delivered
+218,65,17,2025-01-22,Online,Cash on Delivery,Cancelled
+219,65,3,2025-03-04,In-Store,Credit Card,Delivered
+220,66,17,2024-06-04,Online,Cash on Delivery,Cancelled
+221,66,17,2024-11-11,Online,Net Banking,Delivered
+222,66,17,2025-12-27,Online,Debit Card,Delivered
+223,67,17,2024-03-15,Online,Credit Card,Delivered
+224,67,17,2024-06-29,Online,Credit Card,Returned
+225,67,7,2025-08-23,In-Store,UPI,Returned
+226,68,17,2024-07-19,Online,UPI,Delivered
+227,68,17,2024-09-25,Online,UPI,Delivered
+228,68,17,2024-10-17,Online,Cash on Delivery,Delivered
+229,68,17,2025-01-20,Online,UPI,Delivered
+230,68,17,2025-12-05,Online,Net Banking,Delivered
+231,70,17,2024-07-26,Online,Cash on Delivery,Delivered
+232,70,17,2024-09-06,Online,Net Banking,Delivered
+233,70,17,2024-09-09,Online,UPI,Delivered
+234,70,5,2024-10-05,In-Store,Credit Card,Delivered
+235,70,17,2024-10-13,Online,Cash on Delivery,Delivered
+236,70,10,2024-11-02,In-Store,Credit Card,Delivered
+237,70,17,2024-11-24,Online,Net Banking,Delivered
+238,70,16,2024-12-14,In-Store,Credit Card,Delivered
+239,70,17,2024-12-15,Online,Debit Card,Delivered
+240,70,17,2025-01-21,Online,Credit Card,Delivered
+241,70,17,2025-03-04,Online,Cash on Delivery,Returned
+242,70,17,2025-03-26,Online,Debit Card,Delivered
+243,70,17,2025-07-15,Online,UPI,Cancelled
+244,70,17,2025-07-23,Online,Net Banking,Returned
+245,70,6,2025-10-20,In-Store,Cash on Delivery,Delivered
+246,70,17,2025-10-26,Online,Credit Card,Delivered
+247,70,17,2025-12-02,Online,Debit Card,Delivered
+248,70,17,2025-12-28,Online,UPI,Delivered
+249,71,17,2025-03-12,Online,Debit Card,Delivered
+250,71,17,2025-03-16,Online,Cash on Delivery,Delivered
+251,71,17,2025-07-04,Online,Debit Card,Delivered
+252,71,17,2025-10-11,Online,Net Banking,Delivered
+253,71,1,2025-12-09,In-Store,Cash on Delivery,Returned
+254,72,17,2025-06-03,Online,Debit Card,Delivered
+255,72,17,2025-12-12,Online,Net Banking,Delivered
+256,72,7,2025-12-14,In-Store,UPI,Delivered
+257,73,17,2025-11-27,Online,Net Banking,Returned
+258,73,17,2025-12-06,Online,Cash on Delivery,Returned
+259,74,17,2025-03-16,Online,Cash on Delivery,Delivered
+260,74,17,2025-04-08,Online,Credit Card,Delivered
+261,74,17,2025-10-13,Online,Credit Card,Cancelled
+262,74,17,2025-11-01,Online,UPI,Delivered
+263,75,10,2025-09-02,In-Store,Debit Card,Delivered
+264,75,17,2025-10-19,Online,Net Banking,Delivered
+265,75,17,2025-10-27,Online,UPI,Delivered
+266,75,17,2025-11-07,Online,Cash on Delivery,Delivered
+267,75,5,2025-11-30,In-Store,Credit Card,Cancelled
+268,75,17,2025-12-13,Online,Net Banking,Cancelled
+269,76,9,2024-04-13,In-Store,Credit Card,Cancelled
+270,76,17,2024-09-15,Online,Cash on Delivery,Delivered
+271,76,17,2024-10-23,Online,Net Banking,Returned
+272,76,15,2024-12-07,In-Store,Cash on Delivery,Delivered
+273,76,17,2025-11-26,Online,Cash on Delivery,Delivered
+274,77,17,2024-07-23,Online,UPI,Delivered
+275,77,8,2024-08-11,In-Store,Cash on Delivery,Delivered
+276,77,17,2024-12-31,Online,Net Banking,Cancelled
+277,77,17,2025-04-11,Online,Net Banking,Returned
+278,77,17,2025-10-11,Online,Net Banking,Cancelled
+279,77,17,2025-12-06,Online,UPI,Returned
+280,78,5,2024-11-09,In-Store,Debit Card,Delivered
+281,78,15,2025-02-06,In-Store,Cash on Delivery,Delivered
+282,78,17,2025-12-21,Online,Net Banking,Delivered
+283,79,17,2025-07-13,Online,Debit Card,Cancelled
+284,80,17,2024-11-17,Online,Credit Card,Delivered
+285,80,13,2024-12-23,In-Store,Cash on Delivery,Delivered
+286,81,17,2024-09-17,Online,UPI,Delivered
+287,81,17,2024-09-30,Online,UPI,Delivered
+288,81,14,2024-11-28,In-Store,Credit Card,Delivered
+289,81,17,2024-12-11,Online,Debit Card,Returned
+290,81,2,2024-12-31,In-Store,Credit Card,Delivered
+291,81,17,2025-06-20,Online,Net Banking,Delivered
+292,81,17,2025-10-17,Online,Net Banking,Delivered
+293,82,17,2024-05-26,Online,UPI,Delivered
+294,82,17,2024-07-15,Online,Net Banking,Delivered
+295,82,17,2024-10-06,Online,Net Banking,Delivered
+296,82,5,2024-11-11,In-Store,Cash on Delivery,Delivered
+297,82,17,2025-02-02,Online,Debit Card,Delivered
+298,82,17,2025-05-16,Online,Net Banking,Cancelled
+299,82,6,2025-11-16,In-Store,Cash on Delivery,Delivered
+300,83,10,2024-02-18,In-Store,Cash on Delivery,Returned
+301,83,17,2024-12-14,Online,Debit Card,Delivered
+302,84,16,2025-03-09,In-Store,UPI,Delivered
+303,85,17,2024-02-12,Online,Debit Card,Delivered
+304,85,10,2025-10-06,In-Store,Cash on Delivery,Delivered
+305,85,17,2025-11-08,Online,Credit Card,Delivered
+306,86,10,2024-05-15,In-Store,UPI,Cancelled
+307,86,17,2025-10-02,Online,UPI,Delivered
+308,86,17,2025-10-05,Online,Debit Card,Delivered
+309,87,5,2025-07-24,In-Store,Credit Card,Returned
+310,87,2,2025-08-10,In-Store,Cash on Delivery,Delivered
+311,87,17,2025-08-26,Online,UPI,Delivered
+312,87,17,2025-09-21,Online,Debit Card,Delivered
+313,87,6,2025-10-08,In-Store,UPI,Delivered
+314,87,12,2025-11-04,In-Store,Debit Card,Delivered
+315,87,9,2025-11-15,In-Store,Cash on Delivery,Cancelled
+316,87,10,2025-11-23,In-Store,Debit Card,Returned
+317,88,17,2025-05-28,Online,UPI,Delivered
+318,88,8,2025-07-29,In-Store,Cash on Delivery,Cancelled
+319,88,12,2025-11-24,In-Store,Cash on Delivery,Delivered
+320,89,17,2024-03-01,Online,Net Banking,Delivered
+321,89,17,2025-01-02,Online,Debit Card,Returned
+322,89,17,2025-11-07,Online,Debit Card,Cancelled
+323,91,17,2024-11-21,Online,Cash on Delivery,Delivered
+324,92,8,2024-07-26,In-Store,Credit Card,Returned
+325,92,17,2024-10-27,Online,Debit Card,Delivered
+326,92,17,2024-10-30,Online,UPI,Delivered
+327,92,17,2025-05-30,Online,Debit Card,Delivered
+328,92,4,2025-06-10,In-Store,UPI,Delivered
+329,93,17,2024-09-12,Online,Debit Card,Delivered
+330,93,17,2024-09-27,Online,Cash on Delivery,Returned
+331,93,17,2024-11-25,Online,UPI,Returned
+332,93,4,2025-01-11,In-Store,Cash on Delivery,Cancelled
+333,93,17,2025-03-11,Online,Credit Card,Delivered
+334,93,17,2025-10-12,Online,Net Banking,Delivered
+335,93,17,2025-10-21,Online,Debit Card,Delivered
+336,95,17,2025-09-21,Online,Debit Card,Returned
+337,95,17,2025-10-16,Online,UPI,Delivered
+338,95,15,2025-10-18,In-Store,UPI,Delivered
+339,95,17,2025-10-23,Online,Credit Card,Delivered
+340,95,17,2025-11-03,Online,UPI,Delivered
+341,95,7,2025-11-03,In-Store,UPI,Delivered
+342,95,17,2025-11-21,Online,UPI,Cancelled
+343,95,17,2025-12-05,Online,Cash on Delivery,Delivered
+344,97,5,2025-07-18,In-Store,Debit Card,Delivered
+345,97,4,2025-12-23,In-Store,Credit Card,Returned
+346,98,17,2025-10-29,Online,UPI,Cancelled
+347,99,17,2025-11-21,Online,Credit Card,Delivered
+348,99,17,2025-12-11,Online,Cash on Delivery,Delivered
+349,102,17,2024-01-05,Online,Cash on Delivery,Delivered
+350,102,17,2024-05-05,Online,Cash on Delivery,Delivered
+351,102,17,2024-05-09,Online,Credit Card,Delivered
+352,102,10,2024-10-11,In-Store,Credit Card,Delivered
+353,102,17,2024-12-16,Online,Net Banking,Delivered
+354,102,17,2025-08-03,Online,Net Banking,Delivered
+355,103,17,2024-06-21,Online,Debit Card,Delivered
+356,103,17,2024-09-03,Online,UPI,Delivered
+357,103,17,2025-08-06,Online,Cash on Delivery,Returned
+358,104,17,2025-09-01,Online,Cash on Delivery,Delivered
+359,104,17,2025-12-06,Online,Cash on Delivery,Delivered
+360,105,17,2025-08-24,Online,Credit Card,Returned
+361,105,7,2025-09-13,In-Store,Cash on Delivery,Delivered
+362,105,14,2025-09-19,In-Store,Cash on Delivery,Delivered
+363,105,17,2025-10-15,Online,Credit Card,Returned
+364,105,17,2025-10-16,Online,Debit Card,Delivered
+365,105,17,2025-10-18,Online,Net Banking,Delivered
+366,105,17,2025-10-21,Online,Credit Card,Cancelled
+367,105,17,2025-10-27,Online,Debit Card,Delivered
+368,105,2,2025-10-31,In-Store,Debit Card,Delivered
+369,105,17,2025-11-02,Online,Debit Card,Delivered
+370,105,14,2025-12-04,In-Store,Credit Card,Cancelled
+371,105,10,2025-12-05,In-Store,Credit Card,Delivered
+372,105,17,2025-12-22,Online,UPI,Delivered
+373,105,17,2025-12-27,Online,Credit Card,Delivered
+374,106,12,2024-09-16,In-Store,Debit Card,Delivered
+375,106,17,2025-09-11,Online,Net Banking,Cancelled
+376,108,9,2024-03-07,In-Store,UPI,Delivered
+377,108,17,2024-04-10,Online,Debit Card,Cancelled
+378,108,12,2024-12-08,In-Store,UPI,Delivered
+379,108,13,2024-12-25,In-Store,UPI,Delivered
+380,108,1,2025-06-22,In-Store,UPI,Delivered
+381,108,17,2025-07-25,Online,Debit Card,Delivered
+382,108,17,2025-09-11,Online,Debit Card,Delivered
+383,111,17,2024-07-27,Online,Credit Card,Delivered
+384,113,17,2024-02-22,Online,Net Banking,Delivered
+385,113,17,2024-05-02,Online,Debit Card,Delivered
+386,113,17,2024-12-08,Online,Credit Card,Delivered
+387,113,17,2025-02-03,Online,Debit Card,Delivered
+388,113,17,2025-03-30,Online,Net Banking,Delivered
+389,113,17,2025-05-08,Online,Credit Card,Delivered
+390,113,17,2025-07-18,Online,Credit Card,Delivered
+391,113,17,2025-10-07,Online,UPI,Delivered
+392,113,9,2025-10-20,In-Store,Debit Card,Delivered
+393,113,17,2025-11-12,Online,Net Banking,Delivered
+394,113,17,2025-11-26,Online,Cash on Delivery,Delivered
+395,113,17,2025-12-18,Online,Cash on Delivery,Delivered
+396,114,3,2024-02-22,In-Store,Credit Card,Delivered
+397,114,17,2024-10-01,Online,Credit Card,Delivered
+398,114,14,2024-12-21,In-Store,Cash on Delivery,Delivered
+399,114,17,2025-07-03,Online,Debit Card,Delivered
+400,114,17,2025-10-22,Online,Debit Card,Delivered
+401,114,17,2025-11-30,Online,Net Banking,Delivered
+402,114,12,2025-12-11,In-Store,Cash on Delivery,Delivered
+403,114,8,2025-12-22,In-Store,Cash on Delivery,Delivered
+404,115,17,2024-11-27,Online,Debit Card,Cancelled
+405,115,8,2025-01-04,In-Store,UPI,Delivered
+406,115,17,2025-05-12,Online,Credit Card,Returned
+407,115,17,2025-05-25,Online,Debit Card,Delivered
+408,115,17,2025-07-10,Online,UPI,Cancelled
+409,115,17,2025-07-31,Online,Debit Card,Delivered
+410,115,17,2025-10-11,Online,UPI,Delivered
+411,116,17,2024-02-08,Online,Net Banking,Cancelled
+412,116,17,2024-03-22,Online,Cash on Delivery,Delivered
+413,116,17,2024-03-27,Online,Cash on Delivery,Delivered
+414,116,17,2024-12-08,Online,Debit Card,Returned
+415,116,17,2025-10-28,Online,Net Banking,Delivered
+416,116,17,2025-11-04,Online,Debit Card,Delivered
+417,116,17,2025-11-12,Online,Cash on Delivery,Delivered
+418,116,17,2025-12-08,Online,Net Banking,Delivered
+419,117,17,2024-10-10,Online,Debit Card,Cancelled
+420,117,17,2025-04-15,Online,Credit Card,Cancelled
+421,117,17,2025-12-15,Online,Net Banking,Delivered
+422,118,17,2024-04-09,Online,Credit Card,Cancelled
+423,118,17,2025-06-10,Online,Cash on Delivery,Cancelled
+424,118,17,2025-12-05,Online,Cash on Delivery,Delivered
+425,119,17,2025-01-22,Online,Net Banking,Delivered
+426,119,17,2025-07-23,Online,Debit Card,Cancelled
+427,119,3,2025-09-03,In-Store,UPI,Delivered
+428,119,17,2025-12-05,Online,Net Banking,Returned
+429,119,6,2025-12-12,In-Store,Debit Card,Delivered
+430,119,13,2025-12-20,In-Store,Debit Card,Delivered
+431,121,17,2025-04-22,Online,Debit Card,Delivered
+432,121,17,2025-07-13,Online,Net Banking,Returned
+433,121,17,2025-08-21,Online,Cash on Delivery,Returned
+434,121,11,2025-08-31,In-Store,UPI,Delivered
+435,121,10,2025-10-17,In-Store,Cash on Delivery,Returned
+436,121,17,2025-10-27,Online,Credit Card,Returned
+437,121,17,2025-11-11,Online,Debit Card,Delivered
+438,121,3,2025-12-07,In-Store,Cash on Delivery,Returned
+439,122,17,2024-10-05,Online,Debit Card,Delivered
+440,122,17,2024-12-13,Online,Debit Card,Delivered
+441,122,16,2025-01-08,In-Store,UPI,Delivered
+442,122,5,2025-07-06,In-Store,Debit Card,Delivered
+443,122,4,2025-11-18,In-Store,Credit Card,Delivered
+444,122,17,2025-12-10,Online,Cash on Delivery,Cancelled
+445,122,17,2025-12-17,Online,UPI,Delivered
+446,123,17,2025-12-20,Online,Cash on Delivery,Returned
+447,124,2,2024-11-14,In-Store,Debit Card,Delivered
+448,125,10,2025-11-06,In-Store,Cash on Delivery,Cancelled
+449,126,17,2025-09-27,Online,Net Banking,Delivered
+450,127,17,2025-09-30,Online,Net Banking,Delivered
+451,127,17,2025-10-12,Online,Net Banking,Delivered
+452,127,17,2025-11-02,Online,UPI,Delivered
+453,127,5,2025-12-04,In-Store,Debit Card,Cancelled
+454,128,17,2024-08-03,Online,Debit Card,Cancelled
+455,128,17,2024-09-29,Online,Cash on Delivery,Delivered
+456,128,10,2025-07-22,In-Store,UPI,Delivered
+457,129,17,2024-12-30,Online,UPI,Delivered
+458,129,3,2025-05-31,In-Store,Cash on Delivery,Delivered
+459,130,14,2025-04-10,In-Store,Cash on Delivery,Delivered
+460,130,17,2025-07-31,Online,Net Banking,Delivered
+461,132,17,2025-11-21,Online,Credit Card,Delivered
+462,132,11,2025-12-25,In-Store,UPI,Cancelled
+463,133,17,2025-12-20,Online,Net Banking,Cancelled
+464,134,16,2025-10-25,In-Store,Credit Card,Delivered
+465,135,17,2024-01-14,Online,UPI,Delivered
+466,135,17,2024-02-07,Online,Cash on Delivery,Returned
+467,135,17,2024-02-17,Online,Debit Card,Delivered
+468,135,17,2024-02-25,Online,Credit Card,Delivered
+469,135,17,2024-06-15,Online,Cash on Delivery,Returned
+470,135,17,2024-06-25,Online,Net Banking,Delivered
+471,135,17,2025-06-19,Online,Cash on Delivery,Delivered
+472,135,17,2025-09-07,Online,UPI,Returned
+473,135,17,2025-11-07,Online,Cash on Delivery,Delivered
+474,136,17,2025-08-20,Online,UPI,Delivered
+475,136,17,2025-10-09,Online,Cash on Delivery,Delivered
+476,137,17,2024-09-08,Online,Cash on Delivery,Delivered
+477,137,17,2024-12-29,Online,Cash on Delivery,Delivered
+478,138,17,2024-10-04,Online,Credit Card,Delivered
+479,138,17,2025-08-15,Online,Debit Card,Delivered
+480,138,12,2025-12-11,In-Store,Credit Card,Cancelled
+481,139,17,2024-09-26,Online,Credit Card,Returned
+482,139,11,2025-02-06,In-Store,Credit Card,Delivered
+483,140,17,2024-04-06,Online,UPI,Cancelled
+484,140,15,2024-04-20,In-Store,Cash on Delivery,Returned
+485,140,17,2024-04-25,Online,UPI,Cancelled
+486,140,17,2024-04-29,Online,Net Banking,Cancelled
+487,140,17,2024-05-20,Online,Credit Card,Delivered
+488,140,2,2024-11-07,In-Store,Debit Card,Delivered
+489,140,17,2024-12-23,Online,Cash on Delivery,Cancelled
+490,140,17,2025-07-19,Online,UPI,Delivered
+491,140,17,2025-09-10,Online,Credit Card,Cancelled
+492,140,11,2025-09-21,In-Store,Credit Card,Delivered
+493,140,14,2025-11-18,In-Store,Cash on Delivery,Delivered
+494,140,13,2025-12-05,In-Store,UPI,Delivered
+495,140,17,2025-12-07,Online,Debit Card,Delivered
+496,141,17,2024-08-06,Online,Credit Card,Cancelled
+497,141,3,2024-08-15,In-Store,UPI,Delivered
+498,141,17,2024-10-02,Online,Credit Card,Delivered
+499,141,17,2024-10-03,Online,Debit Card,Returned
+500,141,17,2024-10-09,Online,Net Banking,Delivered
+501,141,17,2024-10-22,Online,Debit Card,Delivered
+502,141,17,2024-11-03,Online,Debit Card,Returned
+503,141,17,2025-01-10,Online,Debit Card,Delivered
+504,141,17,2025-02-08,Online,Credit Card,Cancelled
+505,141,17,2025-02-08,Online,Net Banking,Returned
+506,141,17,2025-03-25,Online,UPI,Cancelled
+507,141,5,2025-04-07,In-Store,Cash on Delivery,Cancelled
+508,141,17,2025-05-22,Online,UPI,Delivered
+509,141,12,2025-07-12,In-Store,Cash on Delivery,Delivered
+510,141,2,2025-07-23,In-Store,UPI,Delivered
+511,141,17,2025-07-27,Online,Debit Card,Delivered
+512,141,17,2025-08-17,Online,Cash on Delivery,Delivered
+513,141,17,2025-09-21,Online,Net Banking,Delivered
+514,141,17,2025-11-22,Online,UPI,Delivered
+515,141,1,2025-12-17,In-Store,UPI,Returned
+516,142,17,2024-11-16,Online,Credit Card,Delivered
+517,142,17,2025-08-16,Online,Net Banking,Delivered
+518,142,17,2025-10-02,Online,Debit Card,Delivered
+519,143,17,2025-09-27,Online,Credit Card,Delivered
+520,143,17,2025-11-01,Online,Net Banking,Returned
+521,143,11,2025-12-20,In-Store,Debit Card,Returned
+522,145,6,2025-12-09,In-Store,UPI,Returned
+523,145,8,2025-12-27,In-Store,UPI,Delivered
+524,146,17,2024-02-02,Online,Credit Card,Delivered
+525,147,17,2024-10-30,Online,Net Banking,Delivered
+526,147,5,2024-11-11,In-Store,Credit Card,Delivered
+527,147,17,2025-11-22,Online,Net Banking,Delivered
+528,147,17,2025-11-26,Online,Net Banking,Cancelled
+529,147,3,2025-11-28,In-Store,Debit Card,Delivered
+530,149,17,2025-02-20,Online,Debit Card,Delivered
+531,149,17,2025-05-21,Online,Cash on Delivery,Cancelled
+532,149,17,2025-10-04,Online,UPI,Delivered
+533,150,17,2025-06-16,Online,Credit Card,Cancelled
+534,150,5,2025-11-10,In-Store,UPI,Delivered
+535,150,17,2025-11-22,Online,UPI,Returned
+536,151,10,2024-03-23,In-Store,Credit Card,Cancelled
+537,151,17,2024-05-18,Online,Cash on Delivery,Returned
+538,151,17,2024-07-20,Online,Debit Card,Returned
+539,151,17,2024-07-29,Online,Cash on Delivery,Delivered
+540,151,17,2024-09-11,Online,Cash on Delivery,Delivered
+541,151,17,2024-10-17,Online,Cash on Delivery,Returned
+542,151,11,2024-10-19,In-Store,Credit Card,Cancelled
+543,151,1,2024-12-08,In-Store,Credit Card,Delivered
+544,151,9,2025-04-29,In-Store,UPI,Returned
+545,151,14,2025-07-12,In-Store,Credit Card,Delivered
+546,151,17,2025-10-08,Online,Cash on Delivery,Returned
+547,151,17,2025-10-15,Online,Net Banking,Delivered
+548,151,17,2025-11-13,Online,Net Banking,Cancelled
+549,152,17,2024-08-04,Online,Credit Card,Returned
+550,152,17,2024-12-28,Online,Net Banking,Delivered
+551,153,17,2024-04-12,Online,UPI,Delivered
+552,153,17,2024-08-26,Online,Debit Card,Returned
+553,153,12,2025-12-15,In-Store,UPI,Delivered
+554,154,17,2025-06-14,Online,Debit Card,Delivered
+555,154,17,2025-08-16,Online,Debit Card,Delivered
+556,155,17,2024-05-30,Online,Credit Card,Delivered
+557,155,17,2024-06-12,Online,Cash on Delivery,Delivered
+558,155,17,2024-07-15,Online,UPI,Cancelled
+559,155,11,2024-09-06,In-Store,UPI,Delivered
+560,155,17,2024-09-09,Online,Net Banking,Delivered
+561,155,17,2024-10-09,Online,Net Banking,Delivered
+562,155,17,2024-10-22,Online,Cash on Delivery,Delivered
+563,155,17,2024-10-31,Online,UPI,Delivered
+564,155,17,2024-12-19,Online,Credit Card,Delivered
+565,155,17,2025-04-18,Online,Net Banking,Delivered
+566,155,17,2025-09-19,Online,Credit Card,Delivered
+567,155,17,2025-09-28,Online,Debit Card,Delivered
+568,155,12,2025-10-06,In-Store,Cash on Delivery,Delivered
+569,155,17,2025-10-09,Online,UPI,Delivered
+570,155,17,2025-11-04,Online,Credit Card,Delivered
+571,156,17,2024-02-22,Online,Cash on Delivery,Cancelled
+572,156,17,2024-05-09,Online,Cash on Delivery,Delivered
+573,156,17,2024-09-17,Online,Net Banking,Delivered
+574,157,11,2024-10-03,In-Store,Debit Card,Delivered
+575,157,7,2024-10-11,In-Store,Cash on Delivery,Delivered
+576,157,17,2025-05-21,Online,Credit Card,Delivered
+577,157,17,2025-10-23,Online,Net Banking,Delivered
+578,157,17,2025-10-30,Online,Cash on Delivery,Delivered
+579,158,17,2024-02-03,Online,Debit Card,Delivered
+580,158,17,2024-11-16,Online,Debit Card,Delivered
+581,158,17,2024-11-30,Online,Cash on Delivery,Delivered
+582,158,17,2025-03-20,Online,Cash on Delivery,Returned
+583,158,17,2025-06-14,Online,Credit Card,Cancelled
+584,158,17,2025-08-12,Online,Credit Card,Returned
+585,158,10,2025-12-23,In-Store,Credit Card,Cancelled
+586,159,17,2024-12-10,Online,Cash on Delivery,Returned
+587,159,17,2025-04-07,Online,Credit Card,Returned
+588,159,17,2025-09-11,Online,Cash on Delivery,Delivered
+589,160,13,2024-05-01,In-Store,UPI,Delivered
+590,160,17,2024-07-20,Online,Credit Card,Returned
+591,160,17,2024-10-12,Online,Debit Card,Delivered
+592,160,17,2024-11-08,Online,UPI,Delivered
+593,160,17,2024-12-01,Online,Cash on Delivery,Cancelled
+594,160,2,2025-06-05,In-Store,UPI,Returned
+595,160,17,2025-07-09,Online,Debit Card,Delivered
+596,160,16,2025-08-21,In-Store,Cash on Delivery,Delivered
+597,161,15,2025-06-11,In-Store,Debit Card,Delivered
+598,161,17,2025-07-14,Online,Debit Card,Returned
+599,162,17,2025-03-27,Online,Debit Card,Delivered
+600,162,17,2025-06-11,Online,Debit Card,Delivered
+601,162,7,2025-06-27,In-Store,Cash on Delivery,Returned
+602,162,17,2025-10-13,Online,Cash on Delivery,Delivered
+603,162,9,2025-11-23,In-Store,Credit Card,Delivered
+604,162,17,2025-11-23,Online,Net Banking,Delivered
+605,162,13,2025-12-11,In-Store,Debit Card,Cancelled
+606,163,17,2024-09-26,Online,Credit Card,Delivered
+607,163,17,2024-12-19,Online,Debit Card,Delivered
+608,163,7,2025-05-17,In-Store,Debit Card,Delivered
+609,163,9,2025-08-22,In-Store,Credit Card,Delivered
+610,164,17,2025-09-16,Online,Cash on Delivery,Returned
+611,165,17,2024-08-21,Online,Credit Card,Delivered
+612,166,17,2024-02-03,Online,Credit Card,Delivered
+613,166,17,2024-05-08,Online,Credit Card,Delivered
+614,166,6,2024-10-03,In-Store,Cash on Delivery,Delivered
+615,166,17,2025-07-19,Online,Debit Card,Delivered
+616,166,17,2025-10-23,Online,Credit Card,Returned
+617,166,3,2025-12-27,In-Store,UPI,Returned
+618,168,17,2025-11-09,Online,UPI,Cancelled
+619,170,6,2024-09-26,In-Store,Debit Card,Returned
+620,170,1,2025-06-04,In-Store,Credit Card,Delivered
+621,170,11,2025-12-24,In-Store,Cash on Delivery,Delivered
+622,171,17,2024-04-05,Online,UPI,Delivered
+623,171,15,2024-07-28,In-Store,UPI,Delivered
+624,171,11,2024-10-02,In-Store,Cash on Delivery,Delivered
+625,171,17,2024-12-11,Online,UPI,Returned
+626,171,17,2025-06-18,Online,Debit Card,Delivered
+627,171,17,2025-07-23,Online,UPI,Cancelled
+628,171,17,2025-09-22,Online,Net Banking,Cancelled
+629,171,11,2025-10-23,In-Store,Cash on Delivery,Delivered
+630,173,16,2025-10-11,In-Store,UPI,Delivered
+631,175,17,2024-06-25,Online,Debit Card,Delivered
+632,175,10,2024-12-22,In-Store,Credit Card,Delivered
+633,175,17,2025-11-03,Online,UPI,Delivered
+634,175,17,2025-11-14,Online,Net Banking,Delivered
+635,175,17,2025-12-14,Online,Cash on Delivery,Delivered
+636,176,17,2024-12-06,Online,Debit Card,Returned
+637,176,17,2025-11-15,Online,UPI,Delivered
+638,177,17,2025-03-13,Online,Cash on Delivery,Delivered
+639,177,17,2025-10-21,Online,Cash on Delivery,Returned
+640,177,7,2025-11-17,In-Store,UPI,Cancelled
+641,177,17,2025-11-22,Online,Credit Card,Delivered
+642,178,17,2024-07-29,Online,Credit Card,Delivered
+643,178,4,2025-03-14,In-Store,UPI,Delivered
+644,178,17,2025-10-31,Online,UPI,Delivered
+645,179,15,2025-04-25,In-Store,UPI,Delivered
+646,179,17,2025-04-27,Online,Credit Card,Delivered
+647,179,15,2025-06-04,In-Store,Credit Card,Cancelled
+648,179,17,2025-07-14,Online,Net Banking,Delivered
+649,179,17,2025-08-16,Online,Cash on Delivery,Delivered
+650,179,17,2025-09-05,Online,Debit Card,Cancelled
+651,179,13,2025-09-12,In-Store,Credit Card,Delivered
+652,179,3,2025-10-27,In-Store,Cash on Delivery,Delivered
+653,179,17,2025-11-11,Online,Cash on Delivery,Delivered
+654,179,3,2025-11-17,In-Store,Credit Card,Delivered
+655,179,17,2025-11-30,Online,UPI,Delivered
+656,179,14,2025-12-25,In-Store,Cash on Delivery,Delivered
+657,179,17,2025-12-30,Online,Net Banking,Delivered
+658,181,17,2025-10-23,Online,Credit Card,Delivered
+659,182,13,2024-12-19,In-Store,UPI,Delivered
+660,183,1,2024-12-26,In-Store,Credit Card,Cancelled
+661,183,15,2025-01-05,In-Store,Cash on Delivery,Returned
+662,183,17,2025-03-04,Online,UPI,Cancelled
+663,183,17,2025-04-06,Online,UPI,Delivered
+664,183,17,2025-04-15,Online,Credit Card,Returned
+665,183,17,2025-04-25,Online,Net Banking,Returned
+666,183,17,2025-04-29,Online,UPI,Delivered
+667,183,17,2025-05-10,Online,Cash on Delivery,Delivered
+668,183,17,2025-07-15,Online,Credit Card,Delivered
+669,183,17,2025-07-16,Online,Net Banking,Delivered
+670,183,17,2025-07-25,Online,UPI,Delivered
+671,183,2,2025-08-10,In-Store,Debit Card,Delivered
+672,183,17,2025-09-05,Online,Cash on Delivery,Returned
+673,183,17,2025-09-17,Online,Debit Card,Delivered
+674,183,17,2025-10-04,Online,Cash on Delivery,Delivered
+675,183,17,2025-11-14,Online,Debit Card,Delivered
+676,183,17,2025-11-18,Online,UPI,Delivered
+677,183,17,2025-12-01,Online,Cash on Delivery,Delivered
+678,183,17,2025-12-09,Online,Net Banking,Delivered
+679,184,17,2025-07-09,Online,Net Banking,Delivered
+680,184,17,2025-10-16,Online,UPI,Delivered
+681,184,16,2025-10-21,In-Store,UPI,Delivered
+682,184,17,2025-11-24,Online,UPI,Returned
+683,184,2,2025-12-02,In-Store,Cash on Delivery,Delivered
+684,184,5,2025-12-08,In-Store,UPI,Delivered
+685,184,17,2025-12-16,Online,Credit Card,Delivered
+686,185,3,2025-10-27,In-Store,UPI,Delivered
+687,185,17,2025-11-11,Online,Cash on Delivery,Delivered
+688,185,17,2025-12-14,Online,Credit Card,Cancelled
+689,186,7,2024-10-26,In-Store,UPI,Delivered
+690,186,11,2025-07-09,In-Store,Credit Card,Delivered
+691,186,17,2025-11-25,Online,Credit Card,Delivered
+692,186,16,2025-12-24,In-Store,UPI,Delivered
+693,187,11,2025-07-31,In-Store,Debit Card,Cancelled
+694,187,17,2025-08-21,Online,Debit Card,Delivered
+695,187,17,2025-08-28,Online,Cash on Delivery,Delivered
+696,187,15,2025-09-07,In-Store,Cash on Delivery,Delivered
+697,187,11,2025-12-02,In-Store,Debit Card,Delivered
+698,187,17,2025-12-16,Online,Cash on Delivery,Delivered
+699,188,1,2025-07-30,In-Store,Cash on Delivery,Delivered
+700,189,17,2024-08-31,Online,UPI,Delivered
+701,189,17,2025-01-30,Online,UPI,Cancelled
+702,190,17,2024-06-28,Online,Debit Card,Returned
+703,190,17,2025-02-09,Online,Net Banking,Cancelled
+704,190,16,2025-12-18,In-Store,UPI,Delivered
+705,191,17,2024-08-09,Online,Cash on Delivery,Returned
+706,191,17,2025-10-28,Online,Credit Card,Delivered
+707,192,17,2025-02-10,Online,Credit Card,Cancelled
+708,192,2,2025-03-26,In-Store,Credit Card,Cancelled
+709,192,17,2025-06-17,Online,UPI,Cancelled
+710,192,17,2025-06-30,Online,Credit Card,Delivered
+711,192,17,2025-07-27,Online,Debit Card,Delivered
+712,192,17,2025-10-07,Online,Cash on Delivery,Returned
+713,192,16,2025-11-08,In-Store,Credit Card,Delivered
+714,193,17,2024-10-24,Online,Credit Card,Delivered
+715,193,17,2024-12-04,Online,Cash on Delivery,Delivered
+716,193,1,2024-12-18,In-Store,Cash on Delivery,Delivered
+717,193,6,2024-12-27,In-Store,Credit Card,Delivered
+718,193,17,2025-02-10,Online,UPI,Delivered
+719,193,17,2025-03-30,Online,Debit Card,Delivered
+720,193,17,2025-04-24,Online,Credit Card,Delivered
+721,193,17,2025-05-12,Online,Net Banking,Delivered
+722,193,17,2025-07-15,Online,UPI,Returned
+723,193,17,2025-07-18,Online,Credit Card,Cancelled
+724,193,17,2025-07-28,Online,Credit Card,Cancelled
+725,193,17,2025-08-12,Online,Net Banking,Delivered
+726,193,17,2025-10-04,Online,Credit Card,Delivered
+727,193,17,2025-11-04,Online,Net Banking,Delivered
+728,193,11,2025-11-11,In-Store,Credit Card,Delivered
+729,193,2,2025-12-31,In-Store,UPI,Delivered
+730,194,16,2024-04-15,In-Store,Credit Card,Delivered
+731,194,9,2024-06-18,In-Store,Credit Card,Delivered
+732,194,17,2024-07-14,Online,Debit Card,Cancelled
+733,194,17,2025-01-09,Online,Cash on Delivery,Delivered
+734,194,17,2025-03-16,Online,Net Banking,Cancelled
+735,194,10,2025-04-11,In-Store,UPI,Delivered
+736,194,17,2025-07-14,Online,Net Banking,Cancelled
+737,194,17,2025-10-19,Online,Debit Card,Delivered
+738,195,5,2025-09-16,In-Store,Credit Card,Cancelled
+739,195,17,2025-10-05,Online,Credit Card,Delivered
+740,195,17,2025-11-20,Online,Credit Card,Delivered
+741,196,17,2024-08-13,Online,Cash on Delivery,Delivered
+742,196,17,2025-07-11,Online,Debit Card,Cancelled
+743,197,17,2024-11-03,Online,Net Banking,Cancelled
+744,197,17,2025-10-03,Online,Cash on Delivery,Delivered
+745,197,14,2025-12-25,In-Store,Cash on Delivery,Delivered
+746,198,10,2024-09-28,In-Store,UPI,Cancelled
+747,198,17,2024-10-11,Online,Debit Card,Delivered
+748,198,17,2025-03-10,Online,UPI,Returned
+749,199,17,2024-10-22,Online,Credit Card,Delivered
+750,199,17,2024-10-27,Online,Net Banking,Delivered
+751,199,17,2024-11-30,Online,Credit Card,Delivered
+752,199,17,2025-02-13,Online,Net Banking,Delivered
+753,199,17,2025-02-23,Online,Cash on Delivery,Delivered
+754,199,17,2025-04-13,Online,Credit Card,Delivered
+755,199,17,2025-05-08,Online,Cash on Delivery,Delivered
+756,199,17,2025-09-01,Online,Net Banking,Delivered
+757,200,17,2025-02-21,Online,Credit Card,Delivered
+758,200,8,2025-04-28,In-Store,UPI,Delivered
+759,200,17,2025-09-19,Online,UPI,Delivered
+760,201,17,2024-02-12,Online,UPI,Delivered
+761,201,17,2024-05-24,Online,Debit Card,Delivered
+762,201,17,2024-07-26,Online,Credit Card,Delivered
+763,201,17,2024-10-27,Online,Net Banking,Delivered
+764,201,17,2025-11-21,Online,Net Banking,Delivered
+765,203,17,2025-12-21,Online,Debit Card,Delivered
+766,204,17,2025-09-26,Online,Debit Card,Cancelled
+767,204,17,2025-10-04,Online,Cash on Delivery,Delivered
+768,204,17,2025-10-16,Online,Cash on Delivery,Delivered
+769,204,7,2025-10-23,In-Store,Debit Card,Delivered
+770,204,17,2025-11-15,Online,Debit Card,Delivered
+771,204,17,2025-11-19,Online,Net Banking,Returned
+772,204,8,2025-12-24,In-Store,Cash on Delivery,Delivered
+773,205,13,2024-07-28,In-Store,Credit Card,Delivered
+774,205,7,2024-08-12,In-Store,UPI,Delivered
+775,205,17,2025-10-04,Online,Credit Card,Delivered
+776,205,15,2025-10-30,In-Store,UPI,Returned
+777,205,17,2025-11-08,Online,Credit Card,Delivered
+778,206,17,2025-01-30,Online,Debit Card,Delivered
+779,206,17,2025-06-22,Online,UPI,Returned
+780,206,17,2025-11-25,Online,Net Banking,Cancelled
+781,208,16,2024-05-16,In-Store,Cash on Delivery,Delivered
+782,208,17,2024-06-18,Online,Net Banking,Cancelled
+783,208,17,2024-08-11,Online,Debit Card,Cancelled
+784,208,17,2025-02-13,Online,Cash on Delivery,Cancelled
+785,208,17,2025-11-22,Online,Credit Card,Delivered
+786,208,12,2025-12-18,In-Store,Credit Card,Delivered
+787,209,11,2024-09-07,In-Store,Cash on Delivery,Cancelled
+788,209,17,2025-05-25,Online,Debit Card,Delivered
+789,209,17,2025-08-10,Online,Cash on Delivery,Returned
+790,210,17,2024-12-14,Online,Net Banking,Delivered
+791,211,17,2025-10-17,Online,Net Banking,Delivered
+792,212,17,2024-11-24,Online,Credit Card,Delivered
+793,212,5,2025-04-12,In-Store,Debit Card,Delivered
+794,212,17,2025-12-25,Online,UPI,Cancelled
+795,213,17,2025-08-16,Online,Credit Card,Delivered
+796,213,17,2025-08-20,Online,Net Banking,Returned
+797,213,17,2025-10-09,Online,Credit Card,Delivered
+798,213,4,2025-10-22,In-Store,Debit Card,Delivered
+799,213,17,2025-10-26,Online,UPI,Returned
+800,213,8,2025-11-01,In-Store,UPI,Delivered
+801,213,17,2025-11-11,Online,Cash on Delivery,Delivered
+802,214,8,2024-10-06,In-Store,Cash on Delivery,Cancelled
+803,214,17,2025-03-12,Online,Net Banking,Delivered
+804,214,17,2025-07-12,Online,Cash on Delivery,Returned
+805,215,17,2025-06-27,Online,Net Banking,Delivered
+806,215,17,2025-07-02,Online,UPI,Delivered
+807,215,17,2025-07-26,Online,Credit Card,Returned
+808,215,17,2025-10-16,Online,Cash on Delivery,Cancelled
+809,216,17,2025-12-24,Online,Net Banking,Delivered
+810,218,17,2024-10-28,Online,Cash on Delivery,Delivered
+811,218,11,2024-10-31,In-Store,Cash on Delivery,Delivered
+812,218,17,2024-11-01,Online,Credit Card,Delivered
+813,218,17,2025-06-24,Online,Net Banking,Cancelled
+814,218,17,2025-12-27,Online,Debit Card,Cancelled
+815,219,17,2024-01-24,Online,UPI,Returned
+816,219,17,2024-11-23,Online,Debit Card,Delivered
+817,219,17,2025-06-08,Online,UPI,Delivered
+818,219,17,2025-10-02,Online,Cash on Delivery,Delivered
+819,219,17,2025-10-21,Online,Net Banking,Delivered
+820,219,17,2025-12-06,Online,Cash on Delivery,Returned
+821,219,17,2025-12-14,Online,UPI,Returned
+822,220,17,2024-10-01,Online,UPI,Delivered
+823,220,17,2024-11-15,Online,Net Banking,Cancelled
+824,220,17,2025-02-06,Online,Debit Card,Cancelled
+825,220,16,2025-04-11,In-Store,UPI,Delivered
+826,220,16,2025-05-07,In-Store,Cash on Delivery,Delivered
+827,220,17,2025-07-23,Online,Net Banking,Cancelled
+828,220,17,2025-07-26,Online,Cash on Delivery,Delivered
+829,221,8,2024-06-25,In-Store,Credit Card,Delivered
+830,221,17,2024-12-22,Online,Debit Card,Delivered
+831,221,17,2025-05-04,Online,Cash on Delivery,Delivered
+832,222,17,2024-05-21,Online,Cash on Delivery,Delivered
+833,222,17,2025-03-22,Online,Cash on Delivery,Cancelled
+834,222,12,2025-12-28,In-Store,Credit Card,Delivered
+835,223,17,2025-01-30,Online,Credit Card,Delivered
+836,223,8,2025-06-27,In-Store,Credit Card,Delivered
+837,223,17,2025-10-08,Online,Credit Card,Delivered
+838,224,4,2024-05-06,In-Store,UPI,Cancelled
+839,224,17,2024-06-22,Online,Cash on Delivery,Returned
+840,224,17,2024-07-14,Online,Cash on Delivery,Cancelled
+841,225,17,2024-11-21,Online,UPI,Delivered
+842,225,2,2024-12-25,In-Store,Debit Card,Delivered
+843,225,17,2025-12-07,Online,Cash on Delivery,Delivered
+844,226,17,2025-09-12,Online,Debit Card,Returned
+845,227,17,2024-09-04,Online,Cash on Delivery,Cancelled
+846,227,4,2024-09-24,In-Store,Cash on Delivery,Delivered
+847,227,9,2024-10-21,In-Store,UPI,Cancelled
+848,227,17,2024-11-05,Online,UPI,Delivered
+849,227,17,2024-11-28,Online,UPI,Delivered
+850,227,13,2024-12-10,In-Store,UPI,Delivered
+851,227,17,2024-12-29,Online,Net Banking,Delivered
+852,227,17,2025-01-04,Online,Credit Card,Delivered
+853,227,17,2025-04-03,Online,Debit Card,Returned
+854,227,17,2025-04-30,Online,Net Banking,Delivered
+855,227,11,2025-11-14,In-Store,Credit Card,Delivered
+856,227,3,2025-11-16,In-Store,Cash on Delivery,Returned
+857,228,13,2025-02-01,In-Store,Cash on Delivery,Delivered
+858,228,16,2025-07-13,In-Store,Debit Card,Delivered
+859,229,17,2024-01-27,Online,UPI,Delivered
+860,229,17,2024-08-20,Online,Debit Card,Delivered
+861,229,2,2024-12-20,In-Store,Credit Card,Delivered
+862,229,17,2025-08-03,Online,Net Banking,Cancelled
+863,229,17,2025-09-19,Online,UPI,Cancelled
+864,230,17,2024-02-11,Online,UPI,Delivered
+865,230,5,2024-07-13,In-Store,Debit Card,Returned
+866,230,17,2025-03-15,Online,Credit Card,Delivered
+867,230,17,2025-09-03,Online,Credit Card,Delivered
+868,230,17,2025-11-24,Online,UPI,Returned
+869,230,17,2025-12-13,Online,Debit Card,Returned
+870,231,17,2025-07-01,Online,Net Banking,Delivered
+871,231,17,2025-07-06,Online,Credit Card,Returned
+872,231,17,2025-08-15,Online,Credit Card,Delivered
+873,231,17,2025-10-31,Online,Cash on Delivery,Delivered
+874,231,17,2025-11-06,Online,Credit Card,Delivered
+875,231,17,2025-11-12,Online,Credit Card,Cancelled
+876,231,14,2025-11-18,In-Store,UPI,Returned
+877,231,17,2025-12-21,Online,Net Banking,Delivered
+878,235,17,2025-05-19,Online,UPI,Delivered
+879,235,17,2025-05-22,Online,UPI,Cancelled
+880,236,5,2024-02-20,In-Store,Credit Card,Delivered
+881,236,17,2024-04-16,Online,Net Banking,Delivered
+882,236,17,2024-10-17,Online,UPI,Delivered
+883,236,15,2024-12-16,In-Store,UPI,Cancelled
+884,236,17,2025-11-11,Online,UPI,Delivered
+885,236,13,2025-11-18,In-Store,Cash on Delivery,Delivered
+886,236,17,2025-11-22,Online,UPI,Delivered
+887,236,17,2025-12-02,Online,UPI,Delivered
+888,237,1,2024-08-01,In-Store,Debit Card,Cancelled
+889,237,17,2024-08-15,Online,Cash on Delivery,Delivered
+890,238,10,2025-11-04,In-Store,Credit Card,Returned
+891,239,17,2024-05-29,Online,UPI,Delivered
+892,239,17,2024-06-26,Online,Credit Card,Delivered
+893,239,17,2025-06-20,Online,Debit Card,Delivered
+894,239,5,2025-07-10,In-Store,Cash on Delivery,Delivered
+895,240,17,2025-02-04,Online,Net Banking,Delivered
+896,240,3,2025-11-02,In-Store,Credit Card,Delivered
+897,241,17,2024-01-12,Online,Credit Card,Delivered
+898,241,13,2024-11-13,In-Store,Debit Card,Delivered
+899,241,17,2024-11-22,Online,Net Banking,Delivered
+900,241,17,2025-04-28,Online,Credit Card,Delivered
+901,241,17,2025-06-12,Online,Cash on Delivery,Delivered
+902,241,17,2025-10-06,Online,Debit Card,Delivered
+903,241,17,2025-10-18,Online,UPI,Delivered
+904,241,17,2025-11-15,Online,Cash on Delivery,Delivered
+905,242,3,2024-02-03,In-Store,Cash on Delivery,Delivered
+906,242,8,2024-03-16,In-Store,UPI,Delivered
+907,242,17,2024-03-21,Online,Credit Card,Delivered
+908,242,17,2024-05-15,Online,Credit Card,Delivered
+909,242,17,2024-06-07,Online,UPI,Returned
+910,242,17,2024-08-13,Online,UPI,Returned
+911,242,17,2024-08-25,Online,Net Banking,Delivered
+912,242,9,2024-10-16,In-Store,Debit Card,Delivered
+913,242,17,2024-10-23,Online,Debit Card,Cancelled
+914,242,4,2024-11-20,In-Store,Credit Card,Cancelled
+915,242,17,2024-12-21,Online,Debit Card,Delivered
+916,242,17,2024-12-29,Online,Cash on Delivery,Delivered
+917,242,17,2025-04-18,Online,Net Banking,Delivered
+918,242,17,2025-07-07,Online,Net Banking,Delivered
+919,242,6,2025-10-19,In-Store,UPI,Delivered
+920,242,17,2025-11-05,Online,Cash on Delivery,Delivered
+921,242,17,2025-11-09,Online,UPI,Delivered
+922,242,1,2025-11-24,In-Store,Credit Card,Delivered
+923,243,17,2024-02-18,Online,Net Banking,Delivered
+924,243,6,2024-03-12,In-Store,Credit Card,Cancelled
+925,243,17,2024-03-25,Online,Net Banking,Returned
+926,243,17,2024-08-18,Online,Net Banking,Delivered
+927,243,11,2024-10-12,In-Store,Credit Card,Delivered
+928,243,17,2024-11-02,Online,Cash on Delivery,Delivered
+929,243,17,2025-02-13,Online,UPI,Delivered
+930,243,17,2025-03-15,Online,Credit Card,Delivered
+931,243,3,2025-06-17,In-Store,Debit Card,Delivered
+932,243,10,2025-08-11,In-Store,Credit Card,Delivered
+933,243,17,2025-10-11,Online,Debit Card,Delivered
+934,244,17,2025-09-12,Online,Debit Card,Cancelled
+935,245,17,2024-11-15,Online,Net Banking,Delivered
+936,246,8,2024-01-29,In-Store,Credit Card,Delivered
+937,246,1,2024-02-01,In-Store,Debit Card,Delivered
+938,246,17,2024-03-01,Online,Credit Card,Returned
+939,246,1,2024-03-23,In-Store,Cash on Delivery,Cancelled
+940,246,10,2024-07-01,In-Store,UPI,Delivered
+941,246,17,2024-07-12,Online,Net Banking,Delivered
+942,246,17,2024-10-12,Online,UPI,Delivered
+943,246,17,2024-10-16,Online,Credit Card,Delivered
+944,246,14,2024-10-26,In-Store,Debit Card,Returned
+945,246,17,2024-11-16,Online,Credit Card,Returned
+946,246,17,2024-11-18,Online,UPI,Delivered
+947,246,17,2024-12-03,Online,Credit Card,Delivered
+948,246,17,2024-12-24,Online,Net Banking,Delivered
+949,246,17,2025-01-05,Online,UPI,Delivered
+950,246,17,2025-03-29,Online,Debit Card,Cancelled
+951,246,13,2025-05-27,In-Store,Debit Card,Returned
+952,246,17,2025-06-01,Online,UPI,Delivered
+953,246,17,2025-08-02,Online,UPI,Delivered
+954,246,4,2025-10-05,In-Store,Credit Card,Delivered
+955,246,17,2025-11-20,Online,Debit Card,Delivered
+956,247,17,2025-10-02,Online,UPI,Delivered
+957,247,17,2025-10-19,Online,Debit Card,Delivered
+958,247,3,2025-11-19,In-Store,Debit Card,Delivered
+959,248,17,2024-02-25,Online,UPI,Delivered
+960,248,11,2024-07-07,In-Store,Credit Card,Delivered
+961,248,17,2024-11-23,Online,Net Banking,Delivered
+962,248,17,2024-12-15,Online,Debit Card,Returned
+963,248,17,2025-01-14,Online,Credit Card,Delivered
+964,248,15,2025-03-04,In-Store,UPI,Delivered
+965,248,17,2025-03-10,Online,UPI,Delivered
+966,248,17,2025-03-26,Online,UPI,Delivered
+967,248,17,2025-06-02,Online,Net Banking,Cancelled
+968,248,17,2025-06-12,Online,Credit Card,Returned
+969,248,17,2025-08-06,Online,Credit Card,Delivered
+970,248,17,2025-10-06,Online,UPI,Delivered
+971,248,15,2025-10-09,In-Store,UPI,Cancelled
+972,248,17,2025-11-09,Online,Debit Card,Cancelled
+973,248,17,2025-11-18,Online,Credit Card,Delivered
+974,248,17,2025-12-01,Online,Net Banking,Delivered
+975,248,13,2025-12-02,In-Store,Credit Card,Delivered
+976,248,17,2025-12-19,Online,UPI,Delivered
+977,248,17,2025-12-30,Online,Debit Card,Delivered
+978,249,17,2025-02-15,Online,Credit Card,Delivered
+979,249,17,2025-03-11,Online,UPI,Delivered
+980,249,17,2025-03-15,Online,Net Banking,Delivered
+981,249,16,2025-04-01,In-Store,Credit Card,Delivered
+982,249,17,2025-04-06,Online,Net Banking,Delivered
+983,249,17,2025-04-27,Online,Cash on Delivery,Cancelled
+984,249,17,2025-05-09,Online,Cash on Delivery,Cancelled
+985,249,13,2025-07-29,In-Store,Debit Card,Cancelled
+986,249,17,2025-10-21,Online,Net Banking,Cancelled
+987,249,17,2025-11-09,Online,Cash on Delivery,Delivered
+988,249,17,2025-11-24,Online,UPI,Delivered
+989,249,17,2025-11-26,Online,UPI,Delivered
+990,250,9,2025-07-07,In-Store,Cash on Delivery,Delivered
+991,250,17,2025-07-13,Online,Cash on Delivery,Cancelled
+992,250,6,2025-07-20,In-Store,UPI,Delivered
+993,251,17,2024-11-14,Online,Credit Card,Cancelled
+994,252,17,2025-11-02,Online,Net Banking,Cancelled
+995,253,6,2024-07-16,In-Store,UPI,Delivered
+996,253,17,2024-11-29,Online,Debit Card,Cancelled
+997,253,1,2025-08-04,In-Store,Debit Card,Returned
+998,253,5,2025-11-24,In-Store,UPI,Delivered
+999,253,16,2025-12-13,In-Store,Debit Card,Delivered
+1000,254,17,2024-02-13,Online,Credit Card,Delivered
+1001,255,17,2025-11-24,Online,Cash on Delivery,Delivered
+1002,256,17,2025-05-08,Online,UPI,Delivered
+1003,256,11,2025-06-15,In-Store,UPI,Returned
+1004,256,11,2025-07-25,In-Store,Credit Card,Delivered
+1005,257,17,2024-11-21,Online,Credit Card,Delivered
+1006,257,12,2025-01-04,In-Store,Debit Card,Delivered
+1007,257,17,2025-01-16,Online,Net Banking,Returned
+1008,257,17,2025-06-18,Online,Debit Card,Delivered
+1009,257,17,2025-07-19,Online,Net Banking,Delivered
+1010,257,16,2025-10-08,In-Store,Debit Card,Returned
+1011,257,17,2025-10-09,Online,Cash on Delivery,Delivered
+1012,257,8,2025-10-14,In-Store,UPI,Returned
+1013,257,17,2025-11-07,Online,Debit Card,Returned
+1014,257,17,2025-12-10,Online,Credit Card,Returned
+1015,258,13,2024-05-25,In-Store,Credit Card,Cancelled
+1016,258,17,2024-06-30,Online,Cash on Delivery,Delivered
+1017,258,17,2024-07-22,Online,Credit Card,Delivered
+1018,258,5,2024-09-15,In-Store,Credit Card,Delivered
+1019,258,17,2024-09-19,Online,UPI,Delivered
+1020,258,17,2025-04-13,Online,Debit Card,Delivered
+1021,258,17,2025-06-22,Online,UPI,Delivered
+1022,258,17,2025-12-09,Online,Debit Card,Delivered
+1023,259,1,2025-08-08,In-Store,Cash on Delivery,Delivered
+1024,259,17,2025-12-20,Online,UPI,Delivered
+1025,260,17,2024-07-10,Online,Debit Card,Delivered
+1026,260,17,2024-11-23,Online,Net Banking,Delivered
+1027,260,8,2025-05-18,In-Store,Cash on Delivery,Delivered
+1028,261,2,2024-12-28,In-Store,Credit Card,Delivered
+1029,261,17,2025-07-21,Online,Credit Card,Delivered
+1030,261,17,2025-10-05,Online,UPI,Delivered
+1031,262,17,2024-03-12,Online,Debit Card,Delivered
+1032,262,17,2024-03-13,Online,Net Banking,Delivered
+1033,262,17,2024-03-15,Online,UPI,Delivered
+1034,262,17,2024-03-19,Online,UPI,Delivered
+1035,262,17,2024-05-29,Online,UPI,Delivered
+1036,262,14,2024-07-12,In-Store,Debit Card,Returned
+1037,262,17,2024-09-26,Online,UPI,Delivered
+1038,262,17,2024-10-11,Online,Cash on Delivery,Delivered
+1039,262,17,2024-10-27,Online,UPI,Delivered
+1040,262,17,2024-11-07,Online,Net Banking,Delivered
+1041,262,17,2024-12-25,Online,Cash on Delivery,Cancelled
+1042,262,17,2025-03-12,Online,Credit Card,Delivered
+1043,262,17,2025-06-11,Online,Debit Card,Returned
+1044,262,16,2025-07-03,In-Store,Credit Card,Cancelled
+1045,262,17,2025-07-17,Online,Net Banking,Delivered
+1046,262,17,2025-07-21,Online,Debit Card,Returned
+1047,262,17,2025-12-07,Online,Net Banking,Delivered
+1048,262,17,2025-12-10,Online,Debit Card,Delivered
+1049,262,17,2025-12-26,Online,Debit Card,Delivered
+1050,263,17,2024-10-28,Online,Debit Card,Delivered
+1051,263,17,2025-08-09,Online,Credit Card,Delivered
+1052,263,17,2025-09-26,Online,Cash on Delivery,Delivered
+1053,264,8,2025-01-16,In-Store,Credit Card,Delivered
+1054,264,14,2025-07-17,In-Store,Cash on Delivery,Delivered
+1055,264,17,2025-08-21,Online,Net Banking,Delivered
+1056,265,17,2024-02-02,Online,Credit Card,Cancelled
+1057,265,17,2024-07-13,Online,Cash on Delivery,Delivered
+1058,265,17,2025-06-04,Online,UPI,Delivered
+1059,265,17,2025-07-18,Online,Net Banking,Cancelled
+1060,265,17,2025-08-08,Online,UPI,Delivered
+1061,266,17,2024-12-30,Online,Credit Card,Delivered
+1062,266,14,2025-07-27,In-Store,UPI,Delivered
+1063,266,9,2025-08-10,In-Store,Credit Card,Delivered
+1064,266,17,2025-12-08,Online,Net Banking,Delivered
+1065,267,17,2024-10-29,Online,Cash on Delivery,Delivered
+1066,267,17,2024-11-14,Online,Credit Card,Cancelled
+1067,267,14,2024-12-14,In-Store,Cash on Delivery,Delivered
+1068,267,17,2025-03-10,Online,Cash on Delivery,Delivered
+1069,267,17,2025-05-01,Online,Credit Card,Delivered
+1070,267,17,2025-06-07,Online,Debit Card,Delivered
+1071,267,12,2025-10-27,In-Store,Debit Card,Delivered
+1072,268,17,2024-10-19,Online,Cash on Delivery,Delivered
+1073,268,17,2025-04-12,Online,Debit Card,Delivered
+1074,268,17,2025-07-28,Online,Cash on Delivery,Delivered
+1075,268,17,2025-10-12,Online,Credit Card,Delivered
+1076,268,17,2025-11-19,Online,UPI,Delivered
+1077,268,17,2025-11-29,Online,Debit Card,Delivered
+1078,269,17,2025-11-01,Online,Debit Card,Cancelled
+1079,269,17,2025-11-05,Online,Net Banking,Cancelled
+1080,271,17,2024-07-23,Online,Net Banking,Returned
+1081,271,11,2024-09-02,In-Store,Cash on Delivery,Delivered
+1082,271,17,2024-10-07,Online,UPI,Delivered
+1083,271,17,2025-10-27,Online,Net Banking,Cancelled
+1084,272,17,2024-04-21,Online,Debit Card,Delivered
+1085,272,6,2024-08-01,In-Store,Debit Card,Delivered
+1086,272,17,2025-06-29,Online,UPI,Delivered
+1087,272,1,2025-11-09,In-Store,UPI,Delivered
+1088,272,7,2025-11-19,In-Store,Credit Card,Cancelled
+1089,272,17,2025-12-15,Online,Credit Card,Delivered
+1090,272,7,2025-12-25,In-Store,Debit Card,Delivered
+1091,272,13,2025-12-25,In-Store,Credit Card,Returned
+1092,273,17,2024-06-01,Online,Net Banking,Delivered
+1093,273,17,2024-07-12,Online,Net Banking,Delivered
+1094,273,17,2024-12-06,Online,Debit Card,Delivered
+1095,273,17,2025-02-25,Online,Credit Card,Delivered
+1096,273,17,2025-03-04,Online,Credit Card,Delivered
+1097,273,17,2025-08-27,Online,UPI,Delivered
+1098,273,8,2025-10-06,In-Store,UPI,Returned
+1099,273,17,2025-11-13,Online,Cash on Delivery,Delivered
+1100,274,1,2024-04-29,In-Store,UPI,Delivered
+1101,274,17,2024-07-24,Online,Credit Card,Delivered
+1102,274,17,2024-07-24,Online,Debit Card,Delivered
+1103,274,17,2025-04-19,Online,Debit Card,Returned
+1104,274,17,2025-08-03,Online,Debit Card,Delivered
+1105,274,17,2025-08-16,Online,Net Banking,Delivered
+1106,274,17,2025-11-30,Online,Cash on Delivery,Delivered
+1107,274,17,2025-12-07,Online,Credit Card,Delivered
+1108,275,17,2024-11-18,Online,Cash on Delivery,Delivered
+1109,275,17,2025-10-03,Online,Credit Card,Returned
+1110,276,17,2024-07-21,Online,Debit Card,Delivered
+1111,276,9,2024-12-18,In-Store,Debit Card,Returned
+1112,276,17,2025-12-04,Online,UPI,Delivered
+1113,277,13,2025-04-11,In-Store,Debit Card,Returned
+1114,277,17,2025-04-13,Online,Credit Card,Returned
+1115,277,17,2025-11-09,Online,Debit Card,Delivered
+1116,278,17,2024-03-08,Online,Credit Card,Returned
+1117,278,17,2024-05-24,Online,UPI,Delivered
+1118,278,17,2024-10-06,Online,UPI,Returned
+1119,278,17,2024-11-27,Online,Net Banking,Returned
+1120,278,12,2025-10-05,In-Store,Debit Card,Delivered
+1121,278,6,2025-11-04,In-Store,Credit Card,Delivered
+1122,279,17,2024-01-03,Online,Cash on Delivery,Delivered
+1123,279,6,2024-02-01,In-Store,Debit Card,Returned
+1124,279,17,2024-02-14,Online,Debit Card,Delivered
+1125,279,17,2024-12-31,Online,Debit Card,Cancelled
+1126,279,17,2025-04-20,Online,Debit Card,Delivered
+1127,279,17,2025-12-29,Online,Net Banking,Delivered
+1128,280,17,2025-05-08,Online,Cash on Delivery,Cancelled
+1129,280,17,2025-11-06,Online,Credit Card,Delivered
+1130,280,17,2025-12-06,Online,Cash on Delivery,Delivered
+1131,281,13,2025-04-17,In-Store,Debit Card,Delivered
+1132,281,17,2025-12-21,Online,UPI,Cancelled
+1133,281,17,2025-12-27,Online,Debit Card,Delivered
+1134,282,15,2024-04-20,In-Store,Debit Card,Delivered
+1135,282,6,2025-02-20,In-Store,Credit Card,Cancelled
+1136,282,17,2025-04-23,Online,UPI,Returned
+1137,283,17,2024-05-27,Online,Net Banking,Delivered
+1138,283,17,2024-10-01,Online,UPI,Cancelled
+1139,284,17,2025-11-15,Online,Credit Card,Cancelled
+1140,285,17,2025-10-02,Online,Net Banking,Returned
+1141,286,17,2024-10-13,Online,Net Banking,Delivered
+1142,286,17,2024-11-14,Online,UPI,Delivered
+1143,286,1,2025-07-27,In-Store,UPI,Delivered
+1144,289,17,2025-09-16,Online,Debit Card,Delivered
+1145,290,17,2025-12-21,Online,Cash on Delivery,Delivered
+1146,291,17,2025-06-11,Online,Credit Card,Cancelled
+1147,291,17,2025-12-11,Online,Net Banking,Delivered
+1148,292,17,2025-08-20,Online,UPI,Returned
+1149,292,17,2025-12-28,Online,Debit Card,Delivered
+1150,293,17,2025-10-11,Online,Net Banking,Cancelled
+1151,293,17,2025-10-20,Online,UPI,Delivered
+1152,293,17,2025-12-09,Online,Cash on Delivery,Delivered
+1153,293,17,2025-12-25,Online,Debit Card,Delivered
+1154,295,9,2024-09-23,In-Store,Credit Card,Cancelled
+1155,295,17,2025-12-05,Online,Credit Card,Delivered
+1156,295,17,2025-12-26,Online,Credit Card,Delivered
+1157,297,17,2024-02-27,Online,Cash on Delivery,Delivered
+1158,297,17,2024-05-21,Online,UPI,Returned
+1159,297,17,2024-06-27,Online,Credit Card,Returned
+1160,297,17,2024-10-27,Online,Credit Card,Returned
+1161,297,17,2024-11-24,Online,Cash on Delivery,Delivered
+1162,297,17,2025-10-24,Online,Net Banking,Delivered
+1163,299,17,2024-01-04,Online,Debit Card,Delivered
+1164,299,17,2024-03-10,Online,Net Banking,Delivered
+1165,299,17,2024-06-22,Online,Debit Card,Delivered
+1166,299,7,2024-10-06,In-Store,Cash on Delivery,Delivered
+1167,299,17,2024-11-24,Online,Cash on Delivery,Delivered
+1168,299,17,2024-12-15,Online,Net Banking,Delivered
+1169,299,17,2025-10-10,Online,Credit Card,Delivered
+1170,302,17,2024-04-05,Online,Cash on Delivery,Delivered
+1171,302,17,2024-06-24,Online,Credit Card,Returned
+1172,302,8,2025-11-03,In-Store,Debit Card,Delivered
+1173,303,17,2024-08-27,Online,UPI,Delivered
+1174,303,10,2025-11-26,In-Store,Debit Card,Delivered
+1175,304,4,2024-02-19,In-Store,Credit Card,Cancelled
+1176,304,17,2024-04-21,Online,UPI,Delivered
+1177,304,17,2024-07-08,Online,Cash on Delivery,Delivered
+1178,304,17,2024-10-27,Online,Credit Card,Returned
+1179,304,17,2024-11-20,Online,UPI,Delivered
+1180,304,17,2025-12-14,Online,Net Banking,Delivered
+1181,305,16,2025-11-15,In-Store,Cash on Delivery,Cancelled
+1182,305,17,2025-11-22,Online,UPI,Cancelled
+1183,305,17,2025-11-23,Online,Credit Card,Returned
+1184,305,6,2025-11-27,In-Store,Cash on Delivery,Delivered
+1185,305,16,2025-12-12,In-Store,Cash on Delivery,Cancelled
+1186,306,17,2024-05-08,Online,Debit Card,Cancelled
+1187,306,17,2024-08-20,Online,UPI,Cancelled
+1188,306,17,2025-02-24,Online,Credit Card,Delivered
+1189,306,15,2025-07-13,In-Store,Credit Card,Delivered
+1190,306,17,2025-08-07,Online,Credit Card,Delivered
+1191,306,17,2025-08-16,Online,Cash on Delivery,Returned
+1192,306,8,2025-09-18,In-Store,Debit Card,Returned
+1193,306,17,2025-10-12,Online,Cash on Delivery,Returned
+1194,306,17,2025-10-16,Online,UPI,Returned
+1195,306,17,2025-10-26,Online,Net Banking,Returned
+1196,307,2,2025-10-20,In-Store,UPI,Delivered
+1197,308,6,2024-09-10,In-Store,Cash on Delivery,Delivered
+1198,308,17,2025-11-28,Online,Debit Card,Delivered
+1199,308,17,2025-12-10,Online,Cash on Delivery,Delivered
+1200,309,17,2024-03-28,Online,UPI,Cancelled
+1201,309,17,2024-07-21,Online,Cash on Delivery,Delivered
+1202,309,17,2024-08-14,Online,Net Banking,Cancelled
+1203,309,17,2024-12-16,Online,Net Banking,Delivered
+1204,309,1,2024-12-26,In-Store,Cash on Delivery,Delivered
+1205,309,17,2025-05-21,Online,Cash on Delivery,Delivered
+1206,309,17,2025-09-11,Online,Cash on Delivery,Delivered
+1207,309,10,2025-11-23,In-Store,UPI,Delivered
+1208,310,12,2024-10-05,In-Store,Credit Card,Cancelled
+1209,310,15,2024-12-07,In-Store,Cash on Delivery,Delivered
+1210,310,17,2025-12-24,Online,Net Banking,Delivered
+1211,313,17,2025-12-04,Online,Debit Card,Delivered
+1212,314,17,2024-07-07,Online,Credit Card,Returned
+1213,314,17,2024-08-05,Online,Net Banking,Delivered
+1214,314,17,2024-08-14,Online,Net Banking,Returned
+1215,314,17,2024-09-20,Online,UPI,Delivered
+1216,314,17,2024-10-05,Online,Net Banking,Cancelled
+1217,314,17,2024-10-31,Online,UPI,Cancelled
+1218,314,17,2024-11-02,Online,Net Banking,Delivered
+1219,314,17,2025-05-31,Online,Cash on Delivery,Returned
+1220,314,17,2025-06-08,Online,Net Banking,Delivered
+1221,314,17,2025-06-11,Online,UPI,Delivered
+1222,314,1,2025-06-13,In-Store,Credit Card,Delivered
+1223,314,17,2025-06-13,Online,Cash on Delivery,Delivered
+1224,314,17,2025-06-23,Online,UPI,Delivered
+1225,314,17,2025-11-11,Online,UPI,Delivered
+1226,314,17,2025-11-16,Online,Cash on Delivery,Returned
+1227,314,17,2025-12-05,Online,Cash on Delivery,Delivered
+1228,315,17,2024-06-23,Online,UPI,Delivered
+1229,315,17,2024-07-10,Online,Debit Card,Delivered
+1230,315,17,2024-10-14,Online,UPI,Delivered
+1231,315,17,2025-01-03,Online,Cash on Delivery,Returned
+1232,315,17,2025-05-20,Online,Cash on Delivery,Returned
+1233,315,7,2025-11-03,In-Store,UPI,Delivered
+1234,316,17,2024-01-18,Online,Debit Card,Returned
+1235,316,5,2024-03-14,In-Store,UPI,Returned
+1236,316,17,2025-02-16,Online,Debit Card,Returned
+1237,316,17,2025-06-08,Online,Debit Card,Cancelled
+1238,316,17,2025-09-29,Online,Cash on Delivery,Delivered
+1239,316,14,2025-10-23,In-Store,Debit Card,Returned
+1240,316,14,2025-11-13,In-Store,Credit Card,Cancelled
+1241,319,17,2024-12-11,Online,Credit Card,Returned
+1242,319,17,2025-09-17,Online,UPI,Cancelled
+1243,319,9,2025-10-16,In-Store,Credit Card,Delivered
+1244,320,17,2025-08-28,Online,Credit Card,Delivered
+1245,320,17,2025-10-05,Online,Credit Card,Delivered
+1246,321,13,2025-12-09,In-Store,Debit Card,Delivered
+1247,322,17,2024-04-07,Online,Net Banking,Delivered
+1248,322,17,2024-08-14,Online,Debit Card,Cancelled
+1249,322,2,2024-10-27,In-Store,Debit Card,Delivered
+1250,322,17,2024-10-28,Online,Net Banking,Cancelled
+1251,322,12,2025-01-18,In-Store,UPI,Cancelled
+1252,322,7,2025-03-17,In-Store,Cash on Delivery,Delivered
+1253,322,17,2025-10-08,Online,Credit Card,Returned
+1254,322,17,2025-12-06,Online,Cash on Delivery,Delivered
+1255,323,17,2024-11-01,Online,Debit Card,Delivered
+1256,323,17,2025-02-04,Online,UPI,Delivered
+1257,323,17,2025-09-25,Online,Credit Card,Delivered
+1258,324,17,2024-01-12,Online,Credit Card,Delivered
+1259,324,17,2025-12-20,Online,Cash on Delivery,Delivered
+1260,325,10,2024-12-25,In-Store,Debit Card,Delivered
+1261,325,17,2025-04-08,Online,Debit Card,Returned
+1262,325,17,2025-05-15,Online,Cash on Delivery,Delivered
+1263,325,17,2025-05-24,Online,UPI,Delivered
+1264,325,17,2025-05-25,Online,Net Banking,Delivered
+1265,325,17,2025-12-08,Online,UPI,Delivered
+1266,325,17,2025-12-22,Online,Debit Card,Delivered
+1267,325,17,2025-12-28,Online,Cash on Delivery,Cancelled
+1268,326,17,2025-04-02,Online,Credit Card,Delivered
+1269,326,17,2025-04-11,Online,Net Banking,Delivered
+1270,326,17,2025-04-15,Online,Cash on Delivery,Returned
+1271,326,8,2025-05-02,In-Store,Debit Card,Delivered
+1272,326,17,2025-10-05,Online,Credit Card,Cancelled
+1273,326,17,2025-10-24,Online,Debit Card,Delivered
+1274,326,17,2025-12-03,Online,Debit Card,Delivered
+1275,327,17,2024-06-17,Online,UPI,Delivered
+1276,327,17,2024-07-15,Online,Credit Card,Delivered
+1277,327,17,2025-09-24,Online,Cash on Delivery,Cancelled
+1278,328,17,2024-01-20,Online,UPI,Delivered
+1279,328,17,2024-04-10,Online,UPI,Cancelled
+1280,328,14,2024-04-12,In-Store,Credit Card,Cancelled
+1281,328,17,2024-07-23,Online,Net Banking,Cancelled
+1282,328,17,2025-01-23,Online,UPI,Delivered
+1283,328,17,2025-11-26,Online,Debit Card,Returned
+1284,328,17,2025-11-26,Online,Credit Card,Delivered
+1285,329,3,2024-02-05,In-Store,UPI,Delivered
+1286,330,17,2024-10-13,Online,Net Banking,Delivered
+1287,330,17,2025-11-13,Online,Net Banking,Delivered
+1288,332,17,2024-02-20,Online,Cash on Delivery,Returned
+1289,332,17,2024-05-14,Online,Cash on Delivery,Returned
+1290,332,17,2024-09-07,Online,Credit Card,Cancelled
+1291,332,17,2024-11-04,Online,Credit Card,Delivered
+1292,332,17,2025-05-17,Online,Debit Card,Returned
+1293,332,17,2025-10-13,Online,Net Banking,Delivered
+1294,332,17,2025-12-17,Online,Credit Card,Cancelled
+1295,333,17,2025-08-20,Online,UPI,Delivered
+1296,333,10,2025-10-18,In-Store,UPI,Returned
+1297,333,17,2025-10-18,Online,Debit Card,Cancelled
+1298,335,17,2024-07-26,Online,Cash on Delivery,Delivered
+1299,336,17,2025-02-19,Online,Debit Card,Delivered
+1300,336,17,2025-03-17,Online,Debit Card,Returned
+1301,336,17,2025-06-03,Online,Cash on Delivery,Returned
+1302,337,17,2025-08-13,Online,Cash on Delivery,Delivered
+1303,337,7,2025-08-23,In-Store,UPI,Delivered
+1304,337,17,2025-11-02,Online,Credit Card,Delivered
+1305,337,15,2025-11-17,In-Store,Credit Card,Returned
+1306,338,17,2024-06-24,Online,Credit Card,Delivered
+1307,338,17,2024-08-19,Online,Net Banking,Delivered
+1308,338,12,2025-04-24,In-Store,UPI,Delivered
+1309,338,17,2025-07-06,Online,Credit Card,Delivered
+1310,338,11,2025-11-17,In-Store,Cash on Delivery,Delivered
+1311,339,17,2024-12-08,Online,Cash on Delivery,Delivered
+1312,339,17,2025-11-27,Online,Debit Card,Delivered
+1313,340,6,2024-11-11,In-Store,Debit Card,Delivered
+1314,340,17,2025-05-01,Online,Net Banking,Delivered
+1315,341,5,2025-03-31,In-Store,Debit Card,Returned
+1316,341,15,2025-07-02,In-Store,Debit Card,Delivered
+1317,342,17,2025-12-14,Online,UPI,Delivered
+1318,342,17,2025-12-14,Online,Debit Card,Delivered
+1319,343,7,2024-11-25,In-Store,Credit Card,Delivered
+1320,346,17,2024-08-27,Online,Cash on Delivery,Cancelled
+1321,346,17,2024-11-19,Online,Cash on Delivery,Cancelled
+1322,346,17,2024-11-19,Online,Cash on Delivery,Delivered
+1323,346,17,2025-08-12,Online,Net Banking,Delivered
+1324,346,17,2025-09-16,Online,Debit Card,Delivered
+1325,346,17,2025-10-09,Online,Cash on Delivery,Cancelled
+1326,346,10,2025-12-19,In-Store,Cash on Delivery,Delivered
+1327,347,17,2025-06-16,Online,Debit Card,Delivered
+1328,347,17,2025-09-20,Online,UPI,Returned
+1329,347,6,2025-11-07,In-Store,UPI,Cancelled
+1330,347,17,2025-11-11,Online,Cash on Delivery,Delivered
+1331,347,5,2025-12-05,In-Store,Cash on Delivery,Returned
+1332,347,2,2025-12-07,In-Store,Cash on Delivery,Delivered
+1333,347,17,2025-12-18,Online,Debit Card,Delivered
+1334,348,17,2024-07-07,Online,Cash on Delivery,Delivered
+1335,349,17,2024-07-01,Online,Credit Card,Delivered
+1336,349,17,2025-12-12,Online,Debit Card,Returned
+1337,350,17,2025-04-17,Online,Debit Card,Delivered
+1338,350,9,2025-10-03,In-Store,UPI,Delivered
+1339,350,17,2025-11-25,Online,Debit Card,Delivered
+1340,352,17,2024-03-30,Online,Cash on Delivery,Delivered
+1341,352,17,2024-05-14,Online,Debit Card,Cancelled
+1342,352,17,2024-10-03,Online,Cash on Delivery,Delivered
+1343,352,17,2024-10-15,Online,Net Banking,Delivered
+1344,352,17,2025-06-17,Online,Cash on Delivery,Delivered
+1345,352,17,2025-11-02,Online,UPI,Delivered
+1346,352,17,2025-12-30,Online,Cash on Delivery,Delivered
+1347,353,8,2025-05-23,In-Store,Debit Card,Delivered
+1348,353,16,2025-06-03,In-Store,Cash on Delivery,Returned
+1349,353,17,2025-06-03,Online,UPI,Delivered
+1350,353,17,2025-06-06,Online,Credit Card,Delivered
+1351,353,17,2025-07-07,Online,Cash on Delivery,Delivered
+1352,353,17,2025-11-03,Online,Cash on Delivery,Delivered
+1353,353,17,2025-11-09,Online,UPI,Delivered
+1354,353,17,2025-11-26,Online,UPI,Delivered
+1355,354,17,2024-09-17,Online,Credit Card,Delivered
+1356,354,10,2024-12-09,In-Store,UPI,Delivered
+1357,354,17,2025-11-11,Online,Net Banking,Delivered
+1358,355,17,2025-10-04,Online,Cash on Delivery,Delivered
+1359,356,6,2024-10-30,In-Store,Debit Card,Delivered
+1360,356,17,2025-03-08,Online,Debit Card,Returned
+1361,356,3,2025-10-12,In-Store,Cash on Delivery,Delivered
+1362,356,17,2025-11-17,Online,Credit Card,Delivered
+1363,357,17,2024-11-17,Online,Net Banking,Delivered
+1364,358,17,2025-05-03,Online,Net Banking,Delivered
+1365,359,17,2025-05-03,Online,Cash on Delivery,Cancelled
+1366,359,17,2025-05-04,Online,Credit Card,Delivered
+1367,359,17,2025-05-08,Online,Cash on Delivery,Delivered
+1368,359,17,2025-06-16,Online,Net Banking,Delivered
+1369,359,17,2025-07-15,Online,Credit Card,Delivered
+1370,359,17,2025-07-21,Online,UPI,Delivered
+1371,359,16,2025-08-07,In-Store,Cash on Delivery,Cancelled
+1372,359,17,2025-08-08,Online,Cash on Delivery,Cancelled
+1373,359,17,2025-09-15,Online,Debit Card,Delivered
+1374,359,17,2025-10-15,Online,Credit Card,Delivered
+1375,359,17,2025-10-26,Online,Net Banking,Delivered
+1376,359,17,2025-10-30,Online,Credit Card,Delivered
+1377,359,17,2025-11-03,Online,Cash on Delivery,Delivered
+1378,359,17,2025-11-03,Online,UPI,Returned
+1379,359,17,2025-11-16,Online,Net Banking,Delivered
+1380,359,17,2025-11-28,Online,Net Banking,Delivered
+1381,359,17,2025-12-12,Online,Debit Card,Delivered
+1382,360,17,2025-10-02,Online,Debit Card,Delivered
+1383,360,13,2025-11-06,In-Store,UPI,Cancelled
+1384,360,17,2025-11-10,Online,Cash on Delivery,Cancelled
+1385,361,17,2025-11-09,Online,Cash on Delivery,Delivered
+1386,361,17,2025-11-23,Online,Cash on Delivery,Delivered
+1387,361,17,2025-12-06,Online,Net Banking,Returned
+1388,362,17,2024-05-13,Online,Credit Card,Cancelled
+1389,362,15,2024-07-14,In-Store,UPI,Cancelled
+1390,362,17,2024-12-15,Online,Net Banking,Delivered
+1391,362,2,2025-02-03,In-Store,Cash on Delivery,Delivered
+1392,362,1,2025-06-05,In-Store,Credit Card,Cancelled
+1393,362,16,2025-08-19,In-Store,Cash on Delivery,Delivered
+1394,362,17,2025-10-27,Online,UPI,Delivered
+1395,362,17,2025-12-18,Online,Credit Card,Delivered
+1396,363,13,2024-07-13,In-Store,Debit Card,Delivered
+1397,363,17,2024-12-14,Online,Credit Card,Delivered
+1398,363,6,2025-11-15,In-Store,Cash on Delivery,Returned
+1399,364,17,2024-11-04,Online,Cash on Delivery,Cancelled
+1400,364,17,2024-11-17,Online,Cash on Delivery,Delivered
+1401,364,17,2025-11-02,Online,UPI,Returned
+1402,365,17,2024-05-22,Online,Debit Card,Delivered
+1403,365,17,2024-10-04,Online,UPI,Delivered
+1404,365,17,2024-11-15,Online,Net Banking,Delivered
+1405,365,17,2024-11-26,Online,Net Banking,Delivered
+1406,365,17,2024-12-19,Online,Credit Card,Delivered
+1407,365,3,2025-03-17,In-Store,Debit Card,Delivered
+1408,365,12,2025-03-21,In-Store,Debit Card,Delivered
+1409,365,17,2025-03-21,Online,Net Banking,Delivered
+1410,365,1,2025-06-01,In-Store,UPI,Delivered
+1411,365,17,2025-06-17,Online,Cash on Delivery,Delivered
+1412,365,17,2025-08-10,Online,Debit Card,Delivered
+1413,365,9,2025-08-19,In-Store,Debit Card,Delivered
+1414,365,17,2025-09-01,Online,Cash on Delivery,Delivered
+1415,365,17,2025-09-16,Online,Debit Card,Delivered
+1416,365,15,2025-10-09,In-Store,Cash on Delivery,Returned
+1417,365,1,2025-10-24,In-Store,Credit Card,Delivered
+1418,365,17,2025-11-29,Online,UPI,Delivered
+1419,366,14,2024-10-04,In-Store,Credit Card,Delivered
+1420,367,8,2025-08-01,In-Store,Credit Card,Delivered
+1421,367,17,2025-08-30,Online,Debit Card,Returned
+1422,367,17,2025-09-05,Online,Net Banking,Delivered
+1423,367,17,2025-09-09,Online,Cash on Delivery,Delivered
+1424,367,17,2025-09-10,Online,UPI,Returned
+1425,367,17,2025-09-15,Online,UPI,Delivered
+1426,367,9,2025-09-20,In-Store,UPI,Delivered
+1427,367,17,2025-09-27,Online,Cash on Delivery,Delivered
+1428,367,17,2025-10-01,Online,Credit Card,Cancelled
+1429,367,17,2025-10-02,Online,Net Banking,Delivered
+1430,367,17,2025-10-09,Online,Cash on Delivery,Cancelled
+1431,367,16,2025-10-13,In-Store,Debit Card,Delivered
+1432,367,17,2025-11-13,Online,Debit Card,Delivered
+1433,367,17,2025-11-16,Online,Cash on Delivery,Cancelled
+1434,367,17,2025-11-16,Online,Cash on Delivery,Delivered
+1435,367,17,2025-11-17,Online,Net Banking,Delivered
+1436,367,17,2025-12-06,Online,Credit Card,Delivered
+1437,367,17,2025-12-07,Online,UPI,Delivered
+1438,367,17,2025-12-18,Online,Cash on Delivery,Delivered
+1439,368,17,2024-06-30,Online,Credit Card,Delivered
+1440,368,17,2024-07-10,Online,Cash on Delivery,Delivered
+1441,368,17,2024-07-13,Online,Cash on Delivery,Delivered
+1442,368,6,2024-07-16,In-Store,Debit Card,Delivered
+1443,368,17,2024-10-17,Online,Cash on Delivery,Delivered
+1444,368,17,2024-11-17,Online,Net Banking,Delivered
+1445,368,17,2024-11-17,Online,Debit Card,Delivered
+1446,368,17,2024-12-16,Online,Debit Card,Delivered
+1447,368,17,2025-04-11,Online,UPI,Delivered
+1448,368,8,2025-04-20,In-Store,Credit Card,Cancelled
+1449,368,8,2025-05-21,In-Store,Cash on Delivery,Delivered
+1450,368,7,2025-09-03,In-Store,UPI,Delivered
+1451,368,17,2025-10-29,Online,UPI,Delivered
+1452,368,17,2025-11-13,Online,Cash on Delivery,Delivered
+1453,368,17,2025-12-24,Online,Net Banking,Delivered
+1454,369,17,2025-12-07,Online,Cash on Delivery,Cancelled
+1455,369,17,2025-12-23,Online,UPI,Delivered
+1456,371,16,2025-11-03,In-Store,Credit Card,Cancelled
+1457,372,9,2024-02-02,In-Store,Debit Card,Delivered
+1458,372,17,2025-02-09,Online,Debit Card,Cancelled
+1459,372,17,2025-04-07,Online,Credit Card,Delivered
+1460,373,7,2024-07-27,In-Store,UPI,Delivered
+1461,373,10,2025-02-21,In-Store,Debit Card,Delivered
+1462,374,17,2024-10-13,Online,Net Banking,Cancelled
+1463,374,13,2024-11-10,In-Store,Debit Card,Delivered
+1464,374,17,2024-12-26,Online,UPI,Delivered
+1465,374,17,2025-01-11,Online,Net Banking,Delivered
+1466,374,17,2025-06-28,Online,Net Banking,Delivered
+1467,374,3,2025-11-22,In-Store,UPI,Delivered
+1468,374,17,2025-12-06,Online,Debit Card,Delivered
+1469,374,17,2025-12-17,Online,Debit Card,Returned
+1470,375,17,2025-07-14,Online,Debit Card,Delivered
+1471,375,15,2025-09-16,In-Store,UPI,Delivered
+1472,375,17,2025-12-11,Online,UPI,Delivered
+1473,376,17,2025-10-04,Online,Credit Card,Returned
+1474,377,17,2025-05-04,Online,Credit Card,Delivered
+1475,377,17,2025-08-24,Online,Cash on Delivery,Delivered
+1476,377,17,2025-10-30,Online,Net Banking,Cancelled
+1477,377,17,2025-11-22,Online,Credit Card,Delivered
+1478,378,17,2024-11-23,Online,Net Banking,Delivered
+1479,378,17,2025-10-30,Online,Debit Card,Delivered
+1480,379,17,2025-04-07,Online,Cash on Delivery,Delivered
+1481,379,1,2025-09-19,In-Store,Debit Card,Delivered
+1482,379,11,2025-11-13,In-Store,Cash on Delivery,Cancelled
+1483,379,17,2025-12-04,Online,Cash on Delivery,Cancelled
+1484,379,15,2025-12-07,In-Store,UPI,Delivered
+1485,379,17,2025-12-22,Online,Cash on Delivery,Delivered
+1486,380,17,2024-02-09,Online,Cash on Delivery,Returned
+1487,380,17,2025-06-29,Online,Net Banking,Delivered
+1488,380,17,2025-07-29,Online,Credit Card,Cancelled
+1489,381,17,2025-01-20,Online,Debit Card,Delivered
+1490,381,17,2025-08-24,Online,Credit Card,Delivered
+1491,381,17,2025-11-06,Online,UPI,Cancelled
+1492,382,17,2024-05-08,Online,Credit Card,Delivered
+1493,382,17,2025-05-28,Online,Net Banking,Delivered
+1494,382,17,2025-08-31,Online,Net Banking,Cancelled
+1495,382,8,2025-11-23,In-Store,Credit Card,Cancelled
+1496,382,17,2025-12-09,Online,Net Banking,Delivered
+1497,383,17,2024-10-17,Online,UPI,Delivered
+1498,383,17,2024-12-08,Online,Net Banking,Returned
+1499,383,8,2025-02-08,In-Store,Credit Card,Delivered
+1500,383,17,2025-06-05,Online,Cash on Delivery,Delivered
+1501,383,9,2025-07-19,In-Store,Debit Card,Delivered
+1502,383,17,2025-08-31,Online,Credit Card,Cancelled
+1503,383,17,2025-10-31,Online,Credit Card,Delivered
+1504,384,17,2024-08-15,Online,Debit Card,Delivered
+1505,384,17,2024-08-22,Online,UPI,Delivered
+1506,384,17,2024-12-28,Online,Credit Card,Delivered
+1507,384,1,2025-07-23,In-Store,Credit Card,Delivered
+1508,384,17,2025-10-12,Online,Net Banking,Delivered
+1509,384,8,2025-11-12,In-Store,UPI,Delivered
+1510,384,17,2025-12-01,Online,Debit Card,Delivered
+1511,384,17,2025-12-13,Online,Net Banking,Cancelled
+1512,385,17,2025-05-17,Online,Credit Card,Cancelled
+1513,385,17,2025-06-23,Online,UPI,Cancelled
+1514,385,17,2025-07-04,Online,Net Banking,Cancelled
+1515,385,17,2025-10-11,Online,UPI,Delivered
+1516,385,17,2025-11-27,Online,Debit Card,Cancelled
+1517,386,4,2024-01-12,In-Store,UPI,Cancelled
+1518,386,17,2024-03-06,Online,UPI,Delivered
+1519,386,2,2024-10-02,In-Store,Cash on Delivery,Delivered
+1520,386,4,2024-10-27,In-Store,UPI,Delivered
+1521,386,17,2024-11-13,Online,Debit Card,Returned
+1522,386,6,2025-09-12,In-Store,Credit Card,Returned
+1523,388,17,2024-05-08,Online,UPI,Delivered
+1524,388,17,2025-09-19,Online,UPI,Delivered
+1525,389,17,2024-09-02,Online,Debit Card,Delivered
+1526,389,17,2025-06-07,Online,Debit Card,Cancelled
+1527,389,17,2025-11-24,Online,UPI,Delivered
+1528,390,16,2025-07-05,In-Store,UPI,Returned
+1529,390,17,2025-07-26,Online,UPI,Delivered
+1530,390,17,2025-11-18,Online,Cash on Delivery,Delivered
+1531,391,2,2024-03-09,In-Store,Debit Card,Delivered
+1532,391,17,2024-06-11,Online,Cash on Delivery,Returned
+1533,391,5,2024-07-12,In-Store,UPI,Delivered
+1534,391,17,2024-09-26,Online,Debit Card,Delivered
+1535,391,15,2024-10-02,In-Store,UPI,Returned
+1536,391,17,2024-11-08,Online,Debit Card,Delivered
+1537,391,9,2024-12-09,In-Store,Cash on Delivery,Delivered
+1538,391,17,2025-01-20,Online,Debit Card,Delivered
+1539,391,17,2025-03-04,Online,UPI,Delivered
+1540,391,17,2025-08-03,Online,Debit Card,Delivered
+1541,391,17,2025-10-18,Online,Debit Card,Delivered
+1542,391,6,2025-11-07,In-Store,UPI,Delivered
+1543,391,17,2025-12-04,Online,Debit Card,Cancelled
+1544,392,17,2024-07-27,Online,Cash on Delivery,Cancelled
+1545,392,17,2025-03-25,Online,Credit Card,Delivered
+1546,393,8,2025-03-25,In-Store,Credit Card,Delivered
+1547,393,17,2025-11-12,Online,Net Banking,Delivered
+1548,394,17,2024-11-10,Online,Cash on Delivery,Delivered
+1549,394,17,2025-03-08,Online,Debit Card,Delivered
+1550,394,17,2025-05-13,Online,Credit Card,Delivered
+1551,394,17,2025-11-24,Online,Credit Card,Returned
+1552,396,17,2024-08-29,Online,UPI,Delivered
+1553,396,17,2024-10-27,Online,Credit Card,Delivered
+1554,396,17,2025-01-27,Online,Net Banking,Returned
+1555,396,17,2025-03-17,Online,Cash on Delivery,Delivered
+1556,396,17,2025-05-01,Online,Credit Card,Delivered
+1557,396,17,2025-10-04,Online,Credit Card,Delivered
+1558,396,17,2025-10-09,Online,Net Banking,Delivered
+1559,396,3,2025-10-22,In-Store,Credit Card,Delivered
+1560,396,17,2025-11-08,Online,Net Banking,Returned
+1561,396,2,2025-12-16,In-Store,Debit Card,Cancelled
+1562,397,17,2024-12-25,Online,Debit Card,Delivered
+1563,397,17,2025-02-22,Online,Cash on Delivery,Delivered
+1564,397,17,2025-03-22,Online,UPI,Returned
+1565,397,17,2025-04-20,Online,UPI,Delivered
+1566,397,17,2025-05-23,Online,Cash on Delivery,Delivered
+1567,397,17,2025-12-04,Online,Cash on Delivery,Delivered
+1568,397,14,2025-12-31,In-Store,Credit Card,Returned
+1569,398,17,2025-04-05,Online,Net Banking,Returned
+1570,398,6,2025-04-06,In-Store,UPI,Cancelled
+1571,399,17,2024-04-22,Online,UPI,Delivered
+1572,399,17,2024-05-05,Online,Net Banking,Delivered
+1573,399,11,2024-11-01,In-Store,Debit Card,Delivered
+1574,399,14,2024-11-24,In-Store,Cash on Delivery,Cancelled
+1575,399,11,2024-12-13,In-Store,UPI,Delivered
+1576,399,17,2025-10-21,Online,Net Banking,Delivered
+1577,399,9,2025-11-23,In-Store,Cash on Delivery,Delivered
+1578,400,1,2024-02-15,In-Store,Credit Card,Returned
+1579,400,1,2024-03-03,In-Store,UPI,Delivered
+1580,400,10,2024-08-28,In-Store,Debit Card,Delivered
+1581,400,7,2024-10-21,In-Store,Debit Card,Cancelled
+1582,400,17,2025-06-10,Online,Debit Card,Cancelled
+1583,400,5,2025-12-16,In-Store,Credit Card,Delivered
+1584,401,17,2025-01-19,Online,Debit Card,Delivered
+1585,401,17,2025-06-30,Online,UPI,Delivered
+1586,401,17,2025-11-21,Online,Debit Card,Cancelled
+1587,402,17,2024-03-01,Online,UPI,Delivered
+1588,402,11,2024-03-16,In-Store,Cash on Delivery,Cancelled
+1589,402,17,2024-04-11,Online,Cash on Delivery,Cancelled
+1590,402,4,2024-07-26,In-Store,Debit Card,Delivered
+1591,402,17,2024-11-21,Online,Cash on Delivery,Cancelled
+1592,402,17,2025-02-09,Online,Credit Card,Cancelled
+1593,402,11,2025-02-12,In-Store,Cash on Delivery,Delivered
+1594,402,17,2025-08-19,Online,Credit Card,Cancelled
+1595,402,8,2025-10-04,In-Store,Credit Card,Returned
+1596,403,17,2025-06-01,Online,Credit Card,Delivered
+1597,403,17,2025-09-01,Online,UPI,Delivered
+1598,403,17,2025-12-22,Online,UPI,Returned
+1599,404,17,2025-08-09,Online,Net Banking,Returned
+1600,404,3,2025-08-23,In-Store,Cash on Delivery,Delivered
+1601,404,17,2025-08-26,Online,UPI,Delivered
+1602,404,17,2025-12-25,Online,Net Banking,Delivered
+1603,406,17,2024-01-01,Online,Net Banking,Delivered
+1604,406,17,2024-01-14,Online,UPI,Cancelled
+1605,406,16,2024-02-06,In-Store,UPI,Delivered
+1606,406,17,2024-03-19,Online,Cash on Delivery,Returned
+1607,406,17,2024-06-19,Online,Cash on Delivery,Delivered
+1608,406,17,2024-11-24,Online,Debit Card,Delivered
+1609,406,11,2025-12-21,In-Store,Credit Card,Returned
+1610,408,17,2024-01-01,Online,UPI,Delivered
+1611,408,17,2024-10-21,Online,Credit Card,Delivered
+1612,408,6,2025-05-01,In-Store,Cash on Delivery,Delivered
+1613,409,17,2024-01-16,Online,UPI,Delivered
+1614,409,17,2024-02-05,Online,UPI,Delivered
+1615,409,3,2024-03-13,In-Store,Credit Card,Delivered
+1616,409,17,2024-03-17,Online,UPI,Delivered
+1617,409,10,2024-07-28,In-Store,Debit Card,Delivered
+1618,409,17,2024-09-29,Online,Debit Card,Delivered
+1619,409,17,2024-10-31,Online,Debit Card,Delivered
+1620,409,17,2025-02-15,Online,UPI,Delivered
+1621,409,17,2025-05-31,Online,Debit Card,Delivered
+1622,409,17,2025-07-01,Online,UPI,Delivered
+1623,409,17,2025-07-11,Online,Credit Card,Returned
+1624,409,17,2025-08-24,Online,Cash on Delivery,Returned
+1625,409,17,2025-09-02,Online,Credit Card,Delivered
+1626,409,17,2025-09-21,Online,Cash on Delivery,Cancelled
+1627,409,17,2025-10-29,Online,Credit Card,Delivered
+1628,409,17,2025-12-09,Online,Debit Card,Returned
+1629,409,17,2025-12-20,Online,Debit Card,Returned
+1630,412,13,2024-05-09,In-Store,Cash on Delivery,Delivered
+1631,412,17,2024-10-24,Online,Credit Card,Returned
+1632,412,16,2024-11-18,In-Store,Credit Card,Cancelled
+1633,412,17,2024-12-03,Online,Net Banking,Delivered
+1634,412,17,2025-02-02,Online,Credit Card,Returned
+1635,412,17,2025-03-24,Online,Debit Card,Delivered
+1636,412,17,2025-03-25,Online,UPI,Delivered
+1637,412,17,2025-03-27,Online,Debit Card,Returned
+1638,412,17,2025-09-15,Online,UPI,Delivered
+1639,412,9,2025-11-01,In-Store,Credit Card,Cancelled
+1640,412,17,2025-11-09,Online,Credit Card,Delivered
+1641,412,9,2025-12-02,In-Store,UPI,Delivered
+1642,413,5,2024-06-13,In-Store,Cash on Delivery,Delivered
+1643,413,17,2024-08-25,Online,Cash on Delivery,Returned
+1644,413,8,2024-11-03,In-Store,UPI,Delivered
+1645,413,17,2024-11-10,Online,Debit Card,Delivered
+1646,413,11,2025-02-15,In-Store,UPI,Delivered
+1647,413,17,2025-03-07,Online,Cash on Delivery,Delivered
+1648,413,17,2025-05-17,Online,UPI,Cancelled
+1649,413,10,2025-11-18,In-Store,UPI,Returned
+1650,413,17,2025-11-19,Online,UPI,Cancelled
+1651,413,17,2025-11-29,Online,UPI,Delivered
+1652,413,17,2025-12-14,Online,Cash on Delivery,Delivered
+1653,413,4,2025-12-18,In-Store,Debit Card,Delivered
+1654,413,5,2025-12-27,In-Store,Credit Card,Returned
+1655,414,14,2025-10-18,In-Store,Debit Card,Delivered
+1656,414,17,2025-12-11,Online,Debit Card,Cancelled
+1657,415,4,2024-07-29,In-Store,UPI,Delivered
+1658,415,17,2024-08-16,Online,Cash on Delivery,Delivered
+1659,415,17,2024-10-10,Online,Cash on Delivery,Delivered
+1660,415,17,2025-06-17,Online,UPI,Delivered
+1661,417,17,2025-10-24,Online,Net Banking,Cancelled
+1662,417,17,2025-11-27,Online,Cash on Delivery,Cancelled
+1663,418,17,2024-10-05,Online,UPI,Delivered
+1664,418,16,2025-08-02,In-Store,UPI,Delivered
+1665,418,17,2025-11-22,Online,Credit Card,Delivered
+1666,419,1,2024-02-17,In-Store,Cash on Delivery,Delivered
+1667,419,17,2024-11-02,Online,UPI,Returned
+1668,419,3,2024-12-31,In-Store,Cash on Delivery,Delivered
+1669,419,16,2025-05-05,In-Store,Debit Card,Returned
+1670,419,8,2025-07-19,In-Store,Cash on Delivery,Delivered
+1671,419,13,2025-09-13,In-Store,Debit Card,Returned
+1672,420,17,2024-06-09,Online,Cash on Delivery,Returned
+1673,420,17,2024-11-03,Online,Credit Card,Delivered
+1674,420,17,2024-11-27,Online,Net Banking,Delivered
+1675,420,2,2025-05-21,In-Store,Cash on Delivery,Delivered
+1676,420,2,2025-11-18,In-Store,Cash on Delivery,Delivered
+1677,420,17,2025-11-25,Online,Credit Card,Returned
+1678,421,17,2025-03-31,Online,Debit Card,Delivered
+1679,421,10,2025-08-19,In-Store,UPI,Delivered
+1680,421,17,2025-09-27,Online,Credit Card,Delivered
+1681,421,17,2025-12-08,Online,Net Banking,Delivered
+1682,422,17,2024-03-30,Online,Cash on Delivery,Returned
+1683,422,17,2024-05-04,Online,Cash on Delivery,Cancelled
+1684,422,5,2024-06-19,In-Store,Cash on Delivery,Delivered
+1685,422,17,2024-07-24,Online,UPI,Delivered
+1686,422,17,2024-11-02,Online,UPI,Returned
+1687,422,3,2025-07-13,In-Store,Debit Card,Delivered
+1688,422,17,2025-10-21,Online,UPI,Returned
+1689,422,17,2025-10-29,Online,Credit Card,Delivered
+1690,424,17,2024-04-06,Online,Cash on Delivery,Delivered
+1691,424,17,2024-05-06,Online,Cash on Delivery,Returned
+1692,424,17,2025-12-27,Online,Net Banking,Delivered
+1693,425,17,2024-03-15,Online,Debit Card,Delivered
+1694,425,17,2024-11-12,Online,UPI,Returned
+1695,425,17,2025-10-05,Online,UPI,Delivered
+1696,427,17,2024-08-27,Online,Net Banking,Returned
+1697,427,17,2024-11-17,Online,Credit Card,Delivered
+1698,427,7,2025-08-18,In-Store,Debit Card,Delivered
+1699,428,17,2024-07-05,Online,Net Banking,Cancelled
+1700,428,17,2024-10-19,Online,Cash on Delivery,Delivered
+1701,428,8,2025-09-10,In-Store,Cash on Delivery,Delivered
+1702,429,17,2024-03-29,Online,Cash on Delivery,Delivered
+1703,429,17,2024-11-30,Online,Cash on Delivery,Delivered
+1704,429,17,2025-12-22,Online,Cash on Delivery,Returned
+1705,430,17,2024-07-22,Online,Credit Card,Delivered
+1706,431,17,2024-07-07,Online,Credit Card,Cancelled
+1707,431,17,2025-07-26,Online,Cash on Delivery,Cancelled
+1708,432,17,2024-03-31,Online,Credit Card,Delivered
+1709,432,17,2024-06-04,Online,UPI,Delivered
+1710,432,17,2024-06-10,Online,Cash on Delivery,Delivered
+1711,432,17,2025-09-21,Online,UPI,Delivered
+1712,432,12,2025-11-18,In-Store,Credit Card,Delivered
+1713,433,17,2024-11-29,Online,Credit Card,Delivered
+1714,433,3,2024-11-29,In-Store,Cash on Delivery,Delivered
+1715,433,17,2025-01-11,Online,Debit Card,Returned
+1716,433,17,2025-06-07,Online,Cash on Delivery,Delivered
+1717,433,17,2025-10-07,Online,Cash on Delivery,Delivered
+1718,436,3,2024-07-29,In-Store,Debit Card,Delivered
+1719,436,17,2024-09-12,Online,Debit Card,Cancelled
+1720,436,17,2024-10-27,Online,Cash on Delivery,Delivered
+1721,436,17,2024-10-29,Online,Cash on Delivery,Delivered
+1722,436,17,2024-12-18,Online,Net Banking,Delivered
+1723,436,17,2025-05-24,Online,Cash on Delivery,Delivered
+1724,436,17,2025-12-28,Online,UPI,Delivered
+1725,438,17,2024-08-26,Online,Credit Card,Returned
+1726,438,7,2025-11-16,In-Store,Cash on Delivery,Cancelled
+1727,438,17,2025-11-22,Online,Debit Card,Delivered
+1728,439,7,2024-02-05,In-Store,UPI,Delivered
+1729,439,17,2024-05-05,Online,Credit Card,Delivered
+1730,439,17,2024-10-13,Online,Cash on Delivery,Delivered
+1731,439,17,2025-09-01,Online,Credit Card,Delivered
+1732,439,17,2025-11-02,Online,Net Banking,Delivered
+1733,439,1,2025-11-13,In-Store,UPI,Cancelled
+1734,439,17,2025-12-29,Online,Debit Card,Cancelled
+1735,440,2,2024-07-17,In-Store,UPI,Returned
+1736,440,17,2025-01-29,Online,Net Banking,Returned
+1737,440,11,2025-06-28,In-Store,Cash on Delivery,Delivered
+1738,442,17,2024-08-07,Online,Debit Card,Returned
+1739,442,17,2024-09-15,Online,UPI,Delivered
+1740,442,17,2024-09-28,Online,Debit Card,Delivered
+1741,442,17,2024-10-03,Online,Debit Card,Delivered
+1742,442,11,2024-10-05,In-Store,UPI,Delivered
+1743,442,17,2024-10-13,Online,UPI,Delivered
+1744,442,17,2024-10-26,Online,Debit Card,Cancelled
+1745,442,17,2024-11-18,Online,Credit Card,Delivered
+1746,442,17,2024-11-18,Online,Net Banking,Delivered
+1747,442,12,2024-12-01,In-Store,Debit Card,Delivered
+1748,442,17,2024-12-04,Online,UPI,Delivered
+1749,442,17,2024-12-15,Online,Credit Card,Cancelled
+1750,442,3,2025-05-01,In-Store,Credit Card,Delivered
+1751,442,5,2025-05-23,In-Store,Debit Card,Delivered
+1752,442,10,2025-08-10,In-Store,Debit Card,Cancelled
+1753,442,17,2025-11-29,Online,Credit Card,Cancelled
+1754,443,17,2024-06-25,Online,Net Banking,Delivered
+1755,444,17,2024-10-06,Online,Credit Card,Delivered
+1756,444,17,2025-03-24,Online,Cash on Delivery,Delivered
+1757,444,11,2025-11-10,In-Store,Credit Card,Delivered
+1758,445,17,2025-10-26,Online,Debit Card,Returned
+1759,445,17,2025-11-25,Online,Debit Card,Cancelled
+1760,445,17,2025-12-10,Online,Debit Card,Delivered
+1761,446,17,2025-10-10,Online,Cash on Delivery,Delivered
+1762,446,17,2025-10-15,Online,Credit Card,Delivered
+1763,446,17,2025-10-16,Online,Debit Card,Delivered
+1764,446,17,2025-10-27,Online,Cash on Delivery,Delivered
+1765,446,17,2025-11-02,Online,Cash on Delivery,Delivered
+1766,446,17,2025-11-07,Online,Debit Card,Delivered
+1767,446,17,2025-11-11,Online,Debit Card,Returned
+1768,446,17,2025-11-29,Online,Credit Card,Delivered
+1769,446,17,2025-12-02,Online,Cash on Delivery,Delivered
+1770,446,17,2025-12-03,Online,Credit Card,Delivered
+1771,446,17,2025-12-17,Online,Credit Card,Returned
+1772,447,17,2024-08-06,Online,Net Banking,Delivered
+1773,447,17,2024-09-14,Online,Cash on Delivery,Returned
+1774,447,15,2024-10-22,In-Store,Debit Card,Delivered
+1775,447,17,2024-11-17,Online,UPI,Cancelled
+1776,447,17,2025-04-17,Online,Cash on Delivery,Returned
+1777,447,17,2025-06-07,Online,Net Banking,Cancelled
+1778,447,17,2025-07-19,Online,Net Banking,Delivered
+1779,447,17,2025-11-14,Online,Net Banking,Delivered
+1780,447,17,2025-12-01,Online,UPI,Delivered
+1781,448,17,2024-01-17,Online,Net Banking,Delivered
+1782,448,17,2024-06-01,Online,Debit Card,Returned
+1783,448,11,2024-06-16,In-Store,Cash on Delivery,Delivered
+1784,448,17,2024-07-26,Online,Credit Card,Delivered
+1785,448,17,2024-11-03,Online,UPI,Delivered
+1786,448,17,2025-06-02,Online,Cash on Delivery,Delivered
+1787,448,17,2025-11-17,Online,Credit Card,Delivered
+1788,449,4,2024-07-10,In-Store,Credit Card,Delivered
+1789,449,15,2024-10-04,In-Store,Cash on Delivery,Delivered
+1790,449,17,2025-06-05,Online,Cash on Delivery,Delivered
+1791,450,13,2025-05-20,In-Store,Debit Card,Delivered
+1792,451,14,2025-04-11,In-Store,Cash on Delivery,Cancelled
+1793,451,17,2025-05-25,Online,Cash on Delivery,Delivered
+1794,451,17,2025-06-06,Online,Credit Card,Delivered
+1795,451,16,2025-10-12,In-Store,Cash on Delivery,Delivered
+1796,452,17,2025-10-09,Online,Net Banking,Cancelled
+1797,452,17,2025-11-08,Online,Credit Card,Delivered
+1798,454,13,2024-01-04,In-Store,Cash on Delivery,Delivered
+1799,454,17,2024-01-09,Online,Credit Card,Delivered
+1800,454,17,2024-01-27,Online,Cash on Delivery,Delivered
+1801,454,1,2024-02-04,In-Store,UPI,Cancelled
+1802,454,17,2024-02-09,Online,Cash on Delivery,Delivered
+1803,454,17,2024-04-19,Online,Cash on Delivery,Delivered
+1804,454,17,2024-05-24,Online,Debit Card,Delivered
+1805,454,17,2024-06-04,Online,Debit Card,Cancelled
+1806,454,14,2024-07-05,In-Store,Debit Card,Returned
+1807,454,1,2024-10-16,In-Store,Cash on Delivery,Delivered
+1808,454,10,2024-10-27,In-Store,Debit Card,Delivered
+1809,454,2,2024-11-11,In-Store,Debit Card,Delivered
+1810,454,17,2024-11-25,Online,Credit Card,Delivered
+1811,454,17,2024-11-29,Online,Cash on Delivery,Returned
+1812,454,17,2024-12-26,Online,Net Banking,Delivered
+1813,454,17,2025-04-07,Online,Cash on Delivery,Delivered
+1814,454,17,2025-07-17,Online,Net Banking,Delivered
+1815,454,17,2025-11-14,Online,Net Banking,Delivered
+1816,455,5,2025-02-10,In-Store,UPI,Delivered
+1817,455,17,2025-05-24,Online,Credit Card,Delivered
+1818,456,16,2025-04-05,In-Store,Cash on Delivery,Returned
+1819,457,17,2024-03-25,Online,Net Banking,Returned
+1820,458,14,2025-07-22,In-Store,UPI,Delivered
+1821,458,17,2025-08-14,Online,Cash on Delivery,Delivered
+1822,458,13,2025-12-05,In-Store,UPI,Delivered
+1823,459,17,2025-11-05,Online,Cash on Delivery,Delivered
+1824,460,8,2024-12-01,In-Store,Debit Card,Returned
+1825,460,17,2025-06-03,Online,Cash on Delivery,Delivered
+1826,460,17,2025-10-08,Online,Cash on Delivery,Delivered
+1827,461,17,2024-10-06,Online,Cash on Delivery,Delivered
+1828,461,17,2024-10-13,Online,Credit Card,Returned
+1829,461,17,2025-11-30,Online,Cash on Delivery,Returned
+1830,462,17,2024-11-07,Online,Cash on Delivery,Delivered
+1831,462,3,2025-07-06,In-Store,Cash on Delivery,Delivered
+1832,462,17,2025-11-20,Online,Credit Card,Returned
+1833,462,17,2025-12-04,Online,Cash on Delivery,Delivered
+1834,462,17,2025-12-13,Online,Debit Card,Delivered
+1835,463,16,2025-07-05,In-Store,Cash on Delivery,Delivered
+1836,463,17,2025-07-26,Online,Net Banking,Delivered
+1837,463,17,2025-10-03,Online,Debit Card,Cancelled
+1838,463,17,2025-10-06,Online,Cash on Delivery,Delivered
+1839,463,9,2025-10-23,In-Store,Cash on Delivery,Delivered
+1840,463,17,2025-11-16,Online,Credit Card,Delivered
+1841,463,17,2025-11-30,Online,Cash on Delivery,Delivered
+1842,465,17,2025-09-02,Online,Cash on Delivery,Delivered
+1843,465,17,2025-09-26,Online,Debit Card,Cancelled
+1844,465,17,2025-10-04,Online,Debit Card,Delivered
+1845,465,17,2025-10-13,Online,Credit Card,Delivered
+1846,465,6,2025-10-19,In-Store,UPI,Delivered
+1847,465,17,2025-11-22,Online,UPI,Delivered
+1848,465,17,2025-11-30,Online,UPI,Returned
+1849,465,17,2025-12-11,Online,Cash on Delivery,Cancelled
+1850,465,11,2025-12-17,In-Store,UPI,Delivered
+1851,465,17,2025-12-18,Online,UPI,Cancelled
+1852,465,14,2025-12-21,In-Store,Cash on Delivery,Cancelled
+1853,465,17,2025-12-29,Online,UPI,Delivered
+1854,466,17,2024-09-02,Online,Debit Card,Cancelled
+1855,468,17,2025-05-06,Online,Credit Card,Cancelled
+1856,468,17,2025-06-15,Online,Net Banking,Delivered
+1857,468,17,2025-07-26,Online,Cash on Delivery,Delivered
+1858,468,17,2025-08-11,Online,Net Banking,Returned
+1859,468,17,2025-08-18,Online,Cash on Delivery,Delivered
+1860,468,1,2025-10-10,In-Store,Cash on Delivery,Delivered
+1861,468,17,2025-11-23,Online,Cash on Delivery,Delivered
+1862,468,17,2025-12-01,Online,Credit Card,Delivered
+1863,469,14,2025-09-03,In-Store,Debit Card,Delivered
+1864,469,17,2025-12-23,Online,Credit Card,Delivered
+1865,470,17,2024-12-07,Online,Net Banking,Delivered
+1866,470,8,2024-12-08,In-Store,UPI,Returned
+1867,470,17,2024-12-18,Online,UPI,Returned
+1868,470,17,2024-12-20,Online,Credit Card,Delivered
+1869,470,1,2024-12-21,In-Store,Credit Card,Delivered
+1870,470,17,2024-12-27,Online,Net Banking,Returned
+1871,470,17,2024-12-30,Online,Debit Card,Returned
+1872,470,17,2025-02-08,Online,Credit Card,Delivered
+1873,470,17,2025-03-09,Online,Cash on Delivery,Delivered
+1874,470,17,2025-03-09,Online,UPI,Cancelled
+1875,470,4,2025-03-30,In-Store,Credit Card,Returned
+1876,470,17,2025-08-22,Online,UPI,Delivered
+1877,471,17,2025-09-14,Online,Cash on Delivery,Returned
+1878,471,6,2025-11-16,In-Store,UPI,Delivered
+1879,471,17,2025-12-23,Online,Credit Card,Delivered
+1880,472,17,2024-01-19,Online,Net Banking,Delivered
+1881,472,17,2024-07-04,Online,Debit Card,Returned
+1882,472,17,2024-07-12,Online,Credit Card,Cancelled
+1883,472,17,2024-08-27,Online,Net Banking,Delivered
+1884,472,17,2024-09-19,Online,Debit Card,Delivered
+1885,472,9,2024-11-19,In-Store,Cash on Delivery,Delivered
+1886,472,17,2024-11-24,Online,Cash on Delivery,Delivered
+1887,472,17,2024-12-07,Online,Net Banking,Returned
+1888,472,17,2025-03-07,Online,Net Banking,Delivered
+1889,472,17,2025-05-03,Online,Credit Card,Returned
+1890,472,9,2025-07-06,In-Store,Credit Card,Delivered
+1891,472,17,2025-07-07,Online,Debit Card,Delivered
+1892,472,1,2025-09-04,In-Store,UPI,Delivered
+1893,472,17,2025-09-18,Online,Credit Card,Delivered
+1894,472,17,2025-10-19,Online,UPI,Delivered
+1895,472,17,2025-10-25,Online,Cash on Delivery,Delivered
+1896,472,17,2025-11-13,Online,Net Banking,Returned
+1897,472,17,2025-12-20,Online,Credit Card,Delivered
+1898,473,17,2024-12-16,Online,Net Banking,Returned
+1899,474,17,2024-11-26,Online,Debit Card,Delivered
+1900,474,17,2024-12-10,Online,Credit Card,Delivered
+1901,474,17,2025-10-03,Online,Credit Card,Returned
+1902,475,17,2024-10-02,Online,Credit Card,Delivered
+1903,475,10,2024-11-24,In-Store,UPI,Returned
+1904,476,17,2024-12-05,Online,UPI,Delivered
+1905,476,17,2025-06-21,Online,Credit Card,Delivered
+1906,476,17,2025-07-04,Online,Net Banking,Delivered
+1907,476,17,2025-07-29,Online,Net Banking,Returned
+1908,476,5,2025-09-05,In-Store,UPI,Delivered
+1909,476,17,2025-09-09,Online,UPI,Delivered
+1910,476,17,2025-10-10,Online,Cash on Delivery,Delivered
+1911,476,17,2025-10-30,Online,Cash on Delivery,Delivered
+1912,476,15,2025-11-02,In-Store,Credit Card,Delivered
+1913,476,17,2025-11-29,Online,Credit Card,Delivered
+1914,477,17,2024-08-10,Online,Cash on Delivery,Cancelled
+1915,477,17,2025-01-08,Online,Cash on Delivery,Returned
+1916,477,17,2025-06-10,Online,UPI,Delivered
+1917,479,16,2024-07-07,In-Store,Credit Card,Returned
+1918,479,17,2024-08-05,Online,Credit Card,Delivered
+1919,479,17,2025-02-20,Online,UPI,Returned
+1920,479,17,2025-04-02,Online,Credit Card,Returned
+1921,479,4,2025-04-10,In-Store,UPI,Delivered
+1922,479,3,2025-08-06,In-Store,Credit Card,Cancelled
+1923,479,17,2025-10-14,Online,Cash on Delivery,Delivered
+1924,479,17,2025-10-15,Online,UPI,Cancelled
+1925,480,17,2024-01-18,Online,Net Banking,Cancelled
+1926,480,17,2024-12-13,Online,Cash on Delivery,Returned
+1927,480,17,2025-07-02,Online,UPI,Delivered
+1928,481,17,2024-03-02,Online,Credit Card,Delivered
+1929,481,17,2024-12-20,Online,Net Banking,Delivered
+1930,481,17,2025-01-15,Online,Cash on Delivery,Delivered
+1931,482,17,2024-01-21,Online,Credit Card,Delivered
+1932,482,17,2024-04-15,Online,Cash on Delivery,Cancelled
+1933,482,17,2024-12-10,Online,Credit Card,Delivered
+1934,482,3,2025-09-01,In-Store,Credit Card,Delivered
+1935,483,10,2025-07-10,In-Store,Cash on Delivery,Delivered
+1936,484,17,2024-01-28,Online,Debit Card,Delivered
+1937,484,17,2024-08-28,Online,UPI,Delivered
+1938,484,2,2024-11-11,In-Store,UPI,Delivered
+1939,484,17,2024-12-23,Online,Credit Card,Delivered
+1940,484,17,2025-04-20,Online,Debit Card,Cancelled
+1941,484,17,2025-05-05,Online,Cash on Delivery,Delivered
+1942,484,17,2025-11-04,Online,Cash on Delivery,Delivered
+1943,484,12,2025-12-20,In-Store,UPI,Cancelled
+1944,485,7,2024-04-05,In-Store,Credit Card,Delivered
+1945,485,17,2024-12-16,Online,UPI,Cancelled
+1946,485,17,2025-11-07,Online,Net Banking,Delivered
+1947,486,17,2024-09-08,Online,Credit Card,Delivered
+1948,486,17,2024-10-27,Online,UPI,Delivered
+1949,486,17,2024-11-28,Online,Cash on Delivery,Delivered
+1950,486,15,2024-12-02,In-Store,Credit Card,Delivered
+1951,486,6,2024-12-29,In-Store,Credit Card,Delivered
+1952,486,17,2025-07-04,Online,Credit Card,Delivered
+1953,486,15,2025-08-02,In-Store,Debit Card,Delivered
+1954,486,17,2025-08-16,Online,Debit Card,Returned
+1955,486,17,2025-08-18,Online,Debit Card,Delivered
+1956,486,17,2025-12-29,Online,Net Banking,Delivered
+1957,487,17,2025-06-12,Online,Credit Card,Delivered
+1958,488,17,2024-10-10,Online,Net Banking,Delivered
+1959,488,17,2025-02-12,Online,Net Banking,Delivered
+1960,488,17,2025-12-04,Online,UPI,Delivered
+1961,489,17,2025-07-21,Online,Debit Card,Returned
+1962,489,7,2025-09-28,In-Store,UPI,Delivered
+1963,489,17,2025-10-04,Online,Credit Card,Delivered
+1964,489,17,2025-10-04,Online,Net Banking,Delivered
+1965,489,17,2025-10-06,Online,Debit Card,Delivered
+1966,489,17,2025-10-10,Online,Cash on Delivery,Delivered
+1967,489,17,2025-10-18,Online,Cash on Delivery,Cancelled
+1968,489,8,2025-10-26,In-Store,Cash on Delivery,Delivered
+1969,489,16,2025-10-26,In-Store,UPI,Cancelled
+1970,489,17,2025-10-29,Online,Net Banking,Cancelled
+1971,489,17,2025-11-07,Online,Net Banking,Returned
+1972,489,8,2025-11-12,In-Store,Debit Card,Delivered
+1973,489,17,2025-11-28,Online,Cash on Delivery,Delivered
+1974,489,1,2025-11-30,In-Store,Credit Card,Delivered
+1975,489,17,2025-12-25,Online,Cash on Delivery,Delivered
+1976,490,17,2024-05-02,Online,Net Banking,Delivered
+1977,490,4,2025-02-01,In-Store,Cash on Delivery,Delivered
+1978,490,17,2025-09-01,Online,Credit Card,Delivered
+1979,491,5,2025-03-05,In-Store,Debit Card,Delivered
+1980,491,17,2025-07-04,Online,Credit Card,Delivered
+1981,491,17,2025-12-22,Online,UPI,Delivered
+1982,492,17,2025-05-17,Online,Cash on Delivery,Delivered
+1983,492,17,2025-07-28,Online,Net Banking,Delivered
+1984,492,13,2025-09-26,In-Store,Debit Card,Delivered
+1985,492,17,2025-10-18,Online,Credit Card,Returned
+1986,492,3,2025-11-03,In-Store,Debit Card,Delivered
+1987,492,17,2025-11-06,Online,Net Banking,Delivered
+1988,492,7,2025-12-02,In-Store,Credit Card,Cancelled
+1989,492,17,2025-12-13,Online,Credit Card,Delivered
+1990,493,4,2025-03-18,In-Store,Debit Card,Delivered
+1991,493,17,2025-04-22,Online,Debit Card,Delivered
+1992,494,17,2024-10-27,Online,Credit Card,Delivered
+1993,494,17,2024-11-09,Online,UPI,Cancelled
+1994,495,8,2024-06-01,In-Store,Credit Card,Delivered
+1995,496,7,2024-03-24,In-Store,UPI,Cancelled
+1996,496,17,2024-07-23,Online,Cash on Delivery,Delivered
+1997,496,17,2024-10-26,Online,Credit Card,Delivered
+1998,498,17,2024-04-14,Online,Cash on Delivery,Delivered
+1999,498,17,2024-11-06,Online,Net Banking,Delivered
+2000,499,17,2024-02-24,Online,Cash on Delivery,Cancelled
+2001,499,15,2024-04-22,In-Store,Debit Card,Delivered
+2002,499,3,2024-08-16,In-Store,Cash on Delivery,Delivered
+2003,499,17,2024-11-04,Online,UPI,Delivered
+2004,499,17,2024-12-30,Online,Credit Card,Delivered
+2005,499,17,2025-01-20,Online,UPI,Delivered
+2006,499,17,2025-05-09,Online,UPI,Cancelled
+2007,499,17,2025-05-16,Online,Credit Card,Returned
+2008,499,17,2025-05-21,Online,Cash on Delivery,Returned
+2009,499,16,2025-05-21,In-Store,Cash on Delivery,Delivered
+2010,499,17,2025-06-06,Online,Credit Card,Returned
+2011,499,17,2025-06-14,Online,Credit Card,Delivered
+2012,499,8,2025-08-13,In-Store,Debit Card,Cancelled
+2013,499,17,2025-09-11,Online,Debit Card,Delivered
+2014,499,17,2025-09-29,Online,Cash on Delivery,Returned
+2015,499,15,2025-10-15,In-Store,Debit Card,Delivered
+2016,499,17,2025-12-04,Online,Debit Card,Cancelled
+2017,499,17,2025-12-10,Online,UPI,Delivered
+2018,499,17,2025-12-14,Online,Credit Card,Delivered
+2019,500,17,2024-02-27,Online,UPI,Delivered
+2020,500,17,2024-03-24,Online,Cash on Delivery,Delivered
+2021,500,17,2024-04-28,Online,UPI,Delivered
+2022,500,17,2024-07-29,Online,Credit Card,Delivered
+2023,500,5,2024-10-25,In-Store,Debit Card,Delivered
+2024,500,17,2024-10-30,Online,Cash on Delivery,Delivered
+2025,500,17,2025-02-05,Online,Debit Card,Returned
+2026,500,5,2025-03-15,In-Store,Cash on Delivery,Delivered
+2027,500,17,2025-07-27,Online,Cash on Delivery,Delivered
+2028,500,17,2025-10-29,Online,Net Banking,Delivered
+2029,501,15,2024-07-21,In-Store,UPI,Delivered
+2030,501,17,2024-08-09,Online,Cash on Delivery,Returned
+2031,501,11,2024-08-31,In-Store,Debit Card,Returned
+2032,501,17,2025-04-27,Online,Cash on Delivery,Delivered
+2033,501,17,2025-07-20,Online,Cash on Delivery,Cancelled
+2034,501,15,2025-11-01,In-Store,Credit Card,Delivered
+2035,502,5,2024-01-10,In-Store,Credit Card,Returned
+2036,502,17,2024-03-04,Online,Cash on Delivery,Delivered
+2037,502,15,2025-02-02,In-Store,Credit Card,Delivered
+2038,503,17,2025-10-19,Online,UPI,Returned
+2039,503,17,2025-10-21,Online,Debit Card,Delivered
+2040,504,17,2024-03-31,Online,Net Banking,Delivered
+2041,504,17,2024-12-20,Online,Cash on Delivery,Delivered
+2042,504,17,2025-08-11,Online,Debit Card,Delivered
+2043,504,17,2025-10-13,Online,Credit Card,Delivered
+2044,505,17,2024-03-18,Online,Net Banking,Delivered
+2045,505,17,2024-10-16,Online,Credit Card,Delivered
+2046,505,17,2024-10-24,Online,Debit Card,Delivered
+2047,505,3,2024-11-20,In-Store,Cash on Delivery,Delivered
+2048,505,14,2025-05-02,In-Store,Cash on Delivery,Cancelled
+2049,505,17,2025-06-21,Online,Net Banking,Cancelled
+2050,505,14,2025-06-29,In-Store,Credit Card,Delivered
+2051,505,17,2025-11-28,Online,Net Banking,Delivered
+2052,506,17,2024-03-11,Online,Net Banking,Delivered
+2053,506,17,2025-04-11,Online,Debit Card,Delivered
+2054,507,17,2024-01-23,Online,Cash on Delivery,Delivered
+2055,507,5,2024-03-15,In-Store,UPI,Delivered
+2056,507,10,2024-04-03,In-Store,Cash on Delivery,Delivered
+2057,507,17,2024-06-20,Online,Debit Card,Cancelled
+2058,507,10,2024-10-12,In-Store,Cash on Delivery,Delivered
+2059,507,17,2025-02-12,Online,Credit Card,Cancelled
+2060,507,17,2025-03-05,Online,Net Banking,Delivered
+2061,507,17,2025-03-29,Online,Debit Card,Returned
+2062,507,17,2025-06-21,Online,UPI,Delivered
+2063,507,17,2025-09-06,Online,Debit Card,Cancelled
+2064,507,17,2025-10-06,Online,Cash on Delivery,Delivered
+2065,507,16,2025-10-07,In-Store,Cash on Delivery,Delivered
+2066,507,16,2025-10-19,In-Store,Credit Card,Returned
+2067,507,17,2025-12-07,Online,Cash on Delivery,Returned
+2068,508,6,2024-04-10,In-Store,Credit Card,Delivered
+2069,508,17,2024-07-21,Online,UPI,Delivered
+2070,508,17,2025-12-26,Online,Debit Card,Delivered
+2071,509,17,2024-04-08,Online,Credit Card,Delivered
+2072,509,17,2024-05-18,Online,Credit Card,Delivered
+2073,509,17,2024-06-08,Online,UPI,Cancelled
+2074,509,6,2024-06-23,In-Store,Debit Card,Delivered
+2075,509,10,2024-09-21,In-Store,Debit Card,Delivered
+2076,509,17,2024-09-22,Online,Debit Card,Delivered
+2077,509,1,2024-10-29,In-Store,Debit Card,Delivered
+2078,509,17,2024-11-22,Online,Net Banking,Delivered
+2079,509,17,2024-11-27,Online,Credit Card,Delivered
+2080,509,17,2024-12-07,Online,UPI,Delivered
+2081,509,4,2025-01-26,In-Store,Cash on Delivery,Delivered
+2082,509,4,2025-06-13,In-Store,UPI,Cancelled
+2083,509,16,2025-12-24,In-Store,Debit Card,Delivered
+2084,510,17,2025-07-31,Online,Net Banking,Cancelled
+2085,510,11,2025-08-03,In-Store,Debit Card,Delivered
+2086,510,17,2025-08-07,Online,Credit Card,Cancelled
+2087,510,17,2025-08-18,Online,UPI,Cancelled
+2088,510,17,2025-09-17,Online,UPI,Delivered
+2089,510,17,2025-12-18,Online,Net Banking,Delivered
+2090,510,17,2025-12-19,Online,Credit Card,Cancelled
+2091,510,17,2025-12-21,Online,Net Banking,Cancelled
+2092,511,17,2025-03-01,Online,Credit Card,Delivered
+2093,511,2,2025-08-02,In-Store,Credit Card,Delivered
+2094,511,2,2025-09-07,In-Store,Debit Card,Delivered
+2095,511,17,2025-10-24,Online,Credit Card,Cancelled
+2096,511,7,2025-10-28,In-Store,UPI,Delivered
+2097,511,17,2025-12-01,Online,Credit Card,Delivered
+2098,513,9,2024-04-06,In-Store,Debit Card,Delivered
+2099,513,17,2024-05-29,Online,Cash on Delivery,Cancelled
+2100,513,8,2024-07-13,In-Store,Credit Card,Delivered
+2101,513,17,2024-07-31,Online,Credit Card,Delivered
+2102,513,17,2024-10-31,Online,UPI,Returned
+2103,513,6,2024-11-13,In-Store,Credit Card,Cancelled
+2104,513,4,2024-12-29,In-Store,Cash on Delivery,Delivered
+2105,513,17,2025-10-02,Online,UPI,Delivered
+2106,513,17,2025-10-20,Online,UPI,Delivered
+2107,513,13,2025-10-21,In-Store,UPI,Delivered
+2108,514,17,2025-05-25,Online,Debit Card,Delivered
+2109,514,17,2025-07-02,Online,Cash on Delivery,Delivered
+2110,514,17,2025-11-13,Online,Debit Card,Cancelled
+2111,514,17,2025-11-15,Online,Credit Card,Delivered
+2112,514,17,2025-12-03,Online,Credit Card,Delivered
+2113,514,17,2025-12-13,Online,Cash on Delivery,Delivered
+2114,514,15,2025-12-16,In-Store,Cash on Delivery,Delivered
+2115,515,14,2025-11-15,In-Store,Credit Card,Delivered
+2116,515,16,2025-12-03,In-Store,Debit Card,Returned
+2117,516,17,2025-10-12,Online,Net Banking,Returned
+2118,518,17,2024-09-30,Online,Credit Card,Returned
+2119,518,17,2024-10-02,Online,Net Banking,Delivered
+2120,518,17,2024-12-14,Online,UPI,Delivered
+2121,518,17,2025-05-28,Online,Debit Card,Delivered
+2122,518,17,2025-06-11,Online,Net Banking,Cancelled
+2123,518,17,2025-12-06,Online,Net Banking,Cancelled
+2124,519,17,2024-03-21,Online,Cash on Delivery,Cancelled
+2125,519,17,2024-04-26,Online,Net Banking,Cancelled
+2126,519,17,2024-06-14,Online,Cash on Delivery,Returned
+2127,519,16,2024-08-06,In-Store,Debit Card,Delivered
+2128,519,17,2024-09-01,Online,Credit Card,Delivered
+2129,519,17,2024-10-23,Online,Net Banking,Delivered
+2130,519,17,2024-10-26,Online,Credit Card,Delivered
+2131,519,17,2024-11-05,Online,Credit Card,Delivered
+2132,519,17,2024-11-16,Online,UPI,Delivered
+2133,519,17,2024-11-25,Online,Debit Card,Returned
+2134,519,17,2025-02-09,Online,Cash on Delivery,Delivered
+2135,519,17,2025-03-23,Online,Cash on Delivery,Delivered
+2136,519,15,2025-03-27,In-Store,Debit Card,Delivered
+2137,519,17,2025-04-07,Online,Cash on Delivery,Delivered
+2138,519,17,2025-04-16,Online,Cash on Delivery,Delivered
+2139,519,17,2025-05-10,Online,Credit Card,Cancelled
+2140,519,4,2025-07-01,In-Store,Cash on Delivery,Delivered
+2141,519,17,2025-11-03,Online,Net Banking,Delivered
+2142,519,17,2025-11-18,Online,UPI,Delivered
+2143,520,6,2024-10-05,In-Store,Cash on Delivery,Delivered
+2144,520,17,2025-08-06,Online,Net Banking,Returned
+2145,521,16,2025-01-19,In-Store,Cash on Delivery,Returned
+2146,521,17,2025-04-23,Online,UPI,Cancelled
+2147,521,17,2025-07-02,Online,Debit Card,Delivered
+2148,522,17,2024-04-26,Online,Cash on Delivery,Delivered
+2149,522,17,2024-10-23,Online,Debit Card,Cancelled
+2150,522,17,2025-11-10,Online,Cash on Delivery,Delivered
+2151,523,17,2024-01-20,Online,Debit Card,Delivered
+2152,523,1,2024-05-07,In-Store,Debit Card,Cancelled
+2153,523,17,2024-09-13,Online,Debit Card,Delivered
+2154,523,14,2024-10-13,In-Store,Credit Card,Delivered
+2155,523,17,2024-10-18,Online,UPI,Delivered
+2156,523,17,2024-12-18,Online,Credit Card,Delivered
+2157,523,3,2025-06-13,In-Store,Debit Card,Cancelled
+2158,523,17,2025-08-06,Online,Credit Card,Delivered
+2159,524,17,2024-04-05,Online,Net Banking,Delivered
+2160,524,17,2024-06-02,Online,Debit Card,Delivered
+2161,524,17,2025-02-07,Online,Cash on Delivery,Delivered
+2162,524,17,2025-04-10,Online,Net Banking,Delivered
+2163,524,17,2025-05-24,Online,Cash on Delivery,Delivered
+2164,524,17,2025-06-24,Online,Credit Card,Delivered
+2165,524,17,2025-10-17,Online,Debit Card,Delivered
+2166,525,17,2025-10-11,Online,Debit Card,Cancelled
+2167,525,17,2025-10-25,Online,Debit Card,Delivered
+2168,525,7,2025-11-22,In-Store,Credit Card,Delivered
+2169,525,7,2025-12-16,In-Store,Debit Card,Delivered
+2170,525,17,2025-12-27,Online,Net Banking,Delivered
+2171,525,3,2025-12-30,In-Store,Credit Card,Returned
+2172,526,17,2024-07-14,Online,Cash on Delivery,Delivered
+2173,526,17,2025-07-04,Online,Debit Card,Delivered
+2174,528,17,2025-11-24,Online,Net Banking,Delivered
+2175,528,17,2025-12-26,Online,UPI,Delivered
+2176,529,17,2025-08-11,Online,Cash on Delivery,Delivered
+2177,529,17,2025-08-17,Online,Cash on Delivery,Cancelled
+2178,529,17,2025-12-26,Online,Cash on Delivery,Delivered
+2179,530,17,2024-08-31,Online,Net Banking,Delivered
+2180,530,17,2024-10-26,Online,Cash on Delivery,Returned
+2181,530,14,2024-12-01,In-Store,Credit Card,Delivered
+2182,530,17,2025-06-10,Online,Net Banking,Delivered
+2183,531,17,2024-03-13,Online,Debit Card,Returned
+2184,531,14,2024-11-06,In-Store,Credit Card,Delivered
+2185,531,17,2025-06-24,Online,Net Banking,Cancelled
+2186,531,17,2025-09-30,Online,UPI,Delivered
+2187,532,17,2025-02-22,Online,Net Banking,Delivered
+2188,532,17,2025-04-23,Online,UPI,Delivered
+2189,532,17,2025-05-05,Online,Debit Card,Cancelled
+2190,532,17,2025-05-27,Online,Net Banking,Delivered
+2191,532,17,2025-07-01,Online,UPI,Delivered
+2192,532,17,2025-07-06,Online,Credit Card,Delivered
+2193,532,17,2025-08-10,Online,Debit Card,Cancelled
+2194,532,17,2025-08-17,Online,Credit Card,Delivered
+2195,532,16,2025-09-21,In-Store,Credit Card,Cancelled
+2196,532,17,2025-09-29,Online,Debit Card,Delivered
+2197,532,17,2025-10-16,Online,Credit Card,Cancelled
+2198,532,14,2025-10-31,In-Store,Credit Card,Delivered
+2199,533,5,2025-05-09,In-Store,Credit Card,Delivered
+2200,533,17,2025-05-30,Online,Credit Card,Delivered
+2201,533,17,2025-06-25,Online,Cash on Delivery,Cancelled
+2202,533,9,2025-06-25,In-Store,Credit Card,Delivered
+2203,533,17,2025-08-04,Online,Debit Card,Delivered
+2204,533,17,2025-09-12,Online,Net Banking,Delivered
+2205,533,8,2025-10-06,In-Store,UPI,Delivered
+2206,533,17,2025-10-31,Online,UPI,Delivered
+2207,533,15,2025-11-07,In-Store,Debit Card,Delivered
+2208,533,2,2025-11-09,In-Store,Debit Card,Delivered
+2209,533,17,2025-11-22,Online,Debit Card,Delivered
+2210,533,17,2025-11-28,Online,UPI,Delivered
+2211,533,5,2025-12-05,In-Store,Cash on Delivery,Delivered
+2212,533,17,2025-12-06,Online,Debit Card,Cancelled
+2213,535,2,2025-09-04,In-Store,Credit Card,Cancelled
+2214,535,17,2025-11-04,Online,UPI,Cancelled
+2215,535,17,2025-11-07,Online,Debit Card,Delivered
+2216,535,17,2025-11-13,Online,Debit Card,Returned
+2217,535,4,2025-11-26,In-Store,UPI,Delivered
+2218,535,13,2025-11-30,In-Store,Cash on Delivery,Delivered
+2219,535,9,2025-12-09,In-Store,Credit Card,Delivered
+2220,535,8,2025-12-19,In-Store,UPI,Delivered
+2221,536,11,2024-03-06,In-Store,Cash on Delivery,Cancelled
+2222,536,9,2024-06-24,In-Store,Credit Card,Cancelled
+2223,536,16,2024-09-21,In-Store,Cash on Delivery,Delivered
+2224,536,11,2024-10-03,In-Store,Cash on Delivery,Returned
+2225,536,4,2025-03-08,In-Store,UPI,Cancelled
+2226,536,17,2025-04-13,Online,Credit Card,Delivered
+2227,536,17,2025-07-23,Online,Cash on Delivery,Delivered
+2228,536,15,2025-09-24,In-Store,Credit Card,Returned
+2229,536,6,2025-10-22,In-Store,Cash on Delivery,Returned
+2230,536,5,2025-12-27,In-Store,Cash on Delivery,Delivered
+2231,537,17,2024-02-28,Online,Cash on Delivery,Delivered
+2232,537,17,2024-07-01,Online,UPI,Delivered
+2233,537,17,2024-11-02,Online,UPI,Cancelled
+2234,537,14,2025-11-20,In-Store,Debit Card,Cancelled
+2235,538,17,2024-07-17,Online,UPI,Returned
+2236,538,17,2024-07-22,Online,Cash on Delivery,Returned
+2237,538,10,2025-09-10,In-Store,Credit Card,Delivered
+2238,539,17,2024-01-15,Online,Net Banking,Delivered
+2239,539,8,2024-02-05,In-Store,Credit Card,Delivered
+2240,539,8,2025-08-14,In-Store,Cash on Delivery,Delivered
+2241,540,17,2025-09-15,Online,UPI,Cancelled
+2242,541,17,2024-08-24,Online,Cash on Delivery,Delivered
+2243,541,17,2024-09-07,Online,Debit Card,Delivered
+2244,541,17,2025-01-05,Online,Credit Card,Delivered
+2245,541,17,2025-03-02,Online,Net Banking,Delivered
+2246,541,15,2025-05-30,In-Store,Cash on Delivery,Cancelled
+2247,541,17,2025-10-02,Online,UPI,Returned
+2248,541,17,2025-10-10,Online,Debit Card,Cancelled
+2249,541,17,2025-10-31,Online,Net Banking,Delivered
+2250,542,17,2025-10-01,Online,Cash on Delivery,Delivered
+2251,542,17,2025-10-13,Online,Debit Card,Cancelled
+2252,542,7,2025-11-17,In-Store,UPI,Delivered
+2253,542,17,2025-12-31,Online,Credit Card,Delivered
+2254,543,8,2025-01-15,In-Store,Cash on Delivery,Delivered
+2255,543,12,2025-12-13,In-Store,Cash on Delivery,Delivered
+2256,544,17,2025-01-15,Online,Debit Card,Delivered
+2257,544,13,2025-08-14,In-Store,UPI,Returned
+2258,544,17,2025-12-08,Online,Net Banking,Returned
+2259,545,17,2025-01-23,Online,Credit Card,Delivered
+2260,545,17,2025-03-07,Online,Debit Card,Delivered
+2261,545,16,2025-05-07,In-Store,Credit Card,Delivered
+2262,545,17,2025-10-12,Online,Cash on Delivery,Delivered
+2263,545,17,2025-11-04,Online,Debit Card,Delivered
+2264,545,17,2025-12-11,Online,Credit Card,Delivered
+2265,545,17,2025-12-22,Online,UPI,Delivered
+2266,545,17,2025-12-25,Online,Net Banking,Delivered
+2267,546,17,2025-08-22,Online,Cash on Delivery,Returned
+2268,547,17,2025-12-04,Online,Debit Card,Delivered
+2269,547,17,2025-12-23,Online,Net Banking,Delivered
+2270,547,9,2025-12-30,In-Store,Debit Card,Returned
+2271,548,17,2024-06-23,Online,Cash on Delivery,Delivered
+2272,548,9,2025-04-28,In-Store,Debit Card,Delivered
+2273,548,17,2025-07-03,Online,Debit Card,Delivered
+2274,548,16,2025-07-25,In-Store,UPI,Cancelled
+2275,548,17,2025-09-08,Online,Net Banking,Returned
+2276,548,17,2025-12-23,Online,Credit Card,Delivered
+2277,549,17,2024-11-26,Online,Debit Card,Delivered
+2278,550,17,2025-08-11,Online,Credit Card,Delivered
+2279,550,16,2025-10-04,In-Store,Cash on Delivery,Delivered
+2280,550,17,2025-11-15,Online,Cash on Delivery,Returned
+2281,550,17,2025-12-31,Online,Credit Card,Delivered
+2282,551,17,2024-05-19,Online,UPI,Delivered
+2283,552,17,2025-09-03,Online,Cash on Delivery,Delivered
+2284,552,7,2025-11-21,In-Store,Credit Card,Delivered
+2285,552,17,2025-11-23,Online,UPI,Delivered
+2286,552,17,2025-12-13,Online,UPI,Delivered
+2287,552,4,2025-12-24,In-Store,Credit Card,Delivered
+2288,553,17,2025-05-25,Online,Credit Card,Returned
+2289,553,17,2025-10-04,Online,Credit Card,Delivered
+2290,554,17,2024-12-30,Online,Net Banking,Delivered
+2291,554,16,2025-10-30,In-Store,Debit Card,Delivered
+2292,555,17,2024-12-14,Online,Credit Card,Delivered
+2293,555,17,2025-03-22,Online,Debit Card,Delivered
+2294,555,5,2025-04-25,In-Store,Credit Card,Delivered
+2295,555,10,2025-08-13,In-Store,Credit Card,Delivered
+2296,555,13,2025-11-26,In-Store,Cash on Delivery,Delivered
+2297,555,17,2025-12-06,Online,Net Banking,Delivered
+2298,555,17,2025-12-08,Online,UPI,Cancelled
+2299,556,17,2025-09-03,Online,Debit Card,Delivered
+2300,557,17,2024-04-18,Online,Net Banking,Delivered
+2301,558,5,2024-07-18,In-Store,Credit Card,Delivered
+2302,558,7,2024-10-14,In-Store,Cash on Delivery,Delivered
+2303,559,17,2024-01-14,Online,Cash on Delivery,Delivered
+2304,559,17,2024-05-18,Online,Net Banking,Cancelled
+2305,559,6,2024-10-02,In-Store,Cash on Delivery,Delivered
+2306,559,17,2024-10-25,Online,Debit Card,Delivered
+2307,559,8,2025-11-30,In-Store,UPI,Returned
+2308,559,3,2025-12-12,In-Store,Cash on Delivery,Delivered
+2309,560,17,2024-04-25,Online,Net Banking,Cancelled
+2310,560,17,2024-06-13,Online,Debit Card,Delivered
+2311,560,14,2024-08-21,In-Store,Credit Card,Delivered
+2312,560,17,2024-12-14,Online,Cash on Delivery,Delivered
+2313,560,17,2025-05-01,Online,Net Banking,Delivered
+2314,560,17,2025-08-09,Online,Cash on Delivery,Returned
+2315,561,17,2024-03-17,Online,Credit Card,Delivered
+2316,561,1,2024-04-03,In-Store,Cash on Delivery,Delivered
+2317,561,17,2024-06-08,Online,Net Banking,Delivered
+2318,561,17,2024-06-28,Online,Debit Card,Delivered
+2319,561,17,2024-10-19,Online,Net Banking,Returned
+2320,562,17,2024-09-06,Online,Debit Card,Delivered
+2321,562,6,2025-05-16,In-Store,UPI,Delivered
+2322,562,17,2025-06-24,Online,Debit Card,Delivered
+2323,564,17,2025-05-08,Online,Net Banking,Delivered
+2324,564,17,2025-12-18,Online,Net Banking,Delivered
+2325,564,17,2025-12-20,Online,Cash on Delivery,Delivered
+2326,565,17,2025-07-26,Online,Cash on Delivery,Cancelled
+2327,565,17,2025-07-30,Online,Net Banking,Returned
+2328,565,3,2025-12-02,In-Store,UPI,Delivered
+2329,567,17,2024-08-01,Online,UPI,Delivered
+2330,569,17,2025-07-06,Online,UPI,Delivered
+2331,569,17,2025-10-08,Online,Cash on Delivery,Returned
+2332,569,17,2025-11-23,Online,Net Banking,Delivered
+2333,569,17,2025-12-01,Online,Credit Card,Delivered
+2334,569,17,2025-12-02,Online,Net Banking,Delivered
+2335,569,16,2025-12-03,In-Store,Cash on Delivery,Delivered
+2336,569,17,2025-12-11,Online,Debit Card,Delivered
+2337,569,17,2025-12-15,Online,Net Banking,Cancelled
+2338,569,17,2025-12-19,Online,Credit Card,Delivered
+2339,569,17,2025-12-25,Online,Net Banking,Returned
+2340,569,16,2025-12-28,In-Store,Debit Card,Returned
+2341,571,17,2024-11-11,Online,Cash on Delivery,Delivered
+2342,571,16,2025-01-10,In-Store,Credit Card,Delivered
+2343,571,17,2025-02-23,Online,Cash on Delivery,Delivered
+2344,572,17,2025-07-08,Online,Net Banking,Delivered
+2345,572,4,2025-08-16,In-Store,Debit Card,Delivered
+2346,572,17,2025-09-02,Online,Credit Card,Delivered
+2347,572,17,2025-11-10,Online,UPI,Returned
+2348,572,17,2025-12-02,Online,UPI,Delivered
+2349,573,17,2024-09-20,Online,Debit Card,Returned
+2350,574,15,2024-08-08,In-Store,Debit Card,Delivered
+2351,574,13,2024-12-14,In-Store,Debit Card,Delivered
+2352,574,6,2025-06-15,In-Store,UPI,Delivered
+2353,574,17,2025-08-01,Online,Credit Card,Returned
+2354,574,17,2025-08-03,Online,UPI,Delivered
+2355,574,17,2025-11-03,Online,Net Banking,Delivered
+2356,574,17,2025-12-19,Online,Net Banking,Delivered
+2357,575,17,2024-02-07,Online,Credit Card,Delivered
+2358,575,12,2024-04-14,In-Store,Debit Card,Delivered
+2359,575,17,2025-02-15,Online,Cash on Delivery,Delivered
+2360,575,17,2025-03-20,Online,Debit Card,Delivered
+2361,575,17,2025-10-11,Online,UPI,Delivered
+2362,576,17,2025-07-20,Online,Debit Card,Delivered
+2363,576,12,2025-07-24,In-Store,Credit Card,Cancelled
+2364,576,9,2025-10-11,In-Store,Credit Card,Delivered
+2365,576,17,2025-10-17,Online,Net Banking,Delivered
+2366,576,4,2025-10-23,In-Store,Credit Card,Delivered
+2367,576,2,2025-11-06,In-Store,Credit Card,Delivered
+2368,576,17,2025-11-21,Online,UPI,Delivered
+2369,576,6,2025-12-08,In-Store,Debit Card,Returned
+2370,576,17,2025-12-28,Online,Cash on Delivery,Cancelled
+2371,577,4,2025-09-21,In-Store,Debit Card,Delivered
+2372,577,17,2025-11-11,Online,Credit Card,Delivered
+2373,577,15,2025-12-18,In-Store,Credit Card,Delivered
+2374,578,16,2024-11-05,In-Store,Debit Card,Delivered
+2375,578,17,2024-12-01,Online,Debit Card,Delivered
+2376,578,17,2024-12-02,Online,Net Banking,Cancelled
+2377,578,17,2024-12-12,Online,UPI,Returned
+2378,578,17,2025-01-09,Online,Cash on Delivery,Cancelled
+2379,578,17,2025-01-16,Online,UPI,Delivered
+2380,578,14,2025-05-14,In-Store,Cash on Delivery,Delivered
+2381,578,12,2025-05-20,In-Store,Cash on Delivery,Delivered
+2382,578,17,2025-07-06,Online,Cash on Delivery,Delivered
+2383,578,3,2025-09-25,In-Store,Debit Card,Delivered
+2384,578,17,2025-10-02,Online,UPI,Cancelled
+2385,579,17,2024-10-24,Online,Credit Card,Cancelled
+2386,579,17,2025-10-06,Online,UPI,Returned
+2387,579,2,2025-12-24,In-Store,Debit Card,Returned
+2388,580,17,2024-08-11,Online,Cash on Delivery,Returned
+2389,580,11,2024-09-27,In-Store,Credit Card,Delivered
+2390,580,5,2025-04-06,In-Store,Cash on Delivery,Returned
+2391,581,17,2024-04-19,Online,Cash on Delivery,Delivered
+2392,581,15,2024-11-06,In-Store,Debit Card,Returned
+2393,581,13,2025-07-10,In-Store,UPI,Cancelled
+2394,582,17,2024-02-25,Online,Debit Card,Delivered
+2395,582,17,2024-05-25,Online,UPI,Returned
+2396,582,17,2024-06-30,Online,Debit Card,Delivered
+2397,582,17,2024-11-22,Online,Cash on Delivery,Delivered
+2398,582,17,2024-11-23,Online,UPI,Delivered
+2399,582,17,2024-12-20,Online,Cash on Delivery,Cancelled
+2400,582,17,2025-05-30,Online,Debit Card,Delivered
+2401,582,4,2025-07-11,In-Store,Credit Card,Returned
+2402,582,9,2025-10-07,In-Store,Debit Card,Returned
+2403,582,17,2025-10-10,Online,Credit Card,Cancelled
+2404,582,17,2025-12-07,Online,Credit Card,Delivered
+2405,582,17,2025-12-12,Online,Cash on Delivery,Delivered
+2406,583,17,2024-03-28,Online,Cash on Delivery,Delivered
+2407,584,17,2025-11-08,Online,UPI,Delivered
+2408,585,17,2025-04-21,Online,UPI,Delivered
+2409,585,12,2025-10-03,In-Store,Credit Card,Delivered
+2410,585,17,2025-11-23,Online,Net Banking,Delivered
+2411,589,16,2024-01-02,In-Store,Cash on Delivery,Delivered
+2412,589,17,2024-06-29,Online,Cash on Delivery,Returned
+2413,589,17,2025-12-04,Online,Cash on Delivery,Delivered
+2414,590,16,2025-01-26,In-Store,Cash on Delivery,Returned
+2415,590,16,2025-02-06,In-Store,Cash on Delivery,Returned
+2416,590,5,2025-05-06,In-Store,UPI,Delivered
+2417,591,17,2024-02-11,Online,Cash on Delivery,Delivered
+2418,591,4,2025-01-23,In-Store,UPI,Returned
+2419,591,17,2025-04-06,Online,UPI,Delivered
+2420,592,17,2025-10-21,Online,Cash on Delivery,Delivered
+2421,592,4,2025-10-22,In-Store,Debit Card,Delivered
+2422,592,17,2025-10-23,Online,Cash on Delivery,Delivered
+2423,592,17,2025-11-12,Online,Debit Card,Delivered
+2424,592,10,2025-11-22,In-Store,Cash on Delivery,Delivered
+2425,592,17,2025-11-23,Online,UPI,Delivered
+2426,592,14,2025-12-11,In-Store,Debit Card,Delivered
+2427,593,17,2024-12-30,Online,Net Banking,Cancelled
+2428,593,17,2025-08-16,Online,Debit Card,Delivered
+2429,595,17,2025-10-01,Online,Debit Card,Delivered
+2430,595,17,2025-10-07,Online,Net Banking,Delivered
+2431,595,17,2025-11-23,Online,Cash on Delivery,Returned
+2432,596,15,2025-12-01,In-Store,Cash on Delivery,Cancelled
+2433,597,17,2024-11-30,Online,Debit Card,Cancelled
+2434,597,17,2025-02-21,Online,Cash on Delivery,Delivered
+2435,597,17,2025-04-09,Online,Net Banking,Delivered
+2436,597,17,2025-05-04,Online,Net Banking,Delivered
+2437,597,3,2025-06-09,In-Store,UPI,Cancelled
+2438,597,17,2025-08-10,Online,Debit Card,Delivered
+2439,597,17,2025-09-25,Online,Cash on Delivery,Delivered
+2440,597,17,2025-11-29,Online,Cash on Delivery,Delivered
+2441,599,1,2025-11-06,In-Store,UPI,Delivered
+2442,601,8,2024-05-03,In-Store,Cash on Delivery,Cancelled
+2443,601,17,2025-08-05,Online,Cash on Delivery,Delivered
+2444,602,17,2025-11-20,Online,Net Banking,Delivered
+2445,602,1,2025-12-19,In-Store,Cash on Delivery,Delivered
+2446,603,17,2024-10-20,Online,Cash on Delivery,Cancelled
+2447,604,17,2024-12-20,Online,Credit Card,Delivered
+2448,604,6,2025-01-14,In-Store,UPI,Delivered
+2449,605,17,2025-05-03,Online,UPI,Delivered
+2450,606,6,2025-05-17,In-Store,Debit Card,Delivered
+2451,606,17,2025-06-19,Online,Credit Card,Returned
+2452,607,17,2024-10-17,Online,UPI,Delivered
+2453,607,17,2024-11-19,Online,Debit Card,Delivered
+2454,608,4,2024-07-30,In-Store,UPI,Delivered
+2455,608,17,2025-06-24,Online,Cash on Delivery,Delivered
+2456,608,17,2025-12-18,Online,Cash on Delivery,Delivered
+2457,609,9,2025-06-22,In-Store,Debit Card,Delivered
+2458,609,17,2025-11-11,Online,Credit Card,Delivered
+2459,609,17,2025-11-24,Online,UPI,Delivered
+2460,610,17,2024-07-13,Online,Credit Card,Delivered
+2461,610,17,2024-10-05,Online,UPI,Delivered
+2462,610,17,2024-11-22,Online,Net Banking,Delivered
+2463,612,17,2024-11-13,Online,UPI,Cancelled
+2464,612,17,2024-12-23,Online,UPI,Delivered
+2465,612,17,2025-07-10,Online,Cash on Delivery,Delivered
+2466,612,17,2025-08-11,Online,Net Banking,Delivered
+2467,612,10,2025-10-24,In-Store,UPI,Returned
+2468,612,17,2025-11-13,Online,Debit Card,Delivered
+2469,612,17,2025-11-16,Online,Net Banking,Cancelled
+2470,612,7,2025-12-27,In-Store,Debit Card,Delivered
+2471,613,17,2024-12-15,Online,Cash on Delivery,Delivered
+2472,613,17,2025-03-15,Online,Net Banking,Delivered
+2473,613,17,2025-08-12,Online,UPI,Cancelled
+2474,614,7,2024-05-12,In-Store,Debit Card,Delivered
+2475,614,11,2025-09-09,In-Store,Debit Card,Returned
+2476,615,17,2024-03-19,Online,Debit Card,Delivered
+2477,615,17,2024-07-09,Online,Cash on Delivery,Delivered
+2478,615,17,2025-04-01,Online,UPI,Returned
+2479,615,17,2025-04-14,Online,Cash on Delivery,Delivered
+2480,615,17,2025-06-14,Online,UPI,Delivered
+2481,615,17,2025-07-20,Online,Net Banking,Returned
+2482,615,3,2025-11-02,In-Store,Credit Card,Cancelled
+2483,615,17,2025-11-16,Online,Net Banking,Cancelled
+2484,616,17,2024-02-11,Online,Net Banking,Cancelled
+2485,616,12,2024-02-26,In-Store,UPI,Delivered
+2486,616,1,2024-03-28,In-Store,Cash on Delivery,Delivered
+2487,616,17,2024-04-08,Online,Net Banking,Delivered
+2488,616,17,2024-10-29,Online,Credit Card,Returned
+2489,616,12,2024-11-28,In-Store,Credit Card,Delivered
+2490,616,10,2024-12-13,In-Store,UPI,Cancelled
+2491,616,17,2024-12-27,Online,Debit Card,Delivered
+2492,616,17,2025-02-01,Online,Cash on Delivery,Delivered
+2493,616,17,2025-02-03,Online,Net Banking,Delivered
+2494,616,17,2025-03-21,Online,Cash on Delivery,Delivered
+2495,616,17,2025-03-21,Online,Cash on Delivery,Delivered
+2496,616,17,2025-06-26,Online,Cash on Delivery,Returned
+2497,616,17,2025-10-01,Online,Cash on Delivery,Delivered
+2498,616,17,2025-10-08,Online,UPI,Delivered
+2499,616,5,2025-10-31,In-Store,UPI,Delivered
+2500,616,9,2025-11-19,In-Store,Credit Card,Delivered
+2501,616,9,2025-12-07,In-Store,Cash on Delivery,Returned
+2502,618,17,2025-05-12,Online,Credit Card,Returned
+2503,618,11,2025-10-31,In-Store,Cash on Delivery,Delivered
+2504,618,17,2025-11-28,Online,Cash on Delivery,Returned
+2505,619,17,2024-11-20,Online,Credit Card,Delivered
+2506,619,8,2025-03-24,In-Store,Debit Card,Delivered
+2507,619,15,2025-04-09,In-Store,Credit Card,Delivered
+2508,619,17,2025-07-28,Online,Credit Card,Delivered
+2509,619,1,2025-11-17,In-Store,UPI,Returned
+2510,619,14,2025-12-20,In-Store,UPI,Delivered
+2511,620,17,2024-06-26,Online,Credit Card,Delivered
+2512,620,17,2024-07-14,Online,Credit Card,Delivered
+2513,620,17,2024-12-30,Online,Credit Card,Cancelled
+2514,620,17,2025-03-01,Online,Debit Card,Returned
+2515,621,17,2025-10-31,Online,UPI,Delivered
+2516,621,2,2025-11-09,In-Store,Debit Card,Cancelled
+2517,622,15,2024-09-25,In-Store,Credit Card,Cancelled
+2518,623,17,2024-05-17,Online,Credit Card,Delivered
+2519,623,13,2024-10-19,In-Store,Credit Card,Delivered
+2520,623,2,2025-11-24,In-Store,Cash on Delivery,Cancelled
+2521,625,17,2024-01-27,Online,Credit Card,Delivered
+2522,625,17,2024-04-09,Online,Cash on Delivery,Delivered
+2523,625,17,2024-07-11,Online,Net Banking,Cancelled
+2524,625,17,2024-08-19,Online,Net Banking,Delivered
+2525,625,17,2024-10-10,Online,Cash on Delivery,Delivered
+2526,627,17,2025-04-07,Online,Net Banking,Cancelled
+2527,627,4,2025-06-18,In-Store,Credit Card,Delivered
+2528,627,17,2025-10-30,Online,Cash on Delivery,Delivered
+2529,628,17,2025-03-22,Online,Cash on Delivery,Delivered
+2530,628,17,2025-06-01,Online,UPI,Delivered
+2531,628,5,2025-09-27,In-Store,Debit Card,Returned
+2532,628,17,2025-10-12,Online,Cash on Delivery,Delivered
+2533,629,17,2024-12-23,Online,Credit Card,Delivered
+2534,629,17,2025-10-01,Online,Cash on Delivery,Delivered
+2535,629,17,2025-11-05,Online,Debit Card,Returned
+2536,630,17,2025-02-12,Online,UPI,Delivered
+2537,630,17,2025-10-19,Online,Cash on Delivery,Delivered
+2538,631,17,2025-04-26,Online,Cash on Delivery,Delivered
+2539,631,17,2025-07-02,Online,UPI,Returned
+2540,631,17,2025-09-09,Online,Cash on Delivery,Delivered
+2541,631,14,2025-11-01,In-Store,UPI,Delivered
+2542,631,7,2025-12-15,In-Store,Credit Card,Cancelled
+2543,632,17,2025-01-31,Online,Net Banking,Delivered
+2544,632,17,2025-03-19,Online,Cash on Delivery,Delivered
+2545,632,17,2025-05-11,Online,Cash on Delivery,Delivered
+2546,632,17,2025-05-27,Online,UPI,Delivered
+2547,632,17,2025-10-30,Online,Credit Card,Cancelled
+2548,633,17,2024-11-19,Online,UPI,Delivered
+2549,633,17,2025-07-19,Online,Cash on Delivery,Delivered
+2550,633,17,2025-10-10,Online,Debit Card,Delivered
+2551,634,17,2024-04-10,Online,Credit Card,Delivered
+2552,634,17,2024-09-02,Online,Debit Card,Delivered
+2553,634,17,2025-03-05,Online,UPI,Delivered
+2554,635,17,2024-09-13,Online,Cash on Delivery,Returned
+2555,635,12,2024-10-07,In-Store,Credit Card,Delivered
+2556,636,17,2025-07-01,Online,UPI,Delivered
+2557,637,17,2024-08-11,Online,Cash on Delivery,Delivered
+2558,637,17,2025-12-23,Online,Credit Card,Delivered
+2559,638,4,2024-09-27,In-Store,UPI,Delivered
+2560,639,17,2024-07-18,Online,Debit Card,Delivered
+2561,639,10,2025-03-30,In-Store,UPI,Delivered
+2562,639,17,2025-05-08,Online,UPI,Delivered
+2563,640,3,2025-08-16,In-Store,UPI,Delivered
+2564,640,5,2025-09-15,In-Store,UPI,Cancelled
+2565,640,17,2025-10-13,Online,Debit Card,Delivered
+2566,641,17,2025-11-30,Online,UPI,Returned
+2567,641,7,2025-12-24,In-Store,Debit Card,Cancelled
+2568,642,17,2025-06-08,Online,Debit Card,Delivered
+2569,643,16,2025-10-09,In-Store,Credit Card,Delivered
+2570,644,3,2024-12-20,In-Store,Cash on Delivery,Delivered
+2571,644,12,2025-08-25,In-Store,Cash on Delivery,Delivered
+2572,644,17,2025-12-26,Online,Debit Card,Returned
+2573,645,17,2025-03-25,Online,Net Banking,Delivered
+2574,645,17,2025-07-22,Online,Cash on Delivery,Delivered
+2575,645,17,2025-12-18,Online,UPI,Delivered
+2576,646,17,2025-04-19,Online,Net Banking,Delivered
+2577,646,17,2025-04-20,Online,Net Banking,Delivered
+2578,646,17,2025-11-13,Online,Debit Card,Cancelled
+2579,646,17,2025-12-20,Online,UPI,Delivered
+2580,648,17,2025-07-09,Online,UPI,Delivered
+2581,648,17,2025-07-11,Online,Cash on Delivery,Delivered
+2582,648,17,2025-11-02,Online,Net Banking,Delivered
+2583,648,17,2025-12-24,Online,Debit Card,Delivered
+2584,648,11,2025-12-28,In-Store,Cash on Delivery,Delivered
+2585,649,17,2024-02-02,Online,Debit Card,Delivered
+2586,649,17,2025-07-26,Online,Credit Card,Delivered
+2587,649,17,2025-12-14,Online,Cash on Delivery,Delivered
+2588,651,4,2025-10-29,In-Store,Credit Card,Delivered
+2589,651,17,2025-12-02,Online,UPI,Delivered
+2590,652,17,2024-11-14,Online,Debit Card,Delivered
+2591,652,17,2025-05-06,Online,Debit Card,Cancelled
+2592,653,17,2025-07-23,Online,Cash on Delivery,Delivered
+2593,654,17,2024-06-16,Online,Debit Card,Delivered
+2594,654,13,2024-08-16,In-Store,Credit Card,Delivered
+2595,654,17,2025-07-08,Online,UPI,Delivered
+2596,654,8,2025-09-26,In-Store,UPI,Delivered
+2597,654,17,2025-12-18,Online,Cash on Delivery,Delivered
+2598,655,15,2024-10-04,In-Store,Credit Card,Delivered
+2599,655,17,2024-11-12,Online,Net Banking,Delivered
+2600,655,14,2025-08-20,In-Store,Cash on Delivery,Delivered
+2601,656,1,2025-05-06,In-Store,UPI,Delivered
+2602,656,17,2025-06-10,Online,Debit Card,Delivered
+2603,656,1,2025-09-21,In-Store,Debit Card,Delivered
+2604,657,17,2024-12-10,Online,Net Banking,Delivered
+2605,657,10,2025-08-22,In-Store,Credit Card,Delivered
+2606,659,17,2025-10-26,Online,Cash on Delivery,Delivered
+2607,659,17,2025-10-29,Online,Cash on Delivery,Delivered
+2608,659,17,2025-12-02,Online,Net Banking,Delivered
+2609,659,17,2025-12-24,Online,Credit Card,Delivered
+2610,660,17,2025-03-21,Online,Debit Card,Delivered
+2611,660,17,2025-10-24,Online,Debit Card,Delivered
+2612,660,17,2025-12-26,Online,Cash on Delivery,Delivered
+2613,661,17,2025-10-10,Online,Cash on Delivery,Returned
+2614,662,17,2024-07-05,Online,Credit Card,Delivered
+2615,662,13,2024-07-09,In-Store,UPI,Delivered
+2616,662,17,2024-09-08,Online,Cash on Delivery,Returned
+2617,662,17,2024-09-12,Online,Debit Card,Delivered
+2618,662,17,2024-10-26,Online,Debit Card,Delivered
+2619,662,14,2024-11-18,In-Store,UPI,Delivered
+2620,662,5,2024-12-09,In-Store,Cash on Delivery,Delivered
+2621,662,17,2025-01-18,Online,Net Banking,Delivered
+2622,662,7,2025-04-10,In-Store,UPI,Delivered
+2623,662,17,2025-05-28,Online,Net Banking,Cancelled
+2624,662,17,2025-06-23,Online,Debit Card,Delivered
+2625,662,17,2025-09-22,Online,Net Banking,Delivered
+2626,662,17,2025-11-15,Online,UPI,Delivered
+2627,662,17,2025-11-27,Online,Net Banking,Cancelled
+2628,662,17,2025-11-29,Online,Cash on Delivery,Delivered
+2629,663,16,2024-02-25,In-Store,Cash on Delivery,Delivered
+2630,663,17,2024-06-16,Online,Credit Card,Returned
+2631,663,17,2024-11-07,Online,Debit Card,Delivered
+2632,663,17,2024-11-09,Online,Debit Card,Returned
+2633,663,17,2025-07-07,Online,UPI,Cancelled
+2634,664,17,2025-08-23,Online,Net Banking,Delivered
+2635,664,17,2025-10-04,Online,UPI,Returned
+2636,664,17,2025-12-09,Online,Net Banking,Delivered
+2637,666,6,2024-11-24,In-Store,Debit Card,Delivered
+2638,668,14,2025-07-05,In-Store,Credit Card,Cancelled
+2639,669,17,2024-02-25,Online,Cash on Delivery,Delivered
+2640,669,11,2024-10-03,In-Store,Cash on Delivery,Delivered
+2641,670,17,2025-06-03,Online,Credit Card,Delivered
+2642,671,17,2025-08-07,Online,Net Banking,Returned
+2643,671,17,2025-08-07,Online,Net Banking,Returned
+2644,671,13,2025-09-02,In-Store,Credit Card,Delivered
+2645,672,17,2025-04-22,Online,Debit Card,Delivered
+2646,672,17,2025-06-02,Online,Net Banking,Delivered
+2647,672,17,2025-07-17,Online,Cash on Delivery,Delivered
+2648,672,17,2025-11-10,Online,Net Banking,Returned
+2649,672,17,2025-12-23,Online,Debit Card,Cancelled
+2650,673,17,2024-11-24,Online,Cash on Delivery,Delivered
+2651,675,17,2025-06-23,Online,Net Banking,Delivered
+2652,676,17,2024-06-22,Online,Credit Card,Cancelled
+2653,676,17,2024-07-21,Online,Net Banking,Delivered
+2654,676,17,2024-11-14,Online,Credit Card,Delivered
+2655,676,7,2024-11-22,In-Store,Credit Card,Delivered
+2656,676,4,2024-12-10,In-Store,Debit Card,Delivered
+2657,676,17,2025-01-21,Online,Credit Card,Delivered
+2658,676,17,2025-02-19,Online,UPI,Delivered
+2659,676,12,2025-04-14,In-Store,UPI,Delivered
+2660,676,17,2025-06-02,Online,Credit Card,Delivered
+2661,676,11,2025-07-25,In-Store,UPI,Cancelled
+2662,678,4,2025-08-19,In-Store,UPI,Cancelled
+2663,679,17,2024-02-15,Online,Cash on Delivery,Delivered
+2664,679,17,2024-03-20,Online,Debit Card,Delivered
+2665,679,17,2024-04-24,Online,Cash on Delivery,Delivered
+2666,679,17,2024-06-05,Online,Net Banking,Delivered
+2667,679,4,2024-07-08,In-Store,UPI,Delivered
+2668,679,17,2024-07-24,Online,UPI,Delivered
+2669,679,17,2024-09-23,Online,Debit Card,Returned
+2670,679,17,2024-10-17,Online,Net Banking,Delivered
+2671,679,17,2024-11-04,Online,Debit Card,Returned
+2672,679,17,2024-12-01,Online,Credit Card,Delivered
+2673,679,17,2025-01-11,Online,Net Banking,Delivered
+2674,679,17,2025-01-17,Online,Net Banking,Delivered
+2675,679,4,2025-05-02,In-Store,UPI,Returned
+2676,679,17,2025-07-19,Online,Cash on Delivery,Delivered
+2677,679,17,2025-08-18,Online,Net Banking,Returned
+2678,679,17,2025-08-19,Online,UPI,Cancelled
+2679,679,17,2025-08-31,Online,Debit Card,Returned
+2680,679,16,2025-11-02,In-Store,Debit Card,Delivered
+2681,679,17,2025-11-28,Online,Net Banking,Delivered
+2682,680,17,2025-02-16,Online,UPI,Returned
+2683,680,17,2025-05-20,Online,Credit Card,Returned
+2684,680,17,2025-10-01,Online,Credit Card,Delivered
+2685,680,17,2025-10-09,Online,Net Banking,Returned
+2686,680,3,2025-11-08,In-Store,UPI,Delivered
+2687,680,17,2025-12-01,Online,UPI,Delivered
+2688,681,17,2024-02-13,Online,Credit Card,Returned
+2689,681,17,2024-03-02,Online,Cash on Delivery,Returned
+2690,681,15,2024-07-24,In-Store,Debit Card,Returned
+2691,681,17,2025-12-31,Online,Credit Card,Delivered
+2692,682,17,2024-02-03,Online,Credit Card,Delivered
+2693,682,17,2025-03-09,Online,Debit Card,Returned
+2694,682,17,2025-03-27,Online,Cash on Delivery,Delivered
+2695,684,8,2024-07-10,In-Store,Cash on Delivery,Delivered
+2696,684,17,2024-11-03,Online,Net Banking,Delivered
+2697,684,17,2025-04-23,Online,Net Banking,Delivered
+2698,684,17,2025-08-29,Online,Credit Card,Delivered
+2699,684,17,2025-09-08,Online,UPI,Delivered
+2700,684,17,2025-11-11,Online,Cash on Delivery,Delivered
+2701,684,17,2025-11-25,Online,UPI,Cancelled
+2702,684,17,2025-12-22,Online,Net Banking,Delivered
+2703,685,17,2025-06-23,Online,UPI,Delivered
+2704,685,17,2025-07-14,Online,Cash on Delivery,Delivered
+2705,685,17,2025-07-27,Online,Cash on Delivery,Delivered
+2706,685,17,2025-08-01,Online,UPI,Returned
+2707,685,17,2025-10-03,Online,Net Banking,Cancelled
+2708,685,17,2025-10-26,Online,Net Banking,Delivered
+2709,685,17,2025-10-27,Online,Net Banking,Delivered
+2710,685,17,2025-11-02,Online,Net Banking,Delivered
+2711,685,16,2025-11-03,In-Store,Cash on Delivery,Delivered
+2712,685,17,2025-11-05,Online,Debit Card,Delivered
+2713,685,17,2025-11-05,Online,Cash on Delivery,Delivered
+2714,685,9,2025-11-07,In-Store,Cash on Delivery,Delivered
+2715,685,17,2025-11-08,Online,Net Banking,Delivered
+2716,685,17,2025-11-10,Online,Credit Card,Delivered
+2717,685,17,2025-11-12,Online,Net Banking,Returned
+2718,685,17,2025-11-17,Online,Credit Card,Delivered
+2719,685,17,2025-11-23,Online,Debit Card,Delivered
+2720,685,17,2025-12-06,Online,Net Banking,Delivered
+2721,685,12,2025-12-16,In-Store,Cash on Delivery,Delivered
+2722,686,17,2024-03-18,Online,Credit Card,Delivered
+2723,686,17,2025-06-14,Online,Credit Card,Delivered
+2724,687,6,2025-08-22,In-Store,Cash on Delivery,Delivered
+2725,687,12,2025-08-30,In-Store,Cash on Delivery,Delivered
+2726,687,17,2025-11-16,Online,Credit Card,Delivered
+2727,688,8,2025-08-08,In-Store,Cash on Delivery,Delivered
+2728,688,17,2025-12-03,Online,Debit Card,Cancelled
+2729,688,17,2025-12-06,Online,Credit Card,Returned
+2730,689,17,2024-09-30,Online,Debit Card,Delivered
+2731,689,17,2024-11-06,Online,UPI,Returned
+2732,689,17,2024-11-30,Online,Cash on Delivery,Delivered
+2733,689,6,2024-12-18,In-Store,Credit Card,Delivered
+2734,689,13,2024-12-21,In-Store,Credit Card,Delivered
+2735,689,17,2025-02-12,Online,Net Banking,Delivered
+2736,689,17,2025-09-15,Online,Debit Card,Delivered
+2737,689,17,2025-09-24,Online,Cash on Delivery,Delivered
+2738,690,17,2024-10-17,Online,Net Banking,Returned
+2739,690,3,2024-10-19,In-Store,Debit Card,Delivered
+2740,690,9,2025-06-18,In-Store,UPI,Returned
+2741,691,17,2025-09-11,Online,UPI,Delivered
+2742,691,1,2025-11-09,In-Store,Credit Card,Delivered
+2743,691,14,2025-11-18,In-Store,Cash on Delivery,Delivered
+2744,692,6,2024-12-24,In-Store,Debit Card,Delivered
+2745,692,17,2025-03-15,Online,UPI,Delivered
+2746,693,17,2024-06-06,Online,Net Banking,Delivered
+2747,693,17,2025-03-29,Online,UPI,Delivered
+2748,693,17,2025-10-02,Online,UPI,Returned
+2749,694,17,2025-09-11,Online,Net Banking,Cancelled
+2750,695,17,2025-10-01,Online,Credit Card,Delivered
+2751,695,6,2025-11-10,In-Store,Debit Card,Delivered
+2752,695,17,2025-11-30,Online,Debit Card,Delivered
+2753,696,17,2024-09-21,Online,UPI,Delivered
+2754,696,17,2024-09-24,Online,Credit Card,Returned
+2755,696,17,2024-12-14,Online,Credit Card,Delivered
+2756,699,17,2024-09-18,Online,Net Banking,Delivered
+2757,700,16,2024-01-08,In-Store,Debit Card,Cancelled
+2758,700,17,2024-07-20,Online,Debit Card,Delivered
+2759,701,8,2025-11-02,In-Store,Cash on Delivery,Delivered
+2760,701,17,2025-11-16,Online,Debit Card,Delivered
+2761,702,1,2025-04-07,In-Store,Cash on Delivery,Delivered
+2762,702,5,2025-11-05,In-Store,Credit Card,Delivered
+2763,703,8,2024-11-25,In-Store,Cash on Delivery,Delivered
+2764,703,17,2025-12-11,Online,Net Banking,Returned
+2765,704,17,2025-04-27,Online,Debit Card,Delivered
+2766,704,17,2025-11-13,Online,Credit Card,Delivered
+2767,704,11,2025-11-23,In-Store,Cash on Delivery,Returned
+2768,705,17,2025-07-26,Online,Cash on Delivery,Delivered
+2769,706,17,2024-09-19,Online,Net Banking,Delivered
+2770,706,4,2024-10-24,In-Store,Cash on Delivery,Returned
+2771,706,17,2024-11-01,Online,UPI,Delivered
+2772,706,2,2024-11-11,In-Store,Cash on Delivery,Delivered
+2773,706,10,2024-11-18,In-Store,Cash on Delivery,Cancelled
+2774,706,17,2024-12-22,Online,Credit Card,Delivered
+2775,706,17,2025-01-05,Online,UPI,Delivered
+2776,706,17,2025-06-01,Online,Credit Card,Delivered
+2777,706,17,2025-06-09,Online,Credit Card,Returned
+2778,706,17,2025-07-12,Online,Net Banking,Delivered
+2779,706,8,2025-07-15,In-Store,Debit Card,Returned
+2780,706,17,2025-09-13,Online,Credit Card,Returned
+2781,706,17,2025-10-11,Online,Net Banking,Delivered
+2782,706,17,2025-10-13,Online,Debit Card,Returned
+2783,706,3,2025-10-22,In-Store,Debit Card,Returned
+2784,706,17,2025-12-02,Online,Net Banking,Returned
+2785,706,17,2025-12-04,Online,Cash on Delivery,Cancelled
+2786,706,14,2025-12-14,In-Store,UPI,Cancelled
+2787,706,17,2025-12-26,Online,Debit Card,Delivered
+2788,706,17,2025-12-30,Online,Debit Card,Delivered
+2789,707,4,2025-10-20,In-Store,Debit Card,Delivered
+2790,708,13,2025-01-27,In-Store,Credit Card,Delivered
+2791,708,17,2025-05-30,Online,Cash on Delivery,Delivered
+2792,708,17,2025-10-20,Online,Net Banking,Delivered
+2793,708,17,2025-12-10,Online,UPI,Delivered
+2794,709,17,2024-10-01,Online,Cash on Delivery,Delivered
+2795,710,17,2024-11-23,Online,Debit Card,Cancelled
+2796,710,16,2025-04-23,In-Store,Cash on Delivery,Returned
+2797,710,17,2025-05-15,Online,UPI,Delivered
+2798,710,2,2025-10-07,In-Store,Debit Card,Delivered
+2799,710,17,2025-11-04,Online,Credit Card,Returned
+2800,710,17,2025-11-15,Online,Cash on Delivery,Cancelled
+2801,711,17,2024-09-26,Online,Net Banking,Delivered
+2802,711,17,2024-10-04,Online,Credit Card,Delivered
+2803,711,11,2024-12-14,In-Store,UPI,Delivered
+2804,711,8,2025-06-05,In-Store,Credit Card,Returned
+2805,711,6,2025-10-15,In-Store,Cash on Delivery,Cancelled
+2806,711,10,2025-11-08,In-Store,UPI,Cancelled
+2807,713,17,2024-07-16,Online,Net Banking,Returned
+2808,713,13,2025-07-17,In-Store,Credit Card,Delivered
+2809,713,17,2025-12-14,Online,Debit Card,Delivered
+2810,714,17,2025-07-09,Online,Net Banking,Delivered
+2811,716,17,2024-11-12,Online,Cash on Delivery,Cancelled
+2812,716,2,2025-03-01,In-Store,Debit Card,Cancelled
+2813,716,17,2025-03-03,Online,Cash on Delivery,Delivered
+2814,716,17,2025-08-03,Online,Net Banking,Returned
+2815,716,17,2025-08-16,Online,UPI,Delivered
+2816,716,17,2025-10-11,Online,UPI,Returned
+2817,716,1,2025-10-24,In-Store,Credit Card,Delivered
+2818,716,17,2025-10-31,Online,UPI,Cancelled
+2819,716,17,2025-12-14,Online,UPI,Delivered
+2820,716,4,2025-12-26,In-Store,Cash on Delivery,Delivered
+2821,717,4,2024-10-10,In-Store,Debit Card,Delivered
+2822,717,17,2024-11-29,Online,Net Banking,Delivered
+2823,717,17,2025-01-06,Online,UPI,Delivered
+2824,717,17,2025-11-06,Online,Cash on Delivery,Delivered
+2825,718,17,2024-01-09,Online,Credit Card,Delivered
+2826,718,13,2024-02-23,In-Store,Cash on Delivery,Delivered
+2827,718,17,2024-07-24,Online,Credit Card,Delivered
+2828,718,17,2024-11-11,Online,Cash on Delivery,Delivered
+2829,718,17,2024-12-12,Online,Cash on Delivery,Delivered
+2830,718,16,2025-01-13,In-Store,Credit Card,Delivered
+2831,718,6,2025-01-17,In-Store,Cash on Delivery,Delivered
+2832,718,14,2025-06-06,In-Store,UPI,Delivered
+2833,718,17,2025-08-16,Online,Cash on Delivery,Delivered
+2834,718,17,2025-11-13,Online,Credit Card,Cancelled
+2835,719,17,2024-03-23,Online,Cash on Delivery,Delivered
+2836,719,17,2024-11-24,Online,Cash on Delivery,Delivered
+2837,719,17,2025-10-09,Online,Credit Card,Cancelled
+2838,720,4,2025-09-04,In-Store,UPI,Delivered
+2839,720,17,2025-10-07,Online,Debit Card,Delivered
+2840,720,17,2025-10-24,Online,Cash on Delivery,Delivered
+2841,720,17,2025-12-19,Online,Credit Card,Delivered
+2842,721,17,2025-01-23,Online,Credit Card,Cancelled
+2843,721,17,2025-02-07,Online,Cash on Delivery,Delivered
+2844,721,17,2025-02-21,Online,UPI,Delivered
+2845,721,17,2025-03-11,Online,Credit Card,Returned
+2846,721,17,2025-04-17,Online,Cash on Delivery,Delivered
+2847,721,10,2025-05-02,In-Store,Cash on Delivery,Returned
+2848,721,17,2025-05-06,Online,Debit Card,Delivered
+2849,721,17,2025-09-18,Online,Cash on Delivery,Delivered
+2850,721,17,2025-10-14,Online,Credit Card,Delivered
+2851,721,17,2025-11-06,Online,UPI,Delivered
+2852,721,17,2025-11-20,Online,Debit Card,Delivered
+2853,721,7,2025-11-29,In-Store,UPI,Delivered
+2854,721,17,2025-12-08,Online,UPI,Delivered
+2855,721,14,2025-12-27,In-Store,Debit Card,Delivered
+2856,721,17,2025-12-28,Online,UPI,Returned
+2857,721,17,2025-12-29,Online,Debit Card,Delivered
+2858,722,5,2025-06-17,In-Store,UPI,Delivered
+2859,722,17,2025-08-05,Online,Debit Card,Returned
+2860,722,7,2025-09-29,In-Store,Debit Card,Returned
+2861,723,17,2025-11-05,Online,Debit Card,Delivered
+2862,724,17,2024-05-31,Online,UPI,Delivered
+2863,724,17,2024-08-05,Online,Cash on Delivery,Delivered
+2864,724,17,2024-08-22,Online,Net Banking,Delivered
+2865,724,17,2025-07-10,Online,Credit Card,Returned
+2866,724,17,2025-09-10,Online,Debit Card,Delivered
+2867,724,17,2025-11-15,Online,UPI,Cancelled
+2868,725,17,2024-06-26,Online,UPI,Delivered
+2869,725,17,2025-10-26,Online,Credit Card,Delivered
+2870,726,17,2025-09-14,Online,Cash on Delivery,Delivered
+2871,726,16,2025-10-31,In-Store,Debit Card,Delivered
+2872,726,17,2025-11-29,Online,Debit Card,Cancelled
+2873,726,17,2025-12-18,Online,Credit Card,Delivered
+2874,728,17,2025-03-31,Online,Net Banking,Cancelled
+2875,728,17,2025-08-16,Online,Cash on Delivery,Cancelled
+2876,728,17,2025-10-01,Online,Net Banking,Cancelled
+2877,728,17,2025-10-29,Online,Debit Card,Delivered
+2878,730,17,2025-10-31,Online,Net Banking,Delivered
+2879,731,17,2024-08-26,Online,Debit Card,Returned
+2880,731,17,2024-10-12,Online,Cash on Delivery,Delivered
+2881,732,17,2024-12-01,Online,Net Banking,Delivered
+2882,732,15,2025-10-09,In-Store,Debit Card,Delivered
+2883,732,17,2025-11-07,Online,Cash on Delivery,Delivered
+2884,732,8,2025-12-06,In-Store,Credit Card,Delivered
+2885,732,14,2025-12-06,In-Store,Debit Card,Cancelled
+2886,732,3,2025-12-21,In-Store,UPI,Delivered
+2887,733,17,2024-01-18,Online,Credit Card,Delivered
+2888,733,16,2024-05-20,In-Store,Credit Card,Cancelled
+2889,733,14,2024-12-24,In-Store,UPI,Returned
+2890,734,17,2024-11-08,Online,Cash on Delivery,Returned
+2891,734,17,2024-12-07,Online,Credit Card,Delivered
+2892,734,17,2024-12-28,Online,Credit Card,Cancelled
+2893,735,17,2025-06-03,Online,Debit Card,Returned
+2894,735,17,2025-10-15,Online,Cash on Delivery,Returned
+2895,735,17,2025-11-17,Online,Cash on Delivery,Delivered
+2896,736,8,2024-07-18,In-Store,Credit Card,Delivered
+2897,736,17,2024-10-26,Online,Cash on Delivery,Delivered
+2898,736,17,2024-12-14,Online,Net Banking,Delivered
+2899,736,17,2025-04-29,Online,Debit Card,Delivered
+2900,736,11,2025-08-20,In-Store,UPI,Returned
+2901,736,4,2025-12-10,In-Store,Debit Card,Delivered
+2902,737,17,2024-10-08,Online,Credit Card,Delivered
+2903,737,13,2024-11-07,In-Store,Debit Card,Delivered
+2904,737,2,2025-01-02,In-Store,Cash on Delivery,Delivered
+2905,738,17,2024-11-11,Online,Net Banking,Delivered
+2906,738,17,2024-12-23,Online,Credit Card,Delivered
+2907,738,17,2025-12-26,Online,UPI,Returned
+2908,739,17,2024-10-13,Online,Net Banking,Delivered
+2909,739,17,2024-11-10,Online,Cash on Delivery,Delivered
+2910,739,17,2025-11-01,Online,Net Banking,Delivered
+2911,741,17,2024-06-05,Online,Debit Card,Cancelled
+2912,741,17,2024-09-30,Online,Debit Card,Delivered
+2913,741,17,2024-12-29,Online,UPI,Delivered
+2914,742,17,2024-10-09,Online,Net Banking,Delivered
+2915,742,17,2025-07-09,Online,Net Banking,Delivered
+2916,743,17,2025-05-31,Online,UPI,Cancelled
+2917,743,17,2025-07-13,Online,Credit Card,Delivered
+2918,743,17,2025-10-08,Online,Debit Card,Delivered
+2919,745,17,2025-09-02,Online,Debit Card,Delivered
+2920,746,17,2025-04-09,Online,Net Banking,Delivered
+2921,746,5,2025-08-01,In-Store,Cash on Delivery,Delivered
+2922,746,17,2025-12-11,Online,Net Banking,Returned
+2923,747,17,2025-11-24,Online,Credit Card,Delivered
+2924,748,17,2024-04-25,Online,Credit Card,Delivered
+2925,749,17,2025-05-12,Online,Debit Card,Delivered
+2926,749,17,2025-05-17,Online,Credit Card,Delivered
+2927,749,17,2025-06-05,Online,Debit Card,Delivered
+2928,749,17,2025-06-28,Online,Net Banking,Cancelled
+2929,749,17,2025-07-06,Online,Cash on Delivery,Delivered
+2930,749,17,2025-07-19,Online,Credit Card,Delivered
+2931,749,8,2025-07-31,In-Store,Cash on Delivery,Returned
+2932,749,17,2025-08-18,Online,Credit Card,Returned
+2933,749,17,2025-09-03,Online,Cash on Delivery,Delivered
+2934,749,17,2025-10-11,Online,Cash on Delivery,Cancelled
+2935,749,17,2025-10-12,Online,UPI,Delivered
+2936,749,17,2025-10-22,Online,Credit Card,Delivered
+2937,749,17,2025-10-27,Online,UPI,Delivered
+2938,749,17,2025-11-02,Online,UPI,Delivered
+2939,749,17,2025-11-09,Online,Net Banking,Delivered
+2940,749,17,2025-11-13,Online,UPI,Delivered
+2941,749,17,2025-12-02,Online,Net Banking,Delivered
+2942,749,17,2025-12-05,Online,Credit Card,Delivered
+2943,749,17,2025-12-10,Online,Debit Card,Delivered
+2944,749,17,2025-12-19,Online,Net Banking,Delivered
+2945,750,17,2024-02-19,Online,UPI,Delivered
+2946,750,17,2024-03-30,Online,Debit Card,Delivered
+2947,750,17,2024-05-07,Online,Debit Card,Delivered
+2948,750,4,2024-10-05,In-Store,UPI,Delivered
+2949,751,12,2024-10-13,In-Store,Debit Card,Delivered
+2950,751,17,2025-05-22,Online,Credit Card,Returned
+2951,752,17,2024-07-14,Online,UPI,Cancelled
+2952,752,17,2024-09-10,Online,Debit Card,Returned
+2953,752,12,2024-10-07,In-Store,Debit Card,Delivered
+2954,752,17,2024-10-24,Online,Credit Card,Delivered
+2955,752,5,2024-11-08,In-Store,Credit Card,Returned
+2956,752,17,2024-11-25,Online,UPI,Returned
+2957,752,17,2024-12-03,Online,Credit Card,Delivered
+2958,752,17,2025-01-26,Online,Cash on Delivery,Delivered
+2959,752,17,2025-04-10,Online,Net Banking,Returned
+2960,752,7,2025-06-11,In-Store,UPI,Delivered
+2961,752,17,2025-06-22,Online,Net Banking,Delivered
+2962,752,17,2025-08-06,Online,Cash on Delivery,Delivered
+2963,752,12,2025-08-30,In-Store,Credit Card,Delivered
+2964,752,3,2025-10-15,In-Store,Cash on Delivery,Delivered
+2965,752,17,2025-10-18,Online,Credit Card,Delivered
+2966,752,17,2025-12-02,Online,UPI,Delivered
+2967,752,17,2025-12-09,Online,Credit Card,Delivered
+2968,752,7,2025-12-28,In-Store,Cash on Delivery,Returned
+2969,753,17,2024-04-11,Online,Cash on Delivery,Cancelled
+2970,753,6,2024-05-30,In-Store,Cash on Delivery,Delivered
+2971,753,17,2024-10-02,Online,Net Banking,Delivered
+2972,753,17,2024-10-19,Online,UPI,Delivered
+2973,753,17,2024-12-27,Online,UPI,Delivered
+2974,753,17,2025-07-10,Online,Cash on Delivery,Delivered
+2975,754,17,2024-10-29,Online,Cash on Delivery,Returned
+2976,754,17,2025-03-28,Online,UPI,Cancelled
+2977,754,17,2025-10-05,Online,Cash on Delivery,Delivered
+2978,756,17,2024-07-30,Online,UPI,Delivered
+2979,756,17,2024-09-10,Online,UPI,Returned
+2980,756,9,2024-10-10,In-Store,Debit Card,Delivered
+2981,756,2,2024-10-10,In-Store,UPI,Returned
+2982,757,17,2024-11-04,Online,Debit Card,Delivered
+2983,757,17,2024-12-02,Online,Debit Card,Delivered
+2984,757,17,2025-02-06,Online,Cash on Delivery,Returned
+2985,757,17,2025-10-12,Online,Net Banking,Delivered
+2986,758,17,2024-10-06,Online,Credit Card,Delivered
+2987,758,8,2025-06-01,In-Store,Debit Card,Returned
+2988,759,17,2025-07-16,Online,Cash on Delivery,Delivered
+2989,759,17,2025-07-28,Online,Cash on Delivery,Cancelled
+2990,759,17,2025-08-18,Online,Net Banking,Returned
+2991,759,9,2025-12-25,In-Store,UPI,Cancelled
+2992,760,17,2024-07-11,Online,UPI,Delivered
+2993,760,17,2024-07-18,Online,Net Banking,Cancelled
+2994,760,17,2024-12-02,Online,Net Banking,Delivered
+2995,760,17,2024-12-09,Online,Credit Card,Delivered
+2996,760,17,2025-04-29,Online,UPI,Delivered
+2997,760,6,2025-09-11,In-Store,Cash on Delivery,Delivered
+2998,761,17,2025-11-18,Online,Debit Card,Delivered
+2999,762,13,2025-08-02,In-Store,UPI,Returned
+3000,764,17,2025-09-12,Online,Net Banking,Delivered
+3001,764,13,2025-10-05,In-Store,UPI,Delivered
+3002,764,1,2025-10-18,In-Store,Credit Card,Delivered
+3003,764,17,2025-11-16,Online,Credit Card,Delivered
+3004,767,17,2024-07-18,Online,Debit Card,Delivered
+3005,767,17,2024-11-15,Online,Cash on Delivery,Returned
+3006,767,17,2025-10-15,Online,Credit Card,Delivered
+3007,767,17,2025-11-03,Online,Debit Card,Cancelled
+3008,768,17,2024-08-25,Online,Net Banking,Delivered
+3009,768,15,2024-09-28,In-Store,UPI,Cancelled
+3010,768,17,2024-10-09,Online,UPI,Delivered
+3011,768,17,2024-11-11,Online,Debit Card,Delivered
+3012,768,17,2024-12-08,Online,Credit Card,Delivered
+3013,768,4,2025-05-01,In-Store,Debit Card,Delivered
+3014,768,17,2025-11-20,Online,Net Banking,Cancelled
+3015,768,17,2025-12-24,Online,Credit Card,Delivered
+3016,769,17,2025-06-01,Online,Debit Card,Delivered
+3017,770,17,2024-02-10,Online,Net Banking,Returned
+3018,770,17,2024-02-19,Online,Credit Card,Returned
+3019,770,17,2024-06-30,Online,UPI,Delivered
+3020,770,17,2024-10-13,Online,Debit Card,Delivered
+3021,770,17,2025-04-18,Online,Credit Card,Delivered
+3022,770,17,2025-07-26,Online,Credit Card,Delivered
+3023,770,17,2025-10-07,Online,Net Banking,Delivered
+3024,770,17,2025-11-03,Online,UPI,Delivered
+3025,771,17,2025-01-29,Online,Debit Card,Returned
+3026,771,17,2025-09-21,Online,Debit Card,Delivered
+3027,771,9,2025-11-22,In-Store,Debit Card,Delivered
+3028,772,3,2024-10-25,In-Store,Credit Card,Cancelled
+3029,772,5,2024-11-18,In-Store,UPI,Cancelled
+3030,772,17,2024-12-20,Online,Net Banking,Delivered
+3031,772,16,2025-09-02,In-Store,Credit Card,Cancelled
+3032,772,17,2025-09-26,Online,Debit Card,Delivered
+3033,773,17,2024-09-22,Online,UPI,Delivered
+3034,774,17,2025-07-04,Online,Net Banking,Delivered
+3035,774,17,2025-08-30,Online,Cash on Delivery,Delivered
+3036,774,11,2025-12-06,In-Store,UPI,Delivered
+3037,775,17,2024-06-13,Online,Cash on Delivery,Delivered
+3038,775,17,2024-10-20,Online,Cash on Delivery,Delivered
+3039,775,13,2024-11-12,In-Store,Cash on Delivery,Delivered
+3040,775,17,2024-11-15,Online,UPI,Cancelled
+3041,775,17,2025-07-07,Online,Debit Card,Delivered
+3042,775,17,2025-09-09,Online,Credit Card,Cancelled
+3043,776,17,2024-07-27,Online,Credit Card,Delivered
+3044,776,17,2025-05-29,Online,Debit Card,Delivered
+3045,777,17,2025-10-23,Online,Cash on Delivery,Delivered
+3046,778,17,2025-07-17,Online,UPI,Cancelled
+3047,778,17,2025-11-10,Online,Credit Card,Delivered
+3048,778,5,2025-11-14,In-Store,Credit Card,Delivered
+3049,778,17,2025-11-15,Online,Debit Card,Delivered
+3050,778,17,2025-12-21,Online,Cash on Delivery,Delivered
+3051,778,17,2025-12-27,Online,Cash on Delivery,Cancelled
+3052,779,17,2024-04-09,Online,UPI,Delivered
+3053,779,17,2024-09-25,Online,Credit Card,Delivered
+3054,779,17,2025-07-15,Online,Net Banking,Cancelled
+3055,779,17,2025-10-18,Online,Net Banking,Delivered
+3056,780,17,2025-08-07,Online,Debit Card,Delivered
+3057,780,17,2025-08-23,Online,Debit Card,Returned
+3058,780,17,2025-09-04,Online,Credit Card,Returned
+3059,780,17,2025-09-20,Online,Credit Card,Delivered
+3060,780,2,2025-09-26,In-Store,UPI,Delivered
+3061,780,17,2025-10-29,Online,Net Banking,Delivered
+3062,780,15,2025-11-22,In-Store,Debit Card,Delivered
+3063,780,10,2025-12-31,In-Store,UPI,Returned
+3064,781,9,2024-02-05,In-Store,Cash on Delivery,Delivered
+3065,781,5,2024-02-22,In-Store,UPI,Returned
+3066,781,17,2024-12-05,Online,UPI,Delivered
+3067,781,17,2025-04-26,Online,Cash on Delivery,Cancelled
+3068,781,17,2025-06-08,Online,Net Banking,Delivered
+3069,781,17,2025-12-14,Online,Net Banking,Returned
+3070,782,17,2025-01-14,Online,Debit Card,Cancelled
+3071,782,17,2025-10-18,Online,Debit Card,Delivered
+3072,782,17,2025-11-10,Online,Debit Card,Delivered
+3073,783,17,2024-08-11,Online,UPI,Delivered
+3074,783,17,2025-09-17,Online,UPI,Delivered
+3075,785,17,2024-05-24,Online,Credit Card,Delivered
+3076,785,17,2025-01-09,Online,Cash on Delivery,Delivered
+3077,786,17,2024-01-09,Online,Net Banking,Cancelled
+3078,786,17,2024-02-18,Online,Credit Card,Delivered
+3079,786,1,2024-03-24,In-Store,Debit Card,Delivered
+3080,786,7,2024-05-19,In-Store,Cash on Delivery,Delivered
+3081,786,5,2024-06-14,In-Store,Credit Card,Returned
+3082,786,17,2024-11-02,Online,Cash on Delivery,Returned
+3083,786,17,2024-11-10,Online,UPI,Cancelled
+3084,786,17,2024-12-26,Online,Net Banking,Cancelled
+3085,786,17,2025-01-18,Online,Credit Card,Cancelled
+3086,786,17,2025-01-25,Online,Net Banking,Delivered
+3087,786,17,2025-02-07,Online,Credit Card,Returned
+3088,786,8,2025-02-17,In-Store,UPI,Delivered
+3089,786,6,2025-03-08,In-Store,Debit Card,Delivered
+3090,786,17,2025-03-22,Online,Debit Card,Delivered
+3091,786,17,2025-06-17,Online,Net Banking,Delivered
+3092,786,17,2025-10-24,Online,Net Banking,Returned
+3093,786,17,2025-10-28,Online,Cash on Delivery,Delivered
+3094,788,17,2024-12-16,Online,Credit Card,Delivered
+3095,790,10,2024-05-04,In-Store,Credit Card,Delivered
+3096,790,17,2024-07-01,Online,Debit Card,Delivered
+3097,790,17,2024-07-29,Online,UPI,Delivered
+3098,790,17,2024-10-24,Online,Debit Card,Delivered
+3099,790,17,2024-10-31,Online,UPI,Delivered
+3100,790,17,2025-04-13,Online,Debit Card,Delivered
+3101,790,9,2025-05-10,In-Store,Cash on Delivery,Cancelled
+3102,790,17,2025-07-01,Online,Credit Card,Delivered
+3103,790,16,2025-07-21,In-Store,Debit Card,Delivered
+3104,790,13,2025-08-28,In-Store,UPI,Delivered
+3105,791,17,2024-02-22,Online,Cash on Delivery,Cancelled
+3106,791,12,2024-11-22,In-Store,Cash on Delivery,Delivered
+3107,791,17,2025-11-19,Online,Credit Card,Delivered
+3108,793,17,2024-12-13,Online,Credit Card,Delivered
+3109,794,10,2024-02-07,In-Store,UPI,Delivered
+3110,794,17,2024-10-10,Online,Credit Card,Cancelled
+3111,794,17,2024-12-10,Online,Net Banking,Cancelled
+3112,794,17,2025-07-05,Online,Net Banking,Delivered
+3113,795,17,2025-02-04,Online,Net Banking,Cancelled
+3114,795,17,2025-02-15,Online,Credit Card,Delivered
+3115,795,13,2025-12-23,In-Store,Cash on Delivery,Cancelled
+3116,796,17,2024-10-28,Online,Debit Card,Delivered
+3117,796,17,2024-12-20,Online,Net Banking,Delivered
+3118,796,17,2025-10-29,Online,Net Banking,Returned
+3119,796,17,2025-11-09,Online,Credit Card,Delivered
+3120,797,17,2024-01-02,Online,UPI,Delivered
+3121,797,17,2024-03-17,Online,Cash on Delivery,Delivered
+3122,797,17,2024-03-29,Online,Net Banking,Delivered
+3123,797,17,2024-05-09,Online,Debit Card,Cancelled
+3124,797,16,2024-05-12,In-Store,Credit Card,Delivered
+3125,797,17,2024-05-23,Online,Net Banking,Delivered
+3126,797,17,2024-08-03,Online,UPI,Returned
+3127,797,17,2024-08-30,Online,Debit Card,Delivered
+3128,797,17,2024-10-30,Online,Net Banking,Delivered
+3129,797,7,2025-02-20,In-Store,Debit Card,Returned
+3130,797,17,2025-03-29,Online,Credit Card,Delivered
+3131,797,14,2025-04-23,In-Store,Debit Card,Delivered
+3132,797,17,2025-05-14,Online,Net Banking,Delivered
+3133,797,17,2025-08-31,Online,UPI,Delivered
+3134,797,14,2025-08-31,In-Store,Cash on Delivery,Delivered
+3135,797,7,2025-10-12,In-Store,UPI,Delivered
+3136,798,17,2024-01-09,Online,Debit Card,Cancelled
+3137,798,17,2025-07-12,Online,UPI,Delivered
+3138,799,4,2024-11-15,In-Store,Cash on Delivery,Cancelled
+3139,799,17,2025-02-11,Online,Credit Card,Returned
+3140,799,5,2025-04-18,In-Store,Cash on Delivery,Returned
+3141,799,17,2025-09-06,Online,Credit Card,Delivered
+3142,799,17,2025-10-01,Online,UPI,Returned
+3143,799,17,2025-10-19,Online,UPI,Delivered
+3144,800,17,2025-06-09,Online,UPI,Delivered
+3145,800,1,2025-07-06,In-Store,Debit Card,Delivered
+3146,800,17,2025-07-17,Online,Cash on Delivery,Delivered
+3147,800,4,2025-07-27,In-Store,Cash on Delivery,Returned
+3148,800,17,2025-07-31,Online,Net Banking,Delivered
+3149,800,17,2025-10-12,Online,Cash on Delivery,Delivered
+3150,800,17,2025-10-15,Online,Debit Card,Cancelled
+3151,800,17,2025-10-25,Online,Net Banking,Delivered
+3152,800,17,2025-10-26,Online,Cash on Delivery,Delivered
+3153,800,17,2025-10-27,Online,Net Banking,Delivered
+3154,800,17,2025-10-29,Online,Net Banking,Cancelled
+3155,800,17,2025-10-30,Online,Cash on Delivery,Returned
+3156,800,4,2025-11-01,In-Store,Credit Card,Delivered
+3157,800,17,2025-11-07,Online,Cash on Delivery,Delivered
+3158,800,4,2025-12-01,In-Store,Credit Card,Delivered
+3159,800,17,2025-12-08,Online,Cash on Delivery,Delivered
+3160,800,10,2025-12-27,In-Store,Cash on Delivery,Cancelled
+3161,801,17,2024-03-15,Online,Cash on Delivery,Delivered
+3162,801,17,2024-11-14,Online,Net Banking,Delivered
+3163,801,12,2025-05-25,In-Store,Cash on Delivery,Cancelled
+3164,801,17,2025-11-16,Online,Net Banking,Cancelled
+3165,803,10,2024-11-09,In-Store,Debit Card,Delivered
+3166,803,17,2025-07-12,Online,Net Banking,Cancelled
+3167,804,17,2024-04-06,Online,Credit Card,Delivered
+3168,804,17,2024-10-23,Online,Debit Card,Delivered
+3169,804,11,2024-10-30,In-Store,UPI,Delivered
+3170,804,14,2025-01-04,In-Store,Cash on Delivery,Delivered
+3171,804,17,2025-04-04,Online,Net Banking,Returned
+3172,804,14,2025-08-29,In-Store,Cash on Delivery,Delivered
+3173,804,6,2025-11-07,In-Store,Debit Card,Delivered
+3174,804,17,2025-11-09,Online,UPI,Delivered
+3175,806,4,2024-09-23,In-Store,Cash on Delivery,Returned
+3176,806,9,2024-11-21,In-Store,UPI,Cancelled
+3177,806,7,2024-12-06,In-Store,Credit Card,Delivered
+3178,806,17,2025-02-08,Online,Cash on Delivery,Delivered
+3179,806,17,2025-05-17,Online,Cash on Delivery,Delivered
+3180,806,3,2025-08-12,In-Store,Cash on Delivery,Delivered
+3181,806,17,2025-10-26,Online,UPI,Returned
+3182,806,12,2025-11-29,In-Store,UPI,Delivered
+3183,807,10,2025-04-13,In-Store,UPI,Delivered
+3184,807,13,2025-04-29,In-Store,Debit Card,Cancelled
+3185,807,17,2025-05-03,Online,Credit Card,Delivered
+3186,807,1,2025-05-08,In-Store,Credit Card,Returned
+3187,807,17,2025-05-16,Online,Credit Card,Delivered
+3188,807,17,2025-07-01,Online,Debit Card,Delivered
+3189,807,3,2025-07-18,In-Store,Cash on Delivery,Delivered
+3190,807,7,2025-07-22,In-Store,Credit Card,Delivered
+3191,807,17,2025-09-03,Online,Net Banking,Delivered
+3192,807,17,2025-09-06,Online,Credit Card,Returned
+3193,807,17,2025-10-11,Online,Net Banking,Delivered
+3194,807,15,2025-10-31,In-Store,UPI,Cancelled
+3195,807,17,2025-11-27,Online,UPI,Delivered
+3196,807,17,2025-12-04,Online,Cash on Delivery,Returned
+3197,807,4,2025-12-09,In-Store,Debit Card,Delivered
+3198,807,17,2025-12-22,Online,Cash on Delivery,Delivered
+3199,807,17,2025-12-26,Online,Cash on Delivery,Delivered
+3200,807,4,2025-12-27,In-Store,Credit Card,Delivered
+3201,808,17,2024-04-06,Online,UPI,Delivered
+3202,808,17,2024-06-25,Online,Credit Card,Delivered
+3203,808,1,2024-08-07,In-Store,UPI,Delivered
+3204,808,17,2024-09-07,Online,UPI,Returned
+3205,808,17,2024-09-12,Online,UPI,Delivered
+3206,808,12,2024-09-26,In-Store,Debit Card,Returned
+3207,808,17,2024-10-22,Online,Net Banking,Cancelled
+3208,808,17,2024-11-15,Online,UPI,Delivered
+3209,808,17,2024-11-29,Online,Debit Card,Delivered
+3210,808,4,2025-03-10,In-Store,Debit Card,Delivered
+3211,808,17,2025-04-23,Online,Net Banking,Delivered
+3212,808,17,2025-06-07,Online,Net Banking,Delivered
+3213,808,17,2025-07-16,Online,Debit Card,Delivered
+3214,808,17,2025-07-25,Online,Net Banking,Delivered
+3215,808,17,2025-11-02,Online,Debit Card,Delivered
+3216,808,17,2025-11-11,Online,Credit Card,Returned
+3217,809,17,2024-09-20,Online,Cash on Delivery,Delivered
+3218,809,17,2024-10-17,Online,Debit Card,Delivered
+3219,809,17,2025-07-18,Online,Cash on Delivery,Returned
+3220,810,17,2025-07-23,Online,UPI,Delivered
+3221,810,14,2025-11-08,In-Store,UPI,Cancelled
+3222,811,17,2024-11-15,Online,Debit Card,Delivered
+3223,811,17,2024-11-19,Online,Debit Card,Cancelled
+3224,811,17,2024-12-10,Online,Credit Card,Delivered
+3225,811,17,2024-12-16,Online,Net Banking,Delivered
+3226,811,17,2025-01-20,Online,UPI,Delivered
+3227,811,17,2025-03-26,Online,Debit Card,Delivered
+3228,811,17,2025-09-07,Online,UPI,Delivered
+3229,811,17,2025-10-25,Online,Cash on Delivery,Delivered
+3230,811,3,2025-11-08,In-Store,Cash on Delivery,Delivered
+3231,811,17,2025-11-10,Online,Debit Card,Delivered
+3232,811,7,2025-11-13,In-Store,Credit Card,Delivered
+3233,811,16,2025-11-24,In-Store,Debit Card,Delivered
+3234,811,17,2025-12-31,Online,Net Banking,Delivered
+3235,812,17,2024-12-24,Online,Net Banking,Delivered
+3236,812,17,2025-03-24,Online,Debit Card,Delivered
+3237,812,17,2025-07-06,Online,Cash on Delivery,Cancelled
+3238,812,15,2025-12-24,In-Store,UPI,Delivered
+3239,813,17,2024-11-20,Online,Cash on Delivery,Delivered
+3240,813,17,2025-09-05,Online,Credit Card,Returned
+3241,813,17,2025-11-02,Online,Net Banking,Delivered
+3242,814,17,2024-01-10,Online,Debit Card,Delivered
+3243,814,17,2024-02-09,Online,Debit Card,Delivered
+3244,814,17,2024-02-19,Online,Net Banking,Delivered
+3245,814,17,2024-04-16,Online,Net Banking,Delivered
+3246,814,4,2024-07-02,In-Store,Debit Card,Cancelled
+3247,814,4,2024-10-19,In-Store,UPI,Delivered
+3248,814,17,2024-12-12,Online,UPI,Delivered
+3249,814,17,2024-12-19,Online,Net Banking,Delivered
+3250,814,17,2025-05-15,Online,UPI,Delivered
+3251,814,12,2025-05-30,In-Store,Credit Card,Cancelled
+3252,814,2,2025-06-10,In-Store,Credit Card,Delivered
+3253,814,17,2025-07-30,Online,Credit Card,Delivered
+3254,814,17,2025-08-28,Online,Cash on Delivery,Returned
+3255,814,13,2025-09-28,In-Store,UPI,Delivered
+3256,814,15,2025-10-30,In-Store,UPI,Delivered
+3257,814,17,2025-11-02,Online,Cash on Delivery,Delivered
+3258,814,14,2025-11-17,In-Store,Cash on Delivery,Returned
+3259,814,17,2025-11-27,Online,Cash on Delivery,Delivered
+3260,814,17,2025-12-11,Online,Net Banking,Delivered
+3261,815,17,2024-05-11,Online,Net Banking,Returned
+3262,815,17,2025-05-19,Online,Debit Card,Delivered
+3263,815,17,2025-09-24,Online,Cash on Delivery,Delivered
+3264,815,8,2025-10-25,In-Store,UPI,Returned
+3265,815,17,2025-12-07,Online,Net Banking,Delivered
+3266,817,17,2025-08-07,Online,Net Banking,Delivered
+3267,818,17,2025-08-14,Online,Debit Card,Delivered
+3268,818,17,2025-10-08,Online,Cash on Delivery,Delivered
+3269,818,17,2025-11-20,Online,Debit Card,Delivered
+3270,819,17,2025-07-12,Online,Cash on Delivery,Cancelled
+3271,819,17,2025-11-30,Online,UPI,Delivered
+3272,819,13,2025-12-08,In-Store,UPI,Delivered
+3273,820,17,2025-02-08,Online,Net Banking,Delivered
+3274,820,17,2025-07-29,Online,Cash on Delivery,Delivered
+3275,820,17,2025-08-16,Online,Net Banking,Delivered
+3276,821,8,2024-07-17,In-Store,Cash on Delivery,Delivered
+3277,821,17,2025-03-28,Online,Net Banking,Delivered
+3278,821,17,2025-08-09,Online,Debit Card,Delivered
+3279,822,17,2025-07-25,Online,Credit Card,Delivered
+3280,822,17,2025-08-17,Online,UPI,Delivered
+3281,823,17,2025-07-01,Online,Debit Card,Delivered
+3282,823,17,2025-10-22,Online,Debit Card,Delivered
+3283,823,17,2025-11-06,Online,Net Banking,Returned
+3284,824,17,2024-10-15,Online,Net Banking,Delivered
+3285,824,17,2025-03-09,Online,Cash on Delivery,Delivered
+3286,824,17,2025-04-30,Online,Net Banking,Delivered
+3287,826,17,2024-03-07,Online,Credit Card,Delivered
+3288,826,17,2024-05-27,Online,Credit Card,Delivered
+3289,826,17,2024-07-01,Online,Credit Card,Delivered
+3290,826,17,2024-08-10,Online,UPI,Delivered
+3291,826,13,2024-10-01,In-Store,Cash on Delivery,Delivered
+3292,826,17,2024-10-05,Online,Debit Card,Returned
+3293,826,17,2024-11-05,Online,UPI,Delivered
+3294,826,17,2024-11-06,Online,Cash on Delivery,Delivered
+3295,826,17,2025-03-23,Online,Credit Card,Delivered
+3296,826,17,2025-04-10,Online,Cash on Delivery,Returned
+3297,826,17,2025-04-12,Online,UPI,Delivered
+3298,826,17,2025-07-29,Online,Credit Card,Returned
+3299,826,17,2025-08-27,Online,Net Banking,Delivered
+3300,826,17,2025-09-24,Online,Net Banking,Delivered
+3301,826,17,2025-10-05,Online,UPI,Delivered
+3302,826,3,2025-10-26,In-Store,Credit Card,Delivered
+3303,826,17,2025-11-09,Online,Cash on Delivery,Delivered
+3304,826,17,2025-12-28,Online,UPI,Cancelled
+3305,827,17,2025-05-10,Online,Credit Card,Cancelled
+3306,827,17,2025-11-12,Online,UPI,Delivered
+3307,827,17,2025-12-31,Online,UPI,Delivered
+3308,829,17,2024-12-04,Online,Debit Card,Returned
+3309,829,17,2025-07-03,Online,Debit Card,Returned
+3310,829,9,2025-10-27,In-Store,Cash on Delivery,Returned
+3311,830,17,2025-06-02,Online,Debit Card,Delivered
+3312,830,17,2025-07-12,Online,Cash on Delivery,Delivered
+3313,831,17,2025-06-11,Online,Cash on Delivery,Returned
+3314,831,1,2025-08-20,In-Store,Cash on Delivery,Delivered
+3315,831,5,2025-12-24,In-Store,Cash on Delivery,Delivered
+3316,833,17,2024-07-11,Online,Net Banking,Returned
+3317,834,17,2024-03-18,Online,UPI,Delivered
+3318,834,13,2024-10-20,In-Store,Credit Card,Returned
+3319,835,15,2024-12-21,In-Store,UPI,Delivered
+3320,835,17,2025-11-26,Online,Debit Card,Returned
+3321,836,17,2024-11-26,Online,Debit Card,Delivered
+3322,836,17,2024-12-15,Online,Cash on Delivery,Delivered
+3323,837,17,2024-01-26,Online,Cash on Delivery,Cancelled
+3324,837,17,2024-04-18,Online,Net Banking,Cancelled
+3325,837,17,2024-05-30,Online,Debit Card,Cancelled
+3326,837,17,2024-07-20,Online,Net Banking,Delivered
+3327,837,5,2024-09-14,In-Store,UPI,Delivered
+3328,837,17,2024-10-02,Online,Cash on Delivery,Delivered
+3329,837,17,2024-11-16,Online,Debit Card,Delivered
+3330,837,17,2024-11-18,Online,Debit Card,Delivered
+3331,837,17,2025-01-18,Online,UPI,Delivered
+3332,837,17,2025-04-21,Online,Credit Card,Delivered
+3333,837,17,2025-05-26,Online,Credit Card,Delivered
+3334,837,17,2025-05-29,Online,Credit Card,Returned
+3335,837,17,2025-11-06,Online,Debit Card,Delivered
+3336,837,5,2025-12-01,In-Store,Debit Card,Delivered
+3337,837,17,2025-12-04,Online,UPI,Returned
+3338,837,17,2025-12-20,Online,Debit Card,Delivered
+3339,838,17,2024-05-16,Online,UPI,Delivered
+3340,839,17,2024-07-18,Online,Debit Card,Delivered
+3341,839,10,2025-05-09,In-Store,Cash on Delivery,Delivered
+3342,839,17,2025-12-02,Online,Cash on Delivery,Delivered
+3343,840,17,2024-11-03,Online,Debit Card,Delivered
+3344,840,17,2024-12-20,Online,UPI,Delivered
+3345,840,17,2025-05-22,Online,Debit Card,Delivered
+3346,840,17,2025-10-08,Online,Net Banking,Returned
+3347,841,17,2024-10-13,Online,Net Banking,Cancelled
+3348,842,17,2024-06-09,Online,Debit Card,Delivered
+3349,842,17,2024-10-19,Online,Debit Card,Returned
+3350,842,17,2025-04-23,Online,Net Banking,Delivered
+3351,843,15,2024-12-19,In-Store,Credit Card,Delivered
+3352,843,14,2025-06-28,In-Store,UPI,Delivered
+3353,843,17,2025-11-01,Online,UPI,Delivered
+3354,844,17,2024-05-17,Online,Cash on Delivery,Delivered
+3355,844,17,2024-07-20,Online,Debit Card,Delivered
+3356,844,17,2024-07-24,Online,Net Banking,Cancelled
+3357,844,17,2024-07-29,Online,Credit Card,Returned
+3358,844,17,2024-08-11,Online,Cash on Delivery,Cancelled
+3359,844,17,2024-10-22,Online,Credit Card,Delivered
+3360,844,17,2024-11-17,Online,Credit Card,Cancelled
+3361,844,17,2024-11-17,Online,Debit Card,Delivered
+3362,844,17,2024-11-28,Online,Debit Card,Returned
+3363,844,4,2024-11-29,In-Store,Credit Card,Returned
+3364,844,17,2024-12-01,Online,UPI,Delivered
+3365,844,17,2024-12-25,Online,UPI,Delivered
+3366,844,17,2025-03-07,Online,UPI,Returned
+3367,844,17,2025-07-08,Online,Credit Card,Delivered
+3368,844,7,2025-07-09,In-Store,Credit Card,Delivered
+3369,844,17,2025-09-19,Online,Credit Card,Delivered
+3370,844,17,2025-12-22,Online,UPI,Delivered
+3371,846,17,2025-07-12,Online,Net Banking,Delivered
+3372,846,17,2025-08-16,Online,Debit Card,Delivered
+3373,846,17,2025-11-30,Online,UPI,Delivered
+3374,847,15,2025-09-15,In-Store,Credit Card,Cancelled
+3375,847,17,2025-11-27,Online,Credit Card,Returned
+3376,848,17,2024-02-13,Online,UPI,Returned
+3377,848,17,2024-08-30,Online,Cash on Delivery,Returned
+3378,848,17,2024-10-02,Online,Debit Card,Delivered
+3379,848,17,2024-10-04,Online,Cash on Delivery,Delivered
+3380,848,17,2025-03-06,Online,Debit Card,Returned
+3381,848,17,2025-03-20,Online,Credit Card,Returned
+3382,848,17,2025-05-26,Online,Net Banking,Cancelled
+3383,848,17,2025-10-24,Online,Net Banking,Delivered
+3384,848,17,2025-10-24,Online,Credit Card,Delivered
+3385,848,17,2025-12-21,Online,Cash on Delivery,Delivered
+3386,849,17,2024-04-19,Online,UPI,Delivered
+3387,849,17,2025-08-14,Online,Net Banking,Returned
+3388,849,17,2025-08-30,Online,Debit Card,Delivered
+3389,850,17,2025-11-02,Online,Cash on Delivery,Returned
+3390,851,17,2024-12-14,Online,UPI,Delivered
+3391,851,17,2025-01-27,Online,Cash on Delivery,Returned
+3392,851,17,2025-12-28,Online,UPI,Returned
+3393,852,10,2025-11-11,In-Store,Credit Card,Delivered
+3394,852,16,2025-12-19,In-Store,Cash on Delivery,Delivered
+3395,852,17,2025-12-24,Online,Cash on Delivery,Delivered
+3396,852,17,2025-12-25,Online,Cash on Delivery,Delivered
+3397,852,17,2025-12-28,Online,Debit Card,Returned
+3398,853,17,2024-06-04,Online,Net Banking,Cancelled
+3399,853,17,2025-12-02,Online,UPI,Delivered
+3400,854,17,2024-02-07,Online,Net Banking,Delivered
+3401,854,16,2025-09-12,In-Store,UPI,Delivered
+3402,854,8,2025-11-23,In-Store,UPI,Delivered
+3403,854,13,2025-11-29,In-Store,Cash on Delivery,Cancelled
+3404,857,17,2024-08-24,Online,Credit Card,Cancelled
+3405,857,17,2025-10-13,Online,Cash on Delivery,Delivered
+3406,859,17,2025-03-29,Online,Net Banking,Returned
+3407,860,17,2024-11-24,Online,Cash on Delivery,Returned
+3408,860,17,2024-12-09,Online,Debit Card,Delivered
+3409,860,17,2025-07-24,Online,Debit Card,Returned
+3410,861,17,2024-07-21,Online,Net Banking,Delivered
+3411,861,7,2024-07-28,In-Store,Credit Card,Delivered
+3412,861,17,2025-11-02,Online,Credit Card,Returned
+3413,861,17,2025-12-09,Online,UPI,Cancelled
+3414,863,3,2024-04-19,In-Store,UPI,Delivered
+3415,863,17,2024-07-20,Online,Cash on Delivery,Returned
+3416,864,17,2024-12-19,Online,Cash on Delivery,Delivered
+3417,864,12,2025-01-11,In-Store,UPI,Delivered
+3418,864,15,2025-12-18,In-Store,Cash on Delivery,Delivered
+3419,867,10,2025-04-17,In-Store,Credit Card,Delivered
+3420,868,17,2025-11-19,Online,Cash on Delivery,Delivered
+3421,868,17,2025-12-03,Online,Debit Card,Delivered
+3422,868,9,2025-12-04,In-Store,Debit Card,Delivered
+3423,869,6,2024-06-06,In-Store,Credit Card,Delivered
+3424,869,17,2025-02-03,Online,Cash on Delivery,Delivered
+3425,869,10,2025-08-29,In-Store,Credit Card,Delivered
+3426,870,17,2024-01-13,Online,Cash on Delivery,Delivered
+3427,870,17,2024-03-07,Online,Credit Card,Delivered
+3428,870,17,2024-05-04,Online,Debit Card,Delivered
+3429,870,17,2024-07-16,Online,Credit Card,Cancelled
+3430,870,17,2024-07-23,Online,Debit Card,Delivered
+3431,870,2,2024-07-26,In-Store,Cash on Delivery,Delivered
+3432,870,17,2024-10-26,Online,Cash on Delivery,Delivered
+3433,870,17,2024-11-07,Online,Credit Card,Cancelled
+3434,870,17,2025-06-23,Online,Net Banking,Delivered
+3435,870,17,2025-07-13,Online,Credit Card,Delivered
+3436,870,16,2025-10-07,In-Store,Debit Card,Delivered
+3437,870,4,2025-10-17,In-Store,Cash on Delivery,Delivered
+3438,870,17,2025-10-29,Online,Debit Card,Returned
+3439,870,17,2025-11-30,Online,UPI,Delivered
+3440,870,17,2025-12-19,Online,Credit Card,Delivered
+3441,870,7,2025-12-21,In-Store,Cash on Delivery,Delivered
+3442,872,17,2024-01-23,Online,Net Banking,Cancelled
+3443,872,17,2024-02-06,Online,Net Banking,Delivered
+3444,872,17,2025-08-22,Online,Net Banking,Delivered
+3445,873,12,2024-04-20,In-Store,UPI,Delivered
+3446,873,17,2024-09-02,Online,UPI,Delivered
+3447,873,17,2025-09-28,Online,Credit Card,Delivered
+3448,874,17,2025-10-31,Online,Cash on Delivery,Cancelled
+3449,877,17,2024-01-14,Online,Credit Card,Delivered
+3450,877,17,2024-03-30,Online,UPI,Delivered
+3451,877,17,2024-11-04,Online,Debit Card,Delivered
+3452,877,17,2024-11-23,Online,Debit Card,Delivered
+3453,877,17,2025-10-18,Online,Net Banking,Delivered
+3454,877,17,2025-12-07,Online,Credit Card,Returned
+3455,877,17,2025-12-13,Online,UPI,Delivered
+3456,877,17,2025-12-27,Online,Debit Card,Returned
+3457,878,17,2024-08-27,Online,Debit Card,Delivered
+3458,878,10,2025-02-24,In-Store,UPI,Cancelled
+3459,878,17,2025-07-21,Online,Debit Card,Delivered
+3460,878,17,2025-07-23,Online,Credit Card,Delivered
+3461,880,16,2025-04-03,In-Store,Credit Card,Delivered
+3462,880,17,2025-10-17,Online,Cash on Delivery,Delivered
+3463,881,17,2025-05-23,Online,UPI,Delivered
+3464,882,17,2024-12-14,Online,UPI,Cancelled
+3465,882,17,2025-06-22,Online,Net Banking,Delivered
+3466,882,17,2025-08-21,Online,Credit Card,Delivered
+3467,884,9,2024-06-02,In-Store,Cash on Delivery,Delivered
+3468,884,17,2024-08-31,Online,Credit Card,Delivered
+3469,884,17,2025-11-30,Online,Net Banking,Delivered
+3470,885,17,2024-08-13,Online,Net Banking,Delivered
+3471,885,17,2025-01-23,Online,UPI,Delivered
+3472,885,17,2025-07-14,Online,Net Banking,Returned
+3473,885,17,2025-09-14,Online,Debit Card,Returned
+3474,885,17,2025-10-09,Online,Debit Card,Cancelled
+3475,885,11,2025-10-22,In-Store,Debit Card,Cancelled
+3476,886,11,2024-07-07,In-Store,Cash on Delivery,Returned
+3477,887,2,2024-05-26,In-Store,Credit Card,Cancelled
+3478,887,17,2024-10-22,Online,Debit Card,Returned
+3479,887,15,2024-11-09,In-Store,Debit Card,Delivered
+3480,887,17,2025-02-16,Online,Net Banking,Delivered
+3481,887,8,2025-08-23,In-Store,Credit Card,Delivered
+3482,887,17,2025-08-25,Online,Debit Card,Returned
+3483,889,10,2025-10-13,In-Store,Cash on Delivery,Delivered
+3484,891,17,2024-07-16,Online,Debit Card,Delivered
+3485,891,1,2024-09-09,In-Store,Debit Card,Delivered
+3486,891,17,2024-12-11,Online,Debit Card,Delivered
+3487,891,15,2025-06-08,In-Store,Credit Card,Delivered
+3488,891,17,2025-07-19,Online,Credit Card,Delivered
+3489,891,16,2025-08-17,In-Store,UPI,Returned
+3490,891,17,2025-11-05,Online,Credit Card,Delivered
+3491,892,11,2024-07-28,In-Store,Cash on Delivery,Delivered
+3492,892,17,2024-11-24,Online,Debit Card,Cancelled
+3493,892,17,2025-03-30,Online,UPI,Delivered
+3494,892,17,2025-07-05,Online,UPI,Delivered
+3495,892,2,2025-07-11,In-Store,Credit Card,Delivered
+3496,893,17,2024-01-25,Online,Cash on Delivery,Returned
+3497,893,11,2024-04-22,In-Store,UPI,Delivered
+3498,893,17,2024-05-11,Online,Debit Card,Returned
+3499,893,1,2024-06-20,In-Store,Debit Card,Returned
+3500,893,17,2024-07-19,Online,Cash on Delivery,Delivered
+3501,893,17,2025-03-31,Online,Credit Card,Delivered
+3502,893,17,2025-07-02,Online,Cash on Delivery,Delivered
+3503,893,17,2025-07-13,Online,Debit Card,Delivered
+3504,894,14,2025-08-27,In-Store,Cash on Delivery,Delivered
+3505,894,5,2025-10-28,In-Store,Debit Card,Delivered
+3506,895,11,2024-12-17,In-Store,Debit Card,Delivered
+3507,895,17,2025-06-08,Online,Cash on Delivery,Delivered
+3508,895,17,2025-07-05,Online,Credit Card,Delivered
+3509,895,17,2025-08-14,Online,Cash on Delivery,Delivered
+3510,895,17,2025-08-20,Online,UPI,Delivered
+3511,895,12,2025-09-30,In-Store,Cash on Delivery,Delivered
+3512,895,2,2025-10-11,In-Store,UPI,Returned
+3513,896,3,2024-10-17,In-Store,UPI,Delivered
+3514,896,17,2025-07-27,Online,Cash on Delivery,Delivered
+3515,896,4,2025-12-11,In-Store,Credit Card,Cancelled
+3516,897,17,2024-03-03,Online,Net Banking,Delivered
+3517,897,17,2024-06-03,Online,Cash on Delivery,Delivered
+3518,897,17,2024-12-15,Online,Debit Card,Delivered
+3519,898,12,2024-03-09,In-Store,Cash on Delivery,Delivered
+3520,898,17,2024-12-23,Online,UPI,Delivered
+3521,898,17,2025-02-04,Online,Debit Card,Delivered
+3522,898,17,2025-07-11,Online,Cash on Delivery,Delivered
+3523,900,17,2024-07-18,Online,UPI,Delivered
+3524,900,17,2024-11-20,Online,UPI,Delivered
